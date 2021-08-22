@@ -1,0 +1,40 @@
+Pisi Linux 2.1 YALI
+
+Dependencies
+------------
+
+panda
+pisilinux-desktop-services
+pisilinux-python-xorg
+pyparted
+pyqtermwidget5
+python-pyaspects
+python-pyblock
+python-qt5
+python-qt5-devel
+python-sip
+python-sip-devel
+python-udev
+qscintilla2
+qscintilla2-python
+qscintilla2-python-common
+qt5
+qt5-devel
+qt5-l10n
+qtermwidget
+qtermwidget-devel
+xdm
+yali
+yali-branding-pisilinux
+yali-theme-pisilinux
+zorg
+
+Yeni Eklenenler
+---------------
+efibootmgr
+squashfs-tools
+rsync
+
+
+
+? python-cairo  python-pygobject  python-pygobject-devel
