@@ -1,0 +1,2163 @@
+<!DOCTYPE QPH>
+<QPH language="it">
+<phrase>
+    <source>There appears to be more than one resizeable partition. You can select a partition from the list below or YALI will select one for you.</source>
+    <target>Pare ci sia più di una partizione ridimensionabile. Puoi selezionarne una dalla lista oppure lasciare che YALI ne selezioni una per te.</target>
+</phrase>
+<phrase>
+    <source>X</source>
+    <target>X</target>
+</phrase>
+<phrase>
+    <source>Automatically choose the partition to resize (recommended)</source>
+    <target>Scegli automaticamente la partizione da ridimensionare (consigliato)</target>
+</phrase>
+<phrase>
+    <source>I will choose the target</source>
+    <target>Sceglierò io il disco</target>
+</phrase>
+<phrase>
+    <source>Use Selected</source>
+    <target>Usa disco selezionato</target>
+</phrase>
+<phrase>
+    <source>Use All Disk</source>
+    <target>Utilizza Tutto lo Spazio</target>
+</phrase>
+<phrase>
+    <source>Shrink Current System</source>
+    <target>Ridimensiona il Sistema Attuale</target>
+</phrase>
+<phrase>
+    <source>Use Free Space</source>
+    <target>Utilizza Spazio Libero</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning</source>
+    <target>Partizionamento Manuale</target>
+</phrase>
+<phrase>
+    <source>Advanced settings</source>
+    <target>Impostazioni avanzate</target>
+</phrase>
+<phrase>
+    <source>Default settings</source>
+    <target>Impostazioni predefinite</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t install bootloader</source>
+    <target>Non installare il bootloader</target>
+</phrase>
+<phrase>
+    <source>The first sector of</source>
+    <target>Il primo settore di</target>
+</phrase>
+<phrase>
+    <source>You can validate the integrity of the installation packages. Although this is an optional step, we highly recommend to do the validation in order to avoid any possible errors during the installation process.</source>
+    <target>Puoi verificare l&apos;integrità dei pacchetti nel CD di installazione. Anche se questo passaggio è opzionale, noi ti incoraggiamo a farlo per evitare qualsiasi errore durante l&apos;installazione.</target>
+</phrase>
+<phrase>
+    <source>Validation failed</source>
+    <target>Verifica fallita</target>
+</phrase>
+<phrase>
+    <source>Validation succeeded</source>
+    <target>Verifica eseguita con successo</target>
+</phrase>
+<phrase>
+    <source>Validate</source>
+    <target>Verifica</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>To use PiSi History support, you may need to be online. You can use a connection profile from the list below:</source>
+    <target>Per usare lo storico delle operazioni effettuate da PiSi hai bisogno di una connessione Internet. Puoi scegliere un profilo per la connesione da questa lista:</target>
+</phrase>
+<phrase>
+    <source>Connect</source>
+    <target>Connetti</target>
+</phrase>
+<phrase>
+    <source>Standard Partition</source>
+    <target>Partizione standard</target>
+</phrase>
+<phrase>
+    <source>General purpose of partition creation</source>
+    <target>Obiettivo generale della creazione di partizione</target>
+</phrase>
+<phrase>
+    <source>Volume Group</source>
+    <target>Gruppo del Volume</target>
+</phrase>
+<phrase>
+    <source>Requires at least 1 free LVM formatted partition</source>
+    <target>Richiede almeno 1 partizione libera LVM formattata</target>
+</phrase>
+<phrase>
+    <source>Logical Volume</source>
+    <target>Volume Logico</target>
+</phrase>
+<phrase>
+    <source>Create Logical Volume on selected Volume Group</source>
+    <target>Crea Volume Logico nel Gruppo Volume selezionato</target>
+</phrase>
+<phrase>
+    <source>Physical Volume</source>
+    <target>Volume Fisico</target>
+</phrase>
+<phrase>
+    <source>Create LVM formatted partition</source>
+    <target>Crea partizione formattato LVM</target>
+</phrase>
+<phrase>
+    <source>Raid Member</source>
+    <target>Membro Raid</target>
+</phrase>
+<phrase>
+    <source>Create Raid formatted partition</source>
+    <target>Crea partizione formattato Raid</target>
+</phrase>
+<phrase>
+    <source>Raid Array</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Requires at least 2 free Raid formatted partition</source>
+    <target>Richiede almeno 2 partizioni libere Raid formattate</target>
+</phrase>
+<phrase>
+    <source>Date</source>
+    <target>Data</target>
+</phrase>
+<phrase>
+    <source>Time</source>
+    <target>Ora</target>
+</phrase>
+<phrase>
+    <source>Timezone</source>
+    <target>Fuso orario</target>
+</phrase>
+<phrase>
+    <source>Unhandled exception occured</source>
+    <target>Eccezione non gestita</target>
+</phrase>
+<phrase>
+    <source>Please fill a bug report at http://bugs.pisilinux.org.tr/ attaching the following backtrace.</source>
+    <target>Si prega di compilare un bug report a http://bugs.pisilinux.org.tr/ allegando la seguente traccia.</target>
+</phrase>
+<phrase>
+    <source>Reboot</source>
+    <target>Riavvia</target>
+</phrase>
+<phrase>
+    <source>Show Backtrace</source>
+    <target>Mostra Traccia</target>
+</phrase>
+<phrase>
+    <source>help content</source>
+    <target>contenuti di aiuto</target>
+</phrase>
+<phrase>
+    <source>Welcome to YALI (Yet Another Linux Installer), where you will have the opportunity to verify the installation medium, select your keyboard layout, choose your time-zone, create user accounts and prepare your disk - followed by a summary and final review before committing to the installation of Pisi Linux.
+Further information for each page of the installer may be viewed by clicking the question-mark icon at the top of its page. 
+YALI was designed with ease of use in mind and should not pose a problem to the novice Linux user. As with all such procedures though, any valuable data on your system should be backed-up before commencing.</source>
+    <target>Benvenuto in YALI (Yet Another Linux Installer), qui hai la possibilità di verificare il media di installazione, scegliere la disposizione della tua tastiera, scegliere il tuo fuso orario, creare profili utente e preparare il tuo disco rigido - seguita da un riassunto e revisione finale prima di avviare l&apos;installazione di Pisi Linux.
+Ulteriori informazioni su ogni passaggio dell&apos;installazione possono essere visualizzate cliccando sull&apos;icona punto interrogativo in alto della pagina.
+YALI è stato progettato per essere di facile utilizzo e per non essere difficile per un utente novizio. Si consiglia comunque di effettuare un back-up dei dati importanti prima di avviare l&apos;installazione.</target>
+</phrase>
+<phrase>
+    <source>Installing Package: </source>
+    <target>Installazione pacchetto: </target>
+</phrase>
+<phrase>
+    <source>Keyboard Layouts</source>
+    <target>Disposizioni della Tastiera</target>
+</phrase>
+<phrase>
+    <source>Test Layout</source>
+    <target>Prova la Disposizione</target>
+</phrase>
+<phrase>
+    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Before installing Pisi Linux on your computer, please read and accept the terms of free / open source licenses of the softwares included in this installation medium. &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;License texts&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <target>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Prima di installare Pisi Linux sul proprio computer, preghiamo di leggere e accettare i termini delle licenze free / open source dei software inclusi in questo supporto di installazione. &lt;a href=\&quot;#\&quot;&gt;&lt;span style=\&quot; text-decoration: underline; color:#56a2c0;\&quot;&gt;License texts&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</target>
+</phrase>
+<phrase>
+    <source>I understand and accept the terms</source>
+    <target>Capisco e accetto i termini</target>
+</phrase>
+<phrase>
+    <source>Logical Volume:</source>
+    <target>Volume Logico</target>
+</phrase>
+<phrase>
+    <source>Use :</source>
+    <target>Utilizzo:</target>
+</phrase>
+<phrase>
+    <source>Size :</source>
+    <target>Dimensione :</target>
+</phrase>
+<phrase>
+    <source> MB</source>
+    <target>MB</target>
+</phrase>
+<phrase>
+    <source>Resize</source>
+    <target>Ridimensiona</target>
+</phrase>
+<phrase>
+    <source>File System :</source>
+    <target>File system:</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Formattare?</target>
+</phrase>
+<phrase>
+    <source>Migrate</source>
+    <target>Migrare</target>
+</phrase>
+<phrase>
+    <source>Yali</source>
+    <target>Yali</target>
+</phrase>
+<phrase>
+    <source>Release Notes</source>
+    <target>Note di rilascio</target>
+</phrase>
+<phrase>
+    <source>Previous Screen</source>
+    <target>Schermata precedente</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>Indietro</target>
+</phrase>
+<phrase>
+    <source>Next Screen</source>
+    <target>Schermata successiva</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>Avanti</target>
+</phrase>
+<phrase>
+    <source>Device</source>
+    <target>Dispositivo</target>
+</phrase>
+<phrase>
+    <source>Mount Point</source>
+    <target>Punto di Montaggio</target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target>Etichetta</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Tipo</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Dimensione</target>
+</phrase>
+<phrase>
+    <source>Create</source>
+    <target>Crea</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>Cancella</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Reset</target>
+</phrase>
+<phrase>
+    <source>Format :</source>
+    <target>Formattare :</target>
+</phrase>
+<phrase>
+    <source>Yes, format this partition</source>
+    <target>Si, formatta questa partizione</target>
+</phrase>
+<phrase>
+    <source>Delete Partition</source>
+    <target>Elimina partizione</target>
+</phrase>
+<phrase>
+    <source>Resize Partition</source>
+    <target>Ridimensiona partizione</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied after Summary Screen.</source>
+    <target>Le modifiche saranno apportate dopo lo schermo di riepilogo.</target>
+</phrase>
+<phrase>
+    <source>Refresh Disks</source>
+    <target>Aggiorna </target>
+</phrase>
+<phrase>
+    <source>Reset All Changes</source>
+    <target>Annulla tutti i cambiamenti</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Applica </target>
+</phrase>
+<phrase>
+    <source>Force to be primary partition</source>
+    <target>Forza ad essere partizione primaria</target>
+</phrase>
+<phrase>
+    <source>Use:</source>
+    <target>Utilizzo:</target>
+</phrase>
+<phrase>
+    <source>Force to be a primary partition</source>
+    <target>Forza ad essere partizione primaria</target>
+</phrase>
+<phrase>
+    <source>Which partition would you like to shrink to make room for your installation?</source>
+    <target>Quale partizione vuoi ridurre per fare spazio per l&apos;installazione?</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB)</source>
+    <target>Ridurre dimensione della partizione a (in MB)</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB) :</source>
+    <target>Ridurre dimensione della partizione a (in MB) :</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Annulla</target>
+</phrase>
+<phrase>
+    <source>Shrink</source>
+    <target>Ridurre</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied when you click &quot;Resize&quot;. To cancel the changes, click &lt;b&gt;&quot;Cancel&quot;.
+&lt;br&gt;&lt;br&gt;
+Warning: A resizing operation may corrupt the partition, rendering the data on it unreachable. Make sure that you have backed up the data. Note that this operation cannot be undone.&lt;b&gt;</source>
+    <target>Le modifiche verranno applicate dopo aver fatto click sul pulsante &quot;Ridimensiona&quot;. 
+&lt;br&gt;&lt;br&gt;
+Per annullare i cambiamenti, fare click sul tasto &lt;b&gt;&quot;Cancel&quot;. Attenzione: l&apos; operazione di ridimensionamento può corrompere la partizione, rendendo i dati sul disco irraggiungibili. Assicurarsi di aver eseguito il backup dei dati. Si noti che questa operazione non può essere annullata. &lt;b&gt;</target>
+</phrase>
+<phrase>
+    <source>Raid Device:</source>
+    <target>Dispositivo Raid:</target>
+</phrase>
+<phrase>
+    <source>Filesystem:</source>
+    <target>File system:</target>
+</phrase>
+<phrase>
+    <source>Raid Level:</source>
+    <target>Livello Raid:</target>
+</phrase>
+<phrase>
+    <source>Raid Members:</source>
+    <target>Membri Raid:</target>
+</phrase>
+<phrase>
+    <source>Number of spares:</source>
+    <target>Numero di ricambi:</target>
+</phrase>
+<phrase>
+    <source>Select where to install the GRUB bootloader</source>
+    <target>Scegli il disco su cui installare il bootloader</target>
+</phrase>
+<phrase>
+    <source>First bootable disk (recommended)</source>
+    <target>Installa nel primo disco avviabile (consigliato)</target>
+</phrase>
+<phrase>
+    <source>Disk partition where Pisi Linux is installed</source>
+    <target>Partizione sulla quale è installato Pisi Linux</target>
+</phrase>
+<phrase>
+    <source>Selected disk below</source>
+    <target>Disco selezionato</target>
+</phrase>
+<phrase>
+    <source>Choose the user you want to reset the password:</source>
+    <target>Scegli l&apos;utente per il quale si desidera reimpostare la password:</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Password:</target>
+</phrase>
+<phrase>
+    <source>Confirm Password</source>
+    <target>Conferma Password</target>
+</phrase>
+<phrase>
+    <source>Reset Password</source>
+    <target>Reimposta Password</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Connection status:&lt;/b&gt;</source>
+    <target>&lt;b&gt;Stato della connessione:&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>To use PiSi&apos;s history feature, you may need to be online. Select connection profile.</source>
+    <target>Per usare lo storico delle operazioni PiSi, hai bisogno di una connessione ad Internet. Selezione un profilo qui sotto.</target>
+</phrase>
+<phrase>
+    <source>Select Connection</source>
+    <target>Seleziona una connessione</target>
+</phrase>
+<phrase>
+    <source>Select the operation to undo:</source>
+    <target>Seleziona operazione da annullare:</target>
+</phrase>
+<phrase>
+    <source>Choose what do you want to do to repair your system</source>
+    <target>Scegli cosa vuoi fare per ripristinare il tuo sistema</target>
+</phrase>
+<phrase>
+    <source>Reinstall bootloader</source>
+    <target>Reinstalla bootloader</target>
+</phrase>
+<phrase>
+    <source>Reset forgotten password</source>
+    <target>Reimposta password dimenticata</target>
+</phrase>
+<phrase>
+    <source>Return back to a previous system state</source>
+    <target>Torna indietro ad uno stato precedente del sistema</target>
+</phrase>
+<phrase>
+    <source>Administrator password</source>
+    <target>Password dell&apos;amministratore di sistema</target>
+</phrase>
+<phrase>
+    <source>Confirm password</source>
+    <target>Conferma password</target>
+</phrase>
+<phrase>
+    <source>Computer Name</source>
+    <target>Nome Computer</target>
+</phrase>
+<phrase>
+    <source>User Name</source>
+    <target>Nome Utente</target>
+</phrase>
+<phrase>
+    <source>Real Name</source>
+    <target>Nome Reale</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Password</target>
+</phrase>
+<phrase>
+    <source>Custom User ID</source>
+    <target>ID utente personalizzato:</target>
+</phrase>
+<phrase>
+    <source>Not recommended</source>
+    <target>Sconsigliato</target>
+</phrase>
+<phrase>
+    <source>Bypass authorization attempts for this user</source>
+    <target>Tentativo di bypass autorizzazione per questo utente</target>
+</phrase>
+<phrase>
+    <source>Add user to administrator (wheel) group</source>
+    <target>Aggiungi utente al gruppo administrator (wheel)</target>
+</phrase>
+<phrase>
+    <source>Select auto login user</source>
+    <target>Seleziona utente login automatico</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Aggiungi</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Avanzato</target>
+</phrase>
+<phrase>
+    <source>Volume Group Name:</source>
+    <target>Nome del Gruppo Volume:</target>
+</phrase>
+<phrase>
+    <source>Physical Extends</source>
+    <target>Estensioni Fisiche</target>
+</phrase>
+<phrase>
+    <source>Physical Volumes to use:</source>
+    <target>Volumi fisici da utilizzare:</target>
+</phrase>
+<phrase>
+    <source>Total Space:</source>
+    <target>Spazio Totale:</target>
+</phrase>
+<phrase>
+    <source>Free Space:</source>
+    <target>Spazio Libero:</target>
+</phrase>
+<phrase>
+    <source>Logical Volumes</source>
+    <target>Volumi Logici</target>
+</phrase>
+<phrase>
+    <source>Mountpoint</source>
+    <target>Punto di montaggio</target>
+</phrase>
+<phrase>
+    <source>Used Space:</source>
+    <target>Spazio Usato:</target>
+</phrase>
+<phrase>
+    <source>Pisi Linux is installed and running successfully... 
+
+Before you login to system, you need to create your first user and set the system wide configurations. </source>
+    <target>Pisi Linux è installato e funziona correttamente ... 
+Prima di accedere al sistema, è necessario creare il primo utente e impostare le configurazioni di sistema.</target>
+</phrase>
+<phrase>
+    <source>Not enough physical volumes</source>
+    <target>Volume fisico insufficente</target>
+</phrase>
+<phrase>
+    <source>At least one unused physical volume partition is needed to
+create an LVM Volume Group.
+Create a partition or RAID array of type &quot;physical volume
+(LVM)&quot; and then select the &quot;LVM&quot; option again.</source>
+    <target>E&apos; necessaria almeno una partizione inutilizzata del volume fisico per creare
+ un gruppo di volumi LVM. 
+Creare una partizione o un RAID di tipo &quot;volume fisico
+(LVM)&quot; e quindi selezionare di nuovo l&apos;opzione &quot;LVM&quot; .</target>
+</phrase>
+<phrase>
+    <source>Make LVM Volume Group</source>
+    <target>Fai Gruppo di Volumi LVM </target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group: %s</source>
+    <target>Modifica Gruppo di Volumi LVM: %s</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group</source>
+    <target>Modifica Gruppo di Volumi LVM</target>
+</phrase>
+<phrase>
+    <source>Invalid Volume Group Name</source>
+    <target>Nome Invalido di Gruppo di Volumi</target>
+</phrase>
+<phrase>
+    <source>Name in use</source>
+    <target>Nome in uso</target>
+</phrase>
+<phrase>
+    <source>The volume group name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Il Nome di Gruppo di Volumi &quot;%s&quot; è già in uso. Si prega di scegliere un altro.</target>
+</phrase>
+<phrase>
+    <source>Not enough space</source>
+    <target>Spazio non sufficente</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+otherwise the space required by the currently defined
+logical volumes will be increased to more than the
+available space.</source>
+    <target>La dimensione fisica non può essere modificata perché
+altrimenti lo spazio richiesto dai volumi logici attualmente definiti
+sarà maggiore dello spazio
+disponibile.</target>
+</phrase>
+<phrase>
+    <source>Confirm Physical Extent Change</source>
+    <target>Conferma il Cambio di Estensione Fisica</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will
+require the sizes of the current logical volume requests
+to be rounded up in size to an integer multiple of
+the physical extent.
+
+This change will take effect
+immediately.</source>
+    <target>Questa modifica al valore dell&apos; estensione fisica
+richiederà le dimensioni dell&apos; attuale volume logico 
+di essere arrotondate per un multiplo intero della estensione fisica.
+
+Questa modifica avrà effetto
+immediatamente.</target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>Continua</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+the value selected (%(curpe)10.2f MB) is larger than the
+smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>La dimensione dell&apos; estensione fisica non può essere modificata perchè
+il valore selezionato (%(curpe)10.2f MB) è più grande
+del volume fisico più piccolo (%(maxpvsize)10.2f MB) nel gruppo volume.</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the value selected (%(curpe)10.2f MB) is too large compared to the size of the smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>La dimensione dell&apos; estensione fisica non può essere modificata perchè il valore selezionato (%(curpe)10.2f MB) è troppo grande rispetto al volume fisico più piccolo (%(maxpvsize)10.2f MB) nel gruppo volume.</target>
+</phrase>
+<phrase>
+    <source>Too small</source>
+    <target>Troppo piccolo</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will waste substantial space on one or more of the physical volumes in the volume group.</source>
+    <target>Questa modifica al valore dell&apos; estensione fisica sprecherà spazio sostanziale in uno o piu volumi fisici del gruppo volumi.</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the resulting maximum logical volume size (%10.2f MB) is smaller than one or more of their currently defined logical volumes.</source>
+    <target>La dimensione dell&apos; estensione fisica non può essere modificata perchè la dimensione massima del volume logico (%10.2f MB) risulterebbe più piccolo di uno o più volumi logici già definiti.</target>
+</phrase>
+<phrase>
+    <source>No free slots</source>
+    <target>Nessun slot disponibile</target>
+</phrase>
+<phrase>
+    <source>You cannot create more than %d logical volume 
+per volume group.</source>
+    <target>Non puoi creare più di %d volumi logici
+per gruppo volume.</target>
+</phrase>
+<phrase>
+    <source>No free space</source>
+    <target>Non c&apos;è spazio libero</target>
+</phrase>
+<phrase>
+    <source>There is no room left in the volume group to create new
+logical volumes. To add a logical volume you must reduce
+the size of one or more of the currently existing logical
+volumes</source>
+    <target>Non c&apos;è abbastanza spazio nel gruppo volume per creare nuovi
+volumi logici. Per aggiungere un volume logiche si deve ridurre
+la dimensione di uno o più volumi logici
+già esistenti.</target>
+</phrase>
+<phrase>
+    <source>Confirm Delete</source>
+    <target>Conferma Cancella</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to delete the 
+logical volume &quot;%s&quot;?</source>
+    <target>Sei sicuro di voler eliminare il 
+volume logico &quot;%s&quot;?</target>
+</phrase>
+<phrase>
+    <source>Make Logical Volume</source>
+    <target>Fai Volume Logico</target>
+</phrase>
+<phrase>
+    <source>Edit Logical Volume: %s</source>
+    <target>Modifica Volume Logico: %s</target>
+</phrase>
+<phrase>
+    <source>Mount Point Error</source>
+    <target>Errore di Punto di Montaggio</target>
+</phrase>
+<phrase>
+    <source>Mount point in use</source>
+    <target>Punto di montaggio in uso</target>
+</phrase>
+<phrase>
+    <source>The mount point &quot;%s&quot; is in use. Please pick another.</source>
+    <target>Il punto di montaggio &quot;%s&quot; è in uso. Si prega di scegliere un altro.</target>
+</phrase>
+<phrase>
+    <source>Illegal Logical Volume Name</source>
+    <target>Nome Non Valido del Volume Logico</target>
+</phrase>
+<phrase>
+    <source>Illegal logical volume name</source>
+    <target>Nome non valido del volume logico</target>
+</phrase>
+<phrase>
+    <source>The logical volume name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Il nome del volume logico &quot;%s&quot; è in uso. Si prega di scegliere un altro.</target>
+</phrase>
+<phrase>
+    <source>Illegal size</source>
+    <target>Dimensione illegale</target>
+</phrase>
+<phrase>
+    <source>The requested size as entered is not a valid number greater than 0.</source>
+    <target>La dimensione richiesta come inserita non è un numero valido maggiore di 0.</target>
+</phrase>
+<phrase>
+    <source>The current requested size (%(size)10.2f MB) is larger than the maximum logical volume size (%(maxlv)10.2f MB). To increase this limit you can create more Physical Volumes from unpartitioned disk space and add them to this Volume Group.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The size entered for this logical volume (%(size)d MB) combined with the size of the other logical volume(s) exceeds the size of the volume group (%(tmpvgsize)d MB). Please make the volume group larger or make the logical volume smaller.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Create Partition on %(path)s (%(model)s)</source>
+    <target>Crea Partizione a %(path)s (%(model)s)</target>
+</phrase>
+<phrase>
+    <source>Edit Partition %s</source>
+    <target>Modifica Partizione %s</target>
+</phrase>
+<phrase>
+    <source>Edit Partition</source>
+    <target>Modifica Partizione</target>
+</phrase>
+<phrase>
+    <source>Error With Request</source>
+    <target>Errore Con la Richiesta</target>
+</phrase>
+<phrase>
+    <source>Invalid Raid Members</source>
+    <target>Membri Invalidi Raid</target>
+</phrase>
+<phrase>
+    <source>At least two unused software RAID partitions are needed to create a RAID device.
+
+First create at least two partitions of type &quot;software RAID&quot;, and then select the &quot;RAID&quot; option again.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Make RAID Device</source>
+    <target>Fai Dispositivo RAID</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device: %s</source>
+    <target>Modifica Dispositivo RAID: %s</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device</source>
+    <target>Modifica Dispositivo RAID</target>
+</phrase>
+<phrase>
+    <source>A RAID%(level)d set requires at least %(min_member)d member</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error!</source>
+    <target>Errore!</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load an installer interface component.
+
+className = %s.Widget</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target>Uscita</target>
+</phrase>
+<phrase>
+    <source>Retry</source>
+    <target>Riprova</target>
+</phrase>
+<phrase>
+    <source>Storage Devices initialising...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Password is too short.</source>
+    <target>&lt;font color=&quot;#FF6D19&quot;&gt;La password è troppo breve.&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match.</source>
+    <target>&lt;font color=&quot;#FF6D19&quot;&gt;Le password non corrispondono.&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Do not use your username as your password.</source>
+    <target>&lt;font color=&quot;#FF6D19&quot;&gt;Non utilizzare il tuo nome come password.&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Hostname cannot be longer than 64 characters.</source>
+    <target>&lt;font color=&quot;#FF6D19&quot;&gt;L&apos;hostname non può superare 64 caratteri&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Hostname contains invalid characters.</source>
+    <target>&lt;font color=&quot;#FF6D19&quot;&gt;L&apos;hostname contiene caratteri non validi&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Starting validation...</source>
+    <target>Comincia la verifica..</target>
+</phrase>
+<phrase>
+    <source>Package validation is in progress. Please wait until it is completed.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Validating %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>Avviso</target>
+</phrase>
+<phrase>
+    <source>Validation of %s package failed.Please remaster your installation medium andreboot.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Skip Validation</source>
+    <target>Salta Convalida</target>
+</phrase>
+<phrase>
+    <source>Skip Package</source>
+    <target>Salta Pacchetto</target>
+</phrase>
+<phrase>
+    <source>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Validation succeeded. You can proceed with the installation.&lt;/b&gt;&lt;/font&gt;</source>
+    <target>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Verifica eseguita con successo. Puoi proseguire alla schermata successiva.&lt;/b&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Package validation is finished.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Adjusting time settings</source>
+    <target>Impostazione delle preferenze dell&apos;orario...</target>
+</phrase>
+<phrase>
+    <source>Device Path: %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Errore!</target>
+</phrase>
+<phrase>
+    <source>You must select at least one drive to be used for installation.</source>
+    <target>Devi selezionare almeno un unità da utilizzare per l&apos;installazione.</target>
+</phrase>
+<phrase>
+    <source>Running post-install operations...</source>
+    <target>Esecuzione delle procedure post-installazione...</target>
+</phrase>
+<phrase>
+    <source>Press &lt;b&gt;Restart&lt;/b&gt; to restart the computer.</source>
+    <target>Premi &lt;b&gt;Riavvia&lt;/b&gt; per riavviare il sistema.</target>
+</phrase>
+<phrase>
+    <source>Restart</source>
+    <target>Riavvia</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Please wait while restarting...&lt;/b&gt;</source>
+    <target>&lt;b&gt;Si prega di attendere mentre il sistema riavvia...&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Setting timezone...</source>
+    <target>Impostazione del fuso orario...</target>
+</phrase>
+<phrase>
+    <source>Migrating Xorg configuration...</source>
+    <target>Migrazione della configurazione di X.org...</target>
+</phrase>
+<phrase>
+    <source>Copying repository index...</source>
+    <target>Copia indice repositorio..</target>
+</phrase>
+<phrase>
+    <source>Setting hostname...</source>
+    <target>Impostazione dell&apos;hostname...</target>
+</phrase>
+<phrase>
+    <source>Setting root password...</source>
+    <target>Impostazione della password di root...</target>
+</phrase>
+<phrase>
+    <source>Resetting user password...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Setup First-Boot...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Teardown First-Boot...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Adding users...</source>
+    <target>Aggiunta di utenti...</target>
+</phrase>
+<phrase>
+    <source>Installing bootloader...</source>
+    <target>Installazione del bootloader...</target>
+</phrase>
+<phrase>
+    <source>Writing bootloader config...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Stopping to D-Bus...</source>
+    <target>Interruzione a D-Bus...</target>
+</phrase>
+<phrase>
+    <source>Teardown storage subsystem...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Installing &lt;b&gt;%(name)s&lt;/b&gt; -- %(summary)s</source>
+    <target>Installazione di &lt;b&gt;%(name)s&lt;/b&gt;&lt;br&gt;%(summary)s</target>
+</phrase>
+<phrase>
+    <source>Configuring &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Configurando &lt;b&gt; %s &lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Following error occured while installing packages:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do you want to retry?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>Sì</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>No</target>
+</phrase>
+<phrase>
+    <source>An error occured during the installation of packages.
+This may be caused by a corrupted installation medium error:
+%s
+</source>
+    <target>C&apos;è stato un errore durante l&apos;installazione dei pacchetti.
+Questo può essere stato causato da una media d&apos;installazione corrotta:
+%s
+</target>
+</phrase>
+<phrase>
+    <source>No storage device found.</source>
+    <target>Nessun dispositivo di memorizzazione trovato.</target>
+</phrase>
+<phrase>
+    <source>Use Alt-Shift to toggle between alternative keyboard layouts</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>License text could not be found.</source>
+    <target>Testo di licenza non è stato trovato.</target>
+</phrase>
+<phrase>
+    <source>No partitions are available to resize. Only physical
+partitions which size is greater than %s MB can be resized.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Use All Disks</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested caused the following critical errors.You must correct these errors before you continue your installation of %s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Partitioning Errors</source>
+    <target>Errori di Partizionamento</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested generated the following warnings. Would you like to continue with your requested partitioning scheme?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Partitioning Warnings</source>
+    <target>Avvisi di Partizionamento</target>
+</phrase>
+<phrase>
+    <source>Ok</source>
+    <target>Ok</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing devices have been selected to be formatted, destroying all data.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Format Warnings</source>
+    <target>Avvisi di Format</target>
+</phrase>
+<phrase>
+    <source>All Changes that you made will be removed</source>
+    <target>Tutte le modifiche eseguite saranno annullate</target>
+</phrase>
+<phrase>
+    <source>Standard</source>
+    <target>Standard</target>
+</phrase>
+<phrase>
+    <source>LVM</source>
+    <target>LVM</target>
+</phrase>
+<phrase>
+    <source>RAID</source>
+    <target>RAID</target>
+</phrase>
+<phrase>
+    <source>Partition</source>
+    <target>Partizione</target>
+</phrase>
+<phrase>
+    <source>Member</source>
+    <target>Membro</target>
+</phrase>
+<phrase>
+    <source>Array</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Volume Groups</source>
+    <target>Gruppi di Volume</target>
+</phrase>
+<phrase>
+    <source>Free</source>
+    <target>Libero</target>
+</phrase>
+<phrase>
+    <source>Raid Arrays</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Hard Drives</source>
+    <target>Dischi Rigidi</target>
+</phrase>
+<phrase>
+    <source>Can&apos;t handle more than one extended partition per disk</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Crossed logical partition before extended</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Extended</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error Partitioning</source>
+    <target>Errore di partizionamento</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: %s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Warning Partitioning</source>
+    <target>Avviso di Partizionamento</target>
+</phrase>
+<phrase>
+    <source>Warning: %s.</source>
+    <target>Avviso: %s.</target>
+</phrase>
+<phrase>
+    <source>Modify Partition</source>
+    <target>Modifica Partizione</target>
+</phrase>
+<phrase>
+    <source>Partition Selection Warning</source>
+    <target>Avviso di Selezione di Partizione</target>
+</phrase>
+<phrase>
+    <source>Please select free physical partition to create new device.</source>
+    <target>Scegli una partizione fisica libera per creare un nuovo dispositivo.</target>
+</phrase>
+<phrase>
+    <source>Unable To Edit</source>
+    <target>Impossibile la Modifica</target>
+</phrase>
+<phrase>
+    <source>You cannot edit this device:
+
+%s</source>
+    <target>Non puoi modificare questo dispositivo:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t use your user name or name as a password</source>
+    <target>Non utilizzare il tuo nome utente o il tuo nome come password</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match</source>
+    <target>Le password non corrispondono</target>
+</phrase>
+<phrase>
+    <source>Password is too short</source>
+    <target>La password è troppo breve</target>
+</phrase>
+<phrase>
+    <source>Cannot Rescue</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Your current installation cannot be rescued.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Super User</source>
+    <target>Amministratore (root)</target>
+</phrase>
+<phrase>
+    <source>Starting D-Bus...</source>
+    <target>Avvio D-Bus...</target>
+</phrase>
+<phrase>
+    <source>Connecting to D-Bus...</source>
+    <target>Collegamento a D-Bus...</target>
+</phrase>
+<phrase>
+    <source>Fetching history...</source>
+    <target>Estrazione dello storico...</target>
+</phrase>
+<phrase>
+    <source>Please Wait...</source>
+    <target>Si Prega di Attendere...</target>
+</phrase>
+<phrase>
+    <source>No connection available</source>
+    <target>Connessione non esistente</target>
+</phrase>
+<phrase>
+    <source>Operation %(no)s : %(date)s - %(type)s</source>
+    <target>Operazione %(no)s : %(date)s - %(type)s</target>
+</phrase>
+<phrase>
+    <source>Connecting to network %s...</source>
+    <target>Connessione alla rete %s...</target>
+</phrase>
+<phrase>
+    <source>Connection failed</source>
+    <target>Connessione fallita</target>
+</phrase>
+<phrase>
+    <source>Connected</source>
+    <target>Connesso</target>
+</phrase>
+<phrase>
+    <source>Mount failed</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following error occurred when mounting the file systems listed in /etc/fstab.  Please fix this problem and try to rescue again.
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;&lt;p&gt;Are you sure you want to restart the computer?&lt;/p&gt;&lt;/b&gt;</source>
+    <target>&lt;b&gt;&lt;p&gt;Sei sicuro di voler riavviare il computer?&lt;/p&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Installation starts in &lt;b&gt;%s&lt;/b&gt; seconds</source>
+    <target>L&apos;installazione comincerà in &lt;b&gt;%s&lt;/b&gt; secondi</target>
+</phrase>
+<phrase>
+    <source>Start Installation</source>
+    <target>Avvia Installazione</target>
+</phrase>
+<phrase>
+    <source>Apply Settings</source>
+    <target>Esegui Impostazioni</target>
+</phrase>
+<phrase>
+    <source>Keyboard Settings</source>
+    <target>Impostazioni tastiera</target>
+</phrase>
+<phrase>
+    <source>Selected keyboard layout is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Il layout della tastiera è &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Date/Time Settings</source>
+    <target>Impostazioni Data/Ora</target>
+</phrase>
+<phrase>
+    <source>Selected TimeZone is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Il fuso orario selezionato è &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>User Settings</source>
+    <target>Impostazioni utente</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added.</source>
+    <target>Utente %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) aggiunto.</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added with &lt;u&gt;administrator privileges&lt;/u&gt;.</source>
+    <target>L&apos;utente %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) è stato aggiunto con &lt;u&gt;privilegi di amministratore&lt;/u&gt;.</target>
+</phrase>
+<phrase>
+    <source>Hostname Settings</source>
+    <target>Nome dell&apos;host:</target>
+</phrase>
+<phrase>
+    <source>Hostname is set as &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Hostname: &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Partition Settings</source>
+    <target>Impostazioni partizioni</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning selected.</source>
+    <target>Partizionamento automatico selezionato.</target>
+</phrase>
+<phrase>
+    <source>Use All Space</source>
+    <target>Utilizza Tutto lo Spazio</target>
+</phrase>
+<phrase>
+    <source>Removes all partitions on the selected %s device(s). &lt;b&gt;&lt;u&gt;This includes partitions created by other operating systems.&lt;/u&gt;&lt;/b&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Replace Existing Linux System(s)</source>
+    <target>Sostituisci il Sistema Esistente Linux</target>
+</phrase>
+<phrase>
+    <source>Removes all Linux partitions on the selected%s device(s). This does not remove other partitions you may have on your storage device(s) (such as VFAT or FAT32)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Retains your current data and partitions and uses only the unpartitioned space on the selected %s device(s), assuming you have enough free space available.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning selected.</source>
+    <target>Partizionamento manuale selezionato.</target>
+</phrase>
+<phrase>
+    <source>Bootloader Settings</source>
+    <target>Impostazioni Bootloader</target>
+</phrase>
+<phrase>
+    <source>GRUB will be installed to &lt;b&gt;%s&lt;/b&gt;.</source>
+    <target>Grub sarà installato qui: &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>GRUB will not be installed.</source>
+    <target>GRUB non verrà installato.</target>
+</phrase>
+<phrase>
+    <source>Package Installation Settings</source>
+    <target>Impostazioni pacchetti</target>
+</phrase>
+<phrase>
+    <source>Collection &lt;b&gt;%s&lt;/b&gt; selected</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Confirm</source>
+    <target>Conferma</target>
+</phrase>
+<phrase>
+    <source>The partitioning options you have selected will now be written to disk. Any data on deleted or reformatted partitions will be lost.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Write Changes to Disk</source>
+    <target>Scrivi i Cambiamenti su Disco</target>
+</phrase>
+<phrase>
+    <source>Go Back</source>
+    <target>Indietro</target>
+</phrase>
+<phrase>
+    <source>Proprietary Hardware Drivers</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&lt;qt&gt;Proprietary drivers are available which may be required to utilize the full capabilities of your video card. These drivers are developed by the hardware manufacturer and not supported by Pisi Linux developers since their source code is not publicly available.&lt;br&gt;&lt;br&gt;&lt;b&gt;Do you want to install and use these proprietary drivers instead of the default drivers?&lt;/b&gt;&lt;/qt&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Update</source>
+    <target>Aggiorna</target>
+</phrase>
+<phrase>
+    <source>This user name is already taken, please choose another one.</source>
+    <target>Questo nome utente esiste già, scegline un altro.</target>
+</phrase>
+<phrase>
+    <source>The user name contains invalid characters.</source>
+    <target>Il nome utente contiene caratteri non validi.</target>
+</phrase>
+<phrase>
+    <source>The real name contains invalid characters.</source>
+    <target>Il nome reale contiene caratteri non validi.</target>
+</phrase>
+<phrase>
+    <source>User ID used before, choose another one!</source>
+    <target>ID Utente già in uso, per favore, scegline un altro!</target>
+</phrase>
+<phrase>
+    <source>Partitions to Shrink</source>
+    <target>Partizioni da Ridurre</target>
+</phrase>
+<phrase>
+    <source>Resize FileSystem Error</source>
+    <target>Errore di Ridimensionamento di Filesystem</target>
+</phrase>
+<phrase>
+    <source>%(device)s: %(msg)s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Resize Device Error</source>
+    <target>Errore di Ridimensionamento del Dispositivo</target>
+</phrase>
+<phrase>
+    <source>%(name)s: %(msg)s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You cannot remove this physical volume because
+otherwise the volume group will be too small to
+hold the currently defined logical volumes.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Don&apos;t ask again</source>
+    <target>Non chiederlo di nuovo</target>
+</phrase>
+<phrase>
+    <source>Do you want to continue?</source>
+    <target>Vuoi continuare?</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Informazioni</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>OK</target>
+</phrase>
+<phrase>
+    <source>Error reporting</source>
+    <target>Segnalazione di errori</target>
+</phrase>
+<phrase>
+    <source>Pixmaps resources file doesn&apos;t exists</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Style file doesn&apos;t exists</source>
+    <target>Il file dello stile non esiste</target>
+</phrase>
+<phrase>
+    <source>Release file doesn&apos;t exists</source>
+    <target>Note di rilascio non esiste</target>
+</phrase>
+<phrase>
+    <source>Turn Off Computer</source>
+    <target>Spegni il Computer</target>
+</phrase>
+<phrase>
+    <source>Restart Computer</source>
+    <target>Riavvia il Computer</target>
+</phrase>
+<phrase>
+    <source>Restart YALI</source>
+    <target>Riavvia YALI</target>
+</phrase>
+<phrase>
+    <source>right</source>
+    <target>destra</target>
+</phrase>
+<phrase>
+    <source>left</source>
+    <target>sinistra</target>
+</phrase>
+<phrase>
+    <source>Mouse Settings</source>
+    <target>Impostazioni Mouse</target>
+</phrase>
+<phrase>
+    <source>You just clicked the &lt;b&gt;%s&lt;/b&gt; mouse button.</source>
+    <target>Hai appena cliccato il pulsante &lt;b&gt;%s&lt;/b&gt; del mouse.</target>
+</phrase>
+<phrase>
+    <source>Do you want to switch to the &lt;b&gt;%s&lt;/b&gt; handed configuration?</source>
+    <target>Vuoi passare alla configurazione &lt;b&gt;%s&lt;/b&gt;?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to shut down your computer now?</source>
+    <target>È sicuro di voler spegnere il computer ora?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart your computer now?</source>
+    <target>È sicuro di voler riavviare il computer ora?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart the YALI installer now?</source>
+    <target>È sicuro di voler riavviare il sistema di installazione YALI ora?</target>
+</phrase>
+<phrase>
+    <source>Terminal</source>
+    <target>Terminale</target>
+</phrase>
+<phrase>
+    <source>Tetris</source>
+    <target>Tetris</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load screens:%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Release notes could not be loaded.</source>
+    <target>Note di rilascio non può essere caricato.</target>
+</phrase>
+<phrase>
+    <source>%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Windows</source>
+    <target>Windows</target>
+</phrase>
+<phrase>
+    <source>This partition is part of an inconsistent LVM Volume Group.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Failed teardownAll in storage.complete with error:%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Storage Device Error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while partitioning on device %s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Storage Format Error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while formatting on device %s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Exit installer</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dirty File Systems</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Please boot your Linux installation, let the file systems be checked and shut down cleanly to rescue.
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Would you like to mount them anyway?
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This partition is holding the data for the hard drive install.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You cannot delete a partition of a LDL formatted DASD.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This device is part of the RAID device %s, you have to edit or remove the raid partition appropriately!</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This device is part of a RAID device.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This device is part of the LVM volume group &apos;%s&apos;.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This device is part of a LVM volume group.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This device is an extended partition which contains logical partitions that cannot be deleted:
+
+</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You have not defined a root partition (/),which is required for installation of %s to continue.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Your / partition is less than %(min)s MB which is lower than recommended for a normal %(productName)s install.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Your %(mount)s partition is less than %(size)s megabytes which is lower than recommended for a normal %(productName)s install.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Due to the amount of memory present, a swap partition is required to complete installation.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Although not strictly required in all cases, it will significantly improve performancefor most installations.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This mount point is invalid. The %s directory must be on the / file system.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The mount point %s must be on a linux file system.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>No Drives Found</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>An error has occurred - no valid devices were found on
+which to create new file systems. Please check your
+hardware for the cause of this problem.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>requested size exceeds maximum allowed</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>partition is too %(problem)s for %(format)s formatting</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>not enough free space on disks</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>not enough free space after creating extended partition</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>not enough space for LVM requests</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Could not find enough free space for automatic
+partitioning, please use another partitioning method.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Warnings During Automatic Partitioning</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Following warnings occurred during automatic partitioning:
+
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>
+
+Press &apos;OK&apos; to exit the installer.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: 
+%(msg)s.%(extra)s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning Errors</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following errors occurred with your partitioning:
+
+%(errortxt)s
+
+This can happen if there is not enough space on your hard drive(s) for the installation. %(extra)s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Please enter a volume group name.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Volume Group Names must be less than 128 characters</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name %s is not valid.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Please enter a logical volume name.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Logical Volume Names must be less than 128 characters</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name %s is not valid.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Format as Swap?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>%s has a partition type of 0x82 (Linux swap) but does not appear to be formatted as a Linux swap partition.
+
+Would you like to format this partition as a swap partition?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You are about to delete all partitions on the device &apos;%s&apos;.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Notice</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following partitions were not deleted because they are in use:
+
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unable To Delete</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You must first select a partition to delete.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The mount point %s is invalid.  Mount points must start with &apos;/&apos; and cannot end with &apos;/&apos;, and must contain printable characters and no spaces.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error with Partitioning</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following critical errors exist with your requested partitioning scheme. These errors must be corrected prior to continuing with your install of %(productName)s.
+
+%(errorstr)s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Partitioning Warning</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following warnings exist with your requested partition scheme.
+
+%s
+
+Would you like to continue with your requested partitioning scheme?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following pre-existing partitions have been selected to be formatted, destroying all data.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select &apos;Yes&apos; to continue and format these partitions, or &apos;No&apos; to go back and change these settings.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Format Warning</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You are about to delete the volume group &quot;%s&quot;.
+
+ALL logical volumes in this volume group will be lost!</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You are about to delete the logical volume &quot;%s&quot;.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You are about to delete a RAID device.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %s partition.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %(type)s %(name)s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Confirm Reset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to reset the partition table to its original state?</source>
+    <target>Sei sicuro di voler ripristinare la tabella delle partizioni al suo stato originale?</target>
+</phrase>
+<phrase>
+    <source>You have chosen to use a pre-existing partition for this
+installation without formatting it. We recommend that you format
+this partition to make sure files from a previous operating system
+installation do not cause problems with this installation of Linux.
+However, if this partition contains files that you need to keep,
+such as home directories, then continue without formatting this
+npartition.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Format?</source>
+    <target>Formattare?</target>
+</phrase>
+<phrase>
+    <source>Do Not Format</source>
+    <target>Non Formattare</target>
+</phrase>
+<phrase>
+    <source>Partitions of type &apos;%s&apos; must be constrained to a
+single drive.  To do this, select the drive in the &apos;Allowable Drives&apos;
+checklist.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Storage Device Warning</source>
+    <target>Avvertenza Periferica di archiviazione </target>
+</phrase>
+<phrase>
+    <source>The following storage device may contain recoverable data:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;This device may have data that will be &lt;b&gt;permanently lost&lt;/b&gt; if you include it in this installation.&lt;br&gt;&lt;br&gt;If you don&apos;t care about any data on this device, choose &lt;b&gt;Reset device&lt;/b&gt; to include it in the installation process.&lt;br&gt;&lt;br&gt;If you don&apos;t want the device to be permanently erased, select &lt;b&gt;Ignore device&lt;/b&gt; and the device will not be considered as a possible installation target.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reset device</source>
+    <target>Reset del dispositivo</target>
+</phrase>
+<phrase>
+    <source>Ignore device</source>
+    <target>Ignora il dispositivo</target>
+</phrase>
+<phrase>
+    <source>There is inconsistent LVM data on %(msg)s. You can reinitialize all related PVs (%(pvs)s) which will erase the LVM metadata, or ignore which will preserve thecontents.This action may also be applied to all other PVs with inconsistent metadata.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Yes, re-initialize</source>
+    <target>Re-inizializzare</target>
+</phrase>
+<phrase>
+    <source>No, protect data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Disk contains %(members_count)s BIOS RAID metadata, but is not part of any recognized BIOS RAID sets. Ignoring disk %(members)s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Invalid mount point</source>
+    <target>Punto di montaggio invalido</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %s.  Some element of this path is not a directory. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %(mountpoint)s: %(msg)s.  This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unable to mount filesystem</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s.  You may continue installation, but there may be problems.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s: %(msg)s. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Skip</source>
+    <target>Salta</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+is an old-style Linux swap partition.  If you want to use this device for swap space, you must reformat as a new-style Linux swap partition.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+in your /etc/fstab file is currently in use as a software suspend device, which means your system is hibernating. If you are performing a new install, make sure the installer is set to format all swap devices.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+does not contain a supported swap volume.  In order to continue installation, you will need to format the device or skip it.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error enabling swap device %(name)s: %(msg)s&lt;br&gt;&lt;br&gt;This most likely means this swap device has not been initialized.&lt;br&gt;&lt;br&gt;Press OK to exit the installer.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You have not created a bootable partition.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a logical volume.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a raid array.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on an %s filesystem.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Ignoring noauto entry</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Failed to resolve %s (%s) from fstab</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unrecognized filesystem type for %s (%s)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Scanned format (%s) differs from fstab format (%s)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot open %s for read</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Fstab entry %s is malformed: %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Creating file %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Creating device %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>device has not been created</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>cannot activate VG with missing PV(s)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>vginfo failed for %s</source>
+    <target>vginfo fallito su %s</target>
+</phrase>
+<phrase>
+    <source>lvs failed for %s</source>
+    <target>lvs fallito su %s</target>
+</phrase>
+<phrase>
+    <source>partition table</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>dm-raid member device</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unknown return code: %d.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Migrating %s filesystem on %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Creating %(type)s filesystem on %(device)s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Resizing filesystem on %s</source>
+    <target>Ridimensionamento di Filesystem su %s</target>
+</phrase>
+<phrase>
+    <source>Checking filesystem on %s</source>
+    <target>Controllo filesystem su %s</target>
+</phrase>
+<phrase>
+    <source>%(type)s filesystem check failure on %(device)s: </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Errors like this usually mean there is a problem with the filesystem that will require user interaction to repair. Restart installation after you have corrected the problems on the filesystem.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unrecoverable Error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File system errors left uncorrected.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Operational error.</source>
+    <target>Errore operazionale.</target>
+</phrase>
+<phrase>
+    <source>Usage or syntax error.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>e2fsck cancelled by user request.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Shared library error.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recoverable errors have been detected or dosfsck has discovered an internal inconsistency.</source>
+    <target>Errori recuperabili sono stati individuati o dosfsck ha scoperto una contraddizione interna.</target>
+</phrase>
+<phrase>
+    <source>Usage error.</source>
+    <target>Errore di uso.</target>
+</phrase>
+<phrase>
+    <source>physical volume (LVM)</source>
+    <target>Volume Fisico (LVM)</target>
+</phrase>
+<phrase>
+    <source>software RAID</source>
+    <target>software RAID</target>
+</phrase>
+<phrase>
+    <source>Turkish</source>
+    <target>Turco</target>
+</phrase>
+<phrase>
+    <source>Turkish F</source>
+    <target>Turco F</target>
+</phrase>
+<phrase>
+    <source>Turkish Q</source>
+    <target>Turco Q</target>
+</phrase>
+<phrase>
+    <source>English</source>
+    <target>Inglese</target>
+</phrase>
+<phrase>
+    <source>English GB</source>
+    <target>Inglese (GB)</target>
+</phrase>
+<phrase>
+    <source>Greek</source>
+    <target>Greco</target>
+</phrase>
+<phrase>
+    <source>Afrikaans</source>
+    <target>Afrikaans</target>
+</phrase>
+<phrase>
+    <source>Vietnamese</source>
+    <target>Vietnamita</target>
+</phrase>
+<phrase>
+    <source>Catalan</source>
+    <target>Catalano</target>
+</phrase>
+<phrase>
+    <source>Italian</source>
+    <target>Italiano</target>
+</phrase>
+<phrase>
+    <source>Czech</source>
+    <target>Ceco</target>
+</phrase>
+<phrase>
+    <source>Welsh</source>
+    <target>Gallese</target>
+</phrase>
+<phrase>
+    <source>Arabic</source>
+    <target>Arabo</target>
+</phrase>
+<phrase>
+    <source>Estonian</source>
+    <target>Estone</target>
+</phrase>
+<phrase>
+    <source>Spanish</source>
+    <target>Spagnolo</target>
+</phrase>
+<phrase>
+    <source>Russian</source>
+    <target>Russo</target>
+</phrase>
+<phrase>
+    <source>Dutch</source>
+    <target>Olandese</target>
+</phrase>
+<phrase>
+    <source>Portuguese</source>
+    <target>Portoghese</target>
+</phrase>
+<phrase>
+    <source>Norwegian</source>
+    <target>Norvegese</target>
+</phrase>
+<phrase>
+    <source>Icelandic</source>
+    <target>Islandese</target>
+</phrase>
+<phrase>
+    <source>Polish</source>
+    <target>Polacco</target>
+</phrase>
+<phrase>
+    <source>Belgium</source>
+    <target>Belga</target>
+</phrase>
+<phrase>
+    <source>French</source>
+    <target>Francese</target>
+</phrase>
+<phrase>
+    <source>Bulgarian</source>
+    <target>Bulgaro</target>
+</phrase>
+<phrase>
+    <source>Slovenian</source>
+    <target>Sloveno</target>
+</phrase>
+<phrase>
+    <source>Croatian</source>
+    <target>Croato</target>
+</phrase>
+<phrase>
+    <source>German</source>
+    <target>Tedesco</target>
+</phrase>
+<phrase>
+    <source>Danish</source>
+    <target>Danese</target>
+</phrase>
+<phrase>
+    <source>Brazilian</source>
+    <target>Portoghese brasiliano</target>
+</phrase>
+<phrase>
+    <source>Finnish</source>
+    <target>Finlandese</target>
+</phrase>
+<phrase>
+    <source>Hungarian</source>
+    <target>Ungherese</target>
+</phrase>
+<phrase>
+    <source>Japanese</source>
+    <target>Giapponese</target>
+</phrase>
+<phrase>
+    <source>Malayalam</source>
+    <target>Malayalam</target>
+</phrase>
+<phrase>
+    <source>Swedish</source>
+    <target>Svedese</target>
+</phrase>
+<phrase>
+    <source>Macedonian</source>
+    <target>Macedone</target>
+</phrase>
+<phrase>
+    <source>Slovak</source>
+    <target>Slovacco</target>
+</phrase>
+<phrase>
+    <source>Ukrainian</source>
+    <target>Ucraino</target>
+</phrase>
+<phrase>
+    <source>Serbian</source>
+    <target>Serbo</target>
+</phrase>
+<phrase>
+    <source>Preparing home directory for %s...</source>
+    <target>Preparazione directory home per %s...</target>
+</phrase>
+<phrase>
+    <source>Release file is missing</source>
+    <target>Note di rilascio è mancante</target>
+</phrase>
+<phrase>
+    <source>Release file is inconsistent</source>
+    <target>Note di rilascio è inconsistente</target>
+</phrase>
+<phrase>
+    <source>Invalid xml file</source>
+    <target>xml file non valida</target>
+</phrase>
+</QPH>

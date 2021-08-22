@@ -1,0 +1,2222 @@
+<!DOCTYPE QPH>
+<QPH language="tr_TR">
+<phrase>
+    <source>There appears to be more than one resizeable partition. You can select a partition from the list below or YALI will select one for you.</source>
+    <target>Yeniden boyutlandırılabilir durumda birden fazla disk bölümünüz var gibi görünüyor. Aşağıdaki listeden bu disk bölümlerinden birini seçebilirsiniz, seçmezseniz YALI sizin için birini seçecektir.</target>
+</phrase>
+<phrase>
+    <source>X</source>
+    <target>X</target>
+</phrase>
+<phrase>
+    <source>Automatically choose the partition to resize (recommended)</source>
+    <target>Yeniden boyutlandırılacak disk bölümünü otomatik olarak seç (önerilen)</target>
+</phrase>
+<phrase>
+    <source>I will choose the target</source>
+    <target>Hedefi ben değiştireceğim</target>
+</phrase>
+<phrase>
+    <source>Use Selected</source>
+    <target>Seçileni Kullan</target>
+</phrase>
+<phrase>
+    <source>Use All Disk</source>
+    <target>Diskin Tamamını Kullan</target>
+</phrase>
+<phrase>
+    <source>Shrink Current System</source>
+    <target>Geçerli Sistemde Yer Aç</target>
+</phrase>
+<phrase>
+    <source>Use Free Space</source>
+    <target>Boş Alanı Kullan</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning</source>
+    <target>Elle Bölümlendirme</target>
+</phrase>
+<phrase>
+    <source>Advanced settings</source>
+    <target>Gelişmiş ayarlar</target>
+</phrase>
+<phrase>
+    <source>Default settings</source>
+    <target>Öntanımlı ayarlar</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t install bootloader</source>
+    <target>Açılış yöneticisini yükleme</target>
+</phrase>
+<phrase>
+    <source>The first sector of</source>
+    <target>İlk sektörü kullan</target>
+</phrase>
+<phrase>
+    <source>You can validate the integrity of the installation packages. Although this is an optional step, we highly recommend to do the validation in order to avoid any possible errors during the installation process.</source>
+    <target>Kuruluma başlamadan önce paketlerin doğruluğunu kontrol edebilirsiniz. Bu adım isteğe bağlı olsa da kurulum sırasında yaşayabileceğiniz olası sorunlardan kaçınmak için doğrulama işlemini yapmanız önerilir.</target>
+</phrase>
+<phrase>
+    <source>Validation failed</source>
+    <target>Doğrulama başarısız oldu</target>
+</phrase>
+<phrase>
+    <source>Validation succeeded</source>
+    <target>Doğrulama başarılı oldu</target>
+</phrase>
+<phrase>
+    <source>Validate</source>
+    <target>Doğrula</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>Form</target>
+</phrase>
+<phrase>
+    <source>To use PiSi History support, you may need to be online. You can use a connection profile from the list below:</source>
+    <target>Pisi&apos;nin Geçmiş özelliğini kullanabilmek için İnternete bağlı olmanız gerekir. Aşağıdaki listeden bir bağlantı profili seçebilirsiniz:</target>
+</phrase>
+<phrase>
+    <source>Connect</source>
+    <target>Bağlan</target>
+</phrase>
+<phrase>
+    <source>Standard Partition</source>
+    <target>Standart Disk Bölümü</target>
+</phrase>
+<phrase>
+    <source>General purpose of partition creation</source>
+    <target>Bölüm oluşturmanın genel amacı</target>
+</phrase>
+<phrase>
+    <source>Volume Group</source>
+    <target>Hacim Yönetimi</target>
+</phrase>
+<phrase>
+    <source>Requires at least 1 free LVM formatted partition</source>
+    <target>En az bir boş biçimlendirilmiş LVM bölüm gerektirir</target>
+</phrase>
+<phrase>
+    <source>Logical Volume</source>
+    <target>Mantıksal Hacim</target>
+</phrase>
+<phrase>
+    <source>Create Logical Volume on selected Volume Group</source>
+    <target>Seçilen Hacim Grubunda Mantıksal Hacim Oluşturun</target>
+</phrase>
+<phrase>
+    <source>Physical Volume</source>
+    <target>Fiziksel Hacim</target>
+</phrase>
+<phrase>
+    <source>Create LVM formatted partition</source>
+    <target>LVM biçimlendirilmiş disk bölümü yarat</target>
+</phrase>
+<phrase>
+    <source>Raid Member</source>
+    <target>Raid Üyesi</target>
+</phrase>
+<phrase>
+    <source>Create Raid formatted partition</source>
+    <target>Raid olarak biçimlendirilmiş bölüm oluştur</target>
+</phrase>
+<phrase>
+    <source>Raid Array</source>
+    <target>Raid Dizisi</target>
+</phrase>
+<phrase>
+    <source>Requires at least 2 free Raid formatted partition</source>
+    <target>En az 2 boş ve biçimlendirilmiş Raid bölümü gerektirir</target>
+</phrase>
+<phrase>
+    <source>Date</source>
+    <target>Tarih</target>
+</phrase>
+<phrase>
+    <source>Time</source>
+    <target>Saat</target>
+</phrase>
+<phrase>
+    <source>Timezone</source>
+    <target>Zaman Dilimi</target>
+</phrase>
+<phrase>
+    <source>Unhandled exception occured</source>
+    <target>Bilinmeyen hata oluştu</target>
+</phrase>
+<phrase>
+    <source>Please fill a bug report at http://bugs.pisilinux.org.tr/ attaching the following backtrace.</source>
+    <target>Lütfen http://bugs.pisilinux.org.tr/ adresinde aşağıdaki hata çıktısını da ekleyerek bir hata kaydı oluşturun.</target>
+</phrase>
+<phrase>
+    <source>Reboot</source>
+    <target>Yeniden Başlat</target>
+</phrase>
+<phrase>
+    <source>Show Backtrace</source>
+    <target>Hata Bilgilerini Göster</target>
+</phrase>
+<phrase>
+    <source>help content</source>
+    <target>yardım içeriği</target>
+</phrase>
+<phrase>
+    <source>Welcome to YALI (Yet Another Linux Installer), where you will have the opportunity to verify the installation medium, select your keyboard layout, choose your time-zone, create user accounts and prepare your disk - followed by a summary and final review before committing to the installation of Pisi Linux.
+Further information for each page of the installer may be viewed by clicking the question-mark icon at the top of its page. 
+YALI was designed with ease of use in mind and should not pose a problem to the novice Linux user. As with all such procedures though, any valuable data on your system should be backed-up before commencing.</source>
+    <target>Yalı&apos;ya hoş geldiniz (Yet Another Linux Installer). Yalı, Pisi Linux&apos;u bilgisayarınıza kurmanız için sizi adım adım yönlendirir. Kurulum medyasını doğrulamanıza , klavye düzeninizi ve zaman diliminizi seçmenize, kullanıcı hesaplarınızı oluşturmanıza, diskinizi kurulum için hazırlamanıza  ve  yaptığınız ayarları uygulamadan önce gözden geçirmenize olanak sağlar. 
+Kurulumun tüm adımlarında yükleyici sayfasının tepesindeki soru işaretine tıklayarak o adım ile ilgili daha fazla bilgi alabilirsiniz.
+Yalı, acemi Linux kullanıcılarına kolaylık sağlayacak şekilde, sorunsuz bir kurulum için tasarlanmıştır. Ancak kuruluma başlamadan önce sisteminizdeki bütün değerli verileri yedeklemenizi öneriyoruz.</target>
+</phrase>
+<phrase>
+    <source>Installing Package: </source>
+    <target>Kurulan Paket: </target>
+</phrase>
+<phrase>
+    <source>Keyboard Layouts</source>
+    <target>Klavye Düzenleri</target>
+</phrase>
+<phrase>
+    <source>Test Layout</source>
+    <target>Klavye Düzenini Dene</target>
+</phrase>
+<phrase>
+    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Before installing Pisi Linux on your computer, please read and accept the terms of free / open source licenses of the softwares included in this installation medium. &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;License texts&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <target>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pisi Linux&apos;u bilgisayarınıza kurmadan önce, lütfen bu kurulum ortamının içerisinde yer alan yazılımların özgür /açık lisanslarını okuyup bu lisansların koşullarını kabul edin.&lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;Lisans metinleri&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</target>
+</phrase>
+<phrase>
+    <source>I understand and accept the terms</source>
+    <target>Koşulları anladım ve kabul ediyorum</target>
+</phrase>
+<phrase>
+    <source>Logical Volume:</source>
+    <target>Mantıksal Hacim:</target>
+</phrase>
+<phrase>
+    <source>Use :</source>
+    <target>Kullan:</target>
+</phrase>
+<phrase>
+    <source>Size :</source>
+    <target>Boyut :</target>
+</phrase>
+<phrase>
+    <source> MB</source>
+    <target> MB</target>
+</phrase>
+<phrase>
+    <source>Resize</source>
+    <target>Yeniden Boyutlandır</target>
+</phrase>
+<phrase>
+    <source>File System :</source>
+    <target>Dosya Sistemi :</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Biçimlendir</target>
+</phrase>
+<phrase>
+    <source>Migrate</source>
+    <target>Taşı</target>
+</phrase>
+<phrase>
+    <source>Yali</source>
+    <target>YALI</target>
+</phrase>
+<phrase>
+    <source>Release Notes</source>
+    <target>Sürüm Notları</target>
+</phrase>
+<phrase>
+    <source>Previous Screen</source>
+    <target>Önceki Ekran</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>Geri</target>
+</phrase>
+<phrase>
+    <source>Next Screen</source>
+    <target>Sonraki Ekran</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>İleri</target>
+</phrase>
+<phrase>
+    <source>Device</source>
+    <target>Aygıt</target>
+</phrase>
+<phrase>
+    <source>Mount Point</source>
+    <target>Bağlanma Noktası</target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target>Etiket</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Tip</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Boyut</target>
+</phrase>
+<phrase>
+    <source>Create</source>
+    <target>Oluştur</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>Düzenle</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>Sil</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Sıfırla</target>
+</phrase>
+<phrase>
+    <source>Format :</source>
+    <target>Biçim:</target>
+</phrase>
+<phrase>
+    <source>Yes, format this partition</source>
+    <target>Evet, bu disk bölümünü biçimlendir</target>
+</phrase>
+<phrase>
+    <source>Delete Partition</source>
+    <target>Disk Bölümünü Sil</target>
+</phrase>
+<phrase>
+    <source>Resize Partition</source>
+    <target>Disk Bölümünü Yeniden Boyutlandır</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied after Summary Screen.</source>
+    <target>Değişiklikler Özet Ekranından sonra uygulanacaktır.</target>
+</phrase>
+<phrase>
+    <source>Refresh Disks</source>
+    <target>Diskleri Tazele</target>
+</phrase>
+<phrase>
+    <source>Reset All Changes</source>
+    <target>Tüm Değişiklikleri Sıfırla</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Uygula</target>
+</phrase>
+<phrase>
+    <source>Force to be primary partition</source>
+    <target>Birincil disk bölümü olmaya zorla</target>
+</phrase>
+<phrase>
+    <source>Use:</source>
+    <target>Kullan:</target>
+</phrase>
+<phrase>
+    <source>Force to be a primary partition</source>
+    <target>Birincil disk bölümü olmaya zorla</target>
+</phrase>
+<phrase>
+    <source>Which partition would you like to shrink to make room for your installation?</source>
+    <target>Kurulumu yapmak için hangi disk bölümünde yer açmak istiyorsunuz?</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB)</source>
+    <target>Disk bölümünü küçült (MB olarak)</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB) :</source>
+    <target>Disk bölümünü küçült (MB olarak) :</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>İptal</target>
+</phrase>
+<phrase>
+    <source>Shrink</source>
+    <target>Küçült</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied when you click &quot;Resize&quot;. To cancel the changes, click &lt;b&gt;&quot;Cancel&quot;.
+&lt;br&gt;&lt;br&gt;
+Warning: A resizing operation may corrupt the partition, rendering the data on it unreachable. Make sure that you have backed up the data. Note that this operation cannot be undone.&lt;b&gt;</source>
+    <target>Değişiklikler &quot;Yeniden Boyutlandıra&quot; tıkladığınızda uygulanacaktır. Değişiklikleri iptal etmek için &lt;b&gt;&quot;İptal&quot; düğmesine tıklayın.
+&lt;br&gt;&lt;br&gt;
+Uyarı: Yeniden boyutlandırma işlemi disk bölümünü bozabilir ve bu disk bölümündeki verilerini erişilemez hale gelebilir. Verilerinizi yeeklediğinizden emin olun. Bu işlemin geri alınamayacağını unutmayın.&lt;b&gt;</target>
+</phrase>
+<phrase>
+    <source>Raid Device:</source>
+    <target>Raid Aygıtı:</target>
+</phrase>
+<phrase>
+    <source>Filesystem:</source>
+    <target>Dosya sistemi:</target>
+</phrase>
+<phrase>
+    <source>Raid Level:</source>
+    <target>Raid Düzeyi:</target>
+</phrase>
+<phrase>
+    <source>Raid Members:</source>
+    <target>Raid Üyeleri:</target>
+</phrase>
+<phrase>
+    <source>Number of spares:</source>
+    <target>Boşlukların sayısı:</target>
+</phrase>
+<phrase>
+    <source>Select where to install the GRUB bootloader</source>
+    <target>GRUB önyükleyicisinin nereye kurulacağını seçin</target>
+</phrase>
+<phrase>
+    <source>First bootable disk (recommended)</source>
+    <target>Açılış diski (önerilen)</target>
+</phrase>
+<phrase>
+    <source>Disk partition where Pisi Linux is installed</source>
+    <target>Pisi Linux&apos;un kurulacağı disk bölümü</target>
+</phrase>
+<phrase>
+    <source>Selected disk below</source>
+    <target>Aşağıdaki diske</target>
+</phrase>
+<phrase>
+    <source>Choose the user you want to reset the password:</source>
+    <target>Parolasını sıfırlamak istediğiniz kullanıcıyı seçin</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Parola:</target>
+</phrase>
+<phrase>
+    <source>Confirm Password</source>
+    <target>Parolayı Doğrula</target>
+</phrase>
+<phrase>
+    <source>Reset Password</source>
+    <target>Parolayı Sıfırla</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Connection status:&lt;/b&gt;</source>
+    <target>&lt;b&gt;Bağlantı durumu:&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>To use PiSi&apos;s history feature, you may need to be online. Select connection profile.</source>
+    <target>Pisi&apos;nin geçmiş özelliğini kullanabilmek için İnternete bağlı olmanız gerekir. Bağlantı profilinizi seçin.</target>
+</phrase>
+<phrase>
+    <source>Select Connection</source>
+    <target>Bağlantı Seç</target>
+</phrase>
+<phrase>
+    <source>Select the operation to undo:</source>
+    <target>Geri alınacak işlemi seçin:</target>
+</phrase>
+<phrase>
+    <source>Choose what do you want to do to repair your system</source>
+    <target>Sisteminizi onarmak için ne yapmak istediğinizi seçin</target>
+</phrase>
+<phrase>
+    <source>Reinstall bootloader</source>
+    <target>Açılış yöneticisini yeniden kur</target>
+</phrase>
+<phrase>
+    <source>Reset forgotten password</source>
+    <target>Unutulan parolayı sıfırla</target>
+</phrase>
+<phrase>
+    <source>Return back to a previous system state</source>
+    <target>Sistemi önceki bir duruma döndür</target>
+</phrase>
+<phrase>
+    <source>Administrator password</source>
+    <target>Yönetici parolası</target>
+</phrase>
+<phrase>
+    <source>Confirm password</source>
+    <target>Parolayı doğrula</target>
+</phrase>
+<phrase>
+    <source>Computer Name</source>
+    <target>Bilgisayarın Adı</target>
+</phrase>
+<phrase>
+    <source>User Name</source>
+    <target>Kullanıcı Adı</target>
+</phrase>
+<phrase>
+    <source>Real Name</source>
+    <target>Gerçek Ad</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Parola</target>
+</phrase>
+<phrase>
+    <source>Custom User ID</source>
+    <target>Özel Kullanıcı Kimliği</target>
+</phrase>
+<phrase>
+    <source>Not recommended</source>
+    <target>Önerilmez</target>
+</phrase>
+<phrase>
+    <source>Bypass authorization attempts for this user</source>
+    <target>Bu kullanıcıya yetkilendirmeler için parola sorma</target>
+</phrase>
+<phrase>
+    <source>Add user to administrator (wheel) group</source>
+    <target>Kullanıcıyı yönetici grubuna (wheel) ekle</target>
+</phrase>
+<phrase>
+    <source>Select auto login user</source>
+    <target>Otomatik giriş yapacak kullanıcıyı seçin</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Ekle</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Gelişmiş</target>
+</phrase>
+<phrase>
+    <source>Volume Group Name:</source>
+    <target>Hacim Grubunun Adı:</target>
+</phrase>
+<phrase>
+    <source>Physical Extends</source>
+    <target>Fiziksel Genişlemeler</target>
+</phrase>
+<phrase>
+    <source>Physical Volumes to use:</source>
+    <target>Kullanılacak fiziksel hacimler:</target>
+</phrase>
+<phrase>
+    <source>Total Space:</source>
+    <target>Toplam Alan:</target>
+</phrase>
+<phrase>
+    <source>Free Space:</source>
+    <target>Boş Alan:</target>
+</phrase>
+<phrase>
+    <source>Logical Volumes</source>
+    <target>Mantıksal Hacimler</target>
+</phrase>
+<phrase>
+    <source>Mountpoint</source>
+    <target>Bağlanma noktası</target>
+</phrase>
+<phrase>
+    <source>Used Space:</source>
+    <target>Kullanılan Alan:</target>
+</phrase>
+<phrase>
+    <source>Pisi Linux is installed and running successfully... 
+
+Before you login to system, you need to create your first user and set the system wide configurations. </source>
+    <target>Pisi Linux başarılı bir şekilde kuruldu ve çalışıyor.. 
+
+Sisteme giriş yapmadan önce ilk kullanıcı hesabını oluşturmalı ve sistem genelinde kullanılacak bazı ayarları yapmalısınız. </target>
+</phrase>
+<phrase>
+    <source>Not enough physical volumes</source>
+    <target>Yeterli fiziksel hacim bulunamadı</target>
+</phrase>
+<phrase>
+    <source>At least one unused physical volume partition is needed to
+create an LVM Volume Group.
+Create a partition or RAID array of type &quot;physical volume
+(LVM)&quot; and then select the &quot;LVM&quot; option again.</source>
+    <target>LVM Hacim Grubu yaratmak için en az bir fiziksel hacim gerekli.
+&quot;Fiziksel hacim (LVM)&quot; tipinde bir bölüm ya da RAID dizisi
+oluşturup tekrar deneyin.</target>
+</phrase>
+<phrase>
+    <source>Make LVM Volume Group</source>
+    <target>LVM Hacim Grubu Oluşturun</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group: %s</source>
+    <target>LVM Hacim Grubu&apos;nu Düzenleyin: %s</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group</source>
+    <target>LVM Hacim Grubunu Düzenle</target>
+</phrase>
+<phrase>
+    <source>Invalid Volume Group Name</source>
+    <target>Geçersiz Hacim Grubu Adı</target>
+</phrase>
+<phrase>
+    <source>Name in use</source>
+    <target>Kullanımda olan isim</target>
+</phrase>
+<phrase>
+    <source>The volume group name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Hacim grubu adı &quot;%s&quot; kullanımda. Lütfen başka bir seçim yapınız.</target>
+</phrase>
+<phrase>
+    <source>Not enough space</source>
+    <target>Yeterli alan yok</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+otherwise the space required by the currently defined
+logical volumes will be increased to more than the
+available space.</source>
+    <target>Fiziksel boyut oranı değiştirilemiyor, çünkü
+mantıksal bölümlerin boyutu ayrılan boş alandan
+fazla hâle gelecek.
+ </target>
+</phrase>
+<phrase>
+    <source>Confirm Physical Extent Change</source>
+    <target>Fiziksel Boyut Değişimini Onayla</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will
+require the sizes of the current logical volume requests
+to be rounded up in size to an integer multiple of
+the physical extent.
+
+This change will take effect
+immediately.</source>
+    <target>Fiziksel boyuttaki değerin değişimi
+var olan mantıksal hacmin boyutlarının oranına göre
+değişiklik gösterecek ve yukarı yuvarlanacaktır</target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>Devam Et</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+the value selected (%(curpe)10.2f MB) is larger than the
+smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>Fiziksel boyut değiştirilemiyor çünkü seçilen değer
+(%(curpe)10.2f MB) hacim grubundaki en düşük değerden
+(%(maxpvsize)10.2f MB) büyük.</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the value selected (%(curpe)10.2f MB) is too large compared to the size of the smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>Fiziksel boyut değiştirilemiyor, çünkü seçilen değer (%(curpe)10.2f MB) hacim grubundaki en küçük fiziksel hacme kıyasla (%(maxpvsize)10.2f MB) çok büyük.</target>
+</phrase>
+<phrase>
+    <source>Too small</source>
+    <target>Çok küçük</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will waste substantial space on one or more of the physical volumes in the volume group.</source>
+    <target>Fiziksel boyut değerindeki değişiklik, hacim grubuna ait olan fiziksel hacimler üzerinden yeterli alanın kaybolmasına yol açacaktır.</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the resulting maximum logical volume size (%10.2f MB) is smaller than one or more of their currently defined logical volumes.</source>
+    <target>Fiziksel boyut değiştirilemiyor, zira mantıksal hacimler için istenen 
+maksimum büyüklük (%10.2f MB), tanımlanmış olan mantıksal hacimlerden 
+bir ya da bir kaçından daha küçük oluyor.</target>
+</phrase>
+<phrase>
+    <source>No free slots</source>
+    <target>Boş yuva yok</target>
+</phrase>
+<phrase>
+    <source>You cannot create more than %d logical volume 
+per volume group.</source>
+    <target>hacim grubu başına en fazla %d mantıksal hacim
+oluşturulabilir.</target>
+</phrase>
+<phrase>
+    <source>No free space</source>
+    <target>Boş alan yok</target>
+</phrase>
+<phrase>
+    <source>There is no room left in the volume group to create new
+logical volumes. To add a logical volume you must reduce
+the size of one or more of the currently existing logical
+volumes</source>
+    <target>Hacim grubunda, yeni mantıksal hacim oluşturmaya yetecek
+alan yok. Mantıksal hacim eklemek için var olan mantıksal
+hacimlerden bir veya bir kaçının boyutunu düşürmeniz gerekli.</target>
+</phrase>
+<phrase>
+    <source>Confirm Delete</source>
+    <target>Silmeyi Onayla</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to delete the 
+logical volume &quot;%s&quot;?</source>
+    <target>Mantıksal hacmi silmek istediğinize
+emin misiniz &quot;%s&quot;?</target>
+</phrase>
+<phrase>
+    <source>Make Logical Volume</source>
+    <target>Mantıksal Hacim Oluştur</target>
+</phrase>
+<phrase>
+    <source>Edit Logical Volume: %s</source>
+    <target>Mantıksal Hacmi Düzenle: %s</target>
+</phrase>
+<phrase>
+    <source>Mount Point Error</source>
+    <target>Bağlama Noktası Hatası</target>
+</phrase>
+<phrase>
+    <source>Mount point in use</source>
+    <target>Kullanımdaki bağlama noktası</target>
+</phrase>
+<phrase>
+    <source>The mount point &quot;%s&quot; is in use. Please pick another.</source>
+    <target>Bağlama noktası &quot;%s&quot; kullanımda. Lütfen başka bir yer seçin.</target>
+</phrase>
+<phrase>
+    <source>Illegal Logical Volume Name</source>
+    <target>Geçersiz Mantıksal Hacim Adı</target>
+</phrase>
+<phrase>
+    <source>Illegal logical volume name</source>
+    <target>Geçersiz mantıksal hacim adı</target>
+</phrase>
+<phrase>
+    <source>The logical volume name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Mantıksal hacim adı &quot;%s&quot; şu an kullanımda. Lütfen başka bir ad seçin.</target>
+</phrase>
+<phrase>
+    <source>Illegal size</source>
+    <target>Geçersiz boyut</target>
+</phrase>
+<phrase>
+    <source>The requested size as entered is not a valid number greater than 0.</source>
+    <target>Talep edilen boyut 0&apos;dan daha büyük bir geçerli sayı değildir.</target>
+</phrase>
+<phrase>
+    <source>The current requested size (%(size)10.2f MB) is larger than the maximum logical volume size (%(maxlv)10.2f MB). To increase this limit you can create more Physical Volumes from unpartitioned disk space and add them to this Volume Group.</source>
+    <target>İstenen boyut (%(size)10.2f MB) maksimum mantıksal hacim boyutundan (%(maxlv)10.2f MB) daha büyüktür. Bu sınırı arttırmak için bölümlenmemiş disk alanında yeni Fiziksel Hacimler ekleyebilir ve onları bu hacim grubuna ekleyebilirsiniz.</target>
+</phrase>
+<phrase>
+    <source>The size entered for this logical volume (%(size)d MB) combined with the size of the other logical volume(s) exceeds the size of the volume group (%(tmpvgsize)d MB). Please make the volume group larger or make the logical volume smaller.</source>
+    <target>Bu mantıksal hacim için girilen boyut (%(size)d MB) diğer mantıksal hacim(ler) ile birleştirilmiş olup hacim grubunun (%(tmpvgsize)d MB) ebadını aşmaktadır. Lütfen hacim grubunu daha büyük tutun veya mantıksal hacmin ebadını daha küçük tutun.</target>
+</phrase>
+<phrase>
+    <source>Create Partition on %(path)s (%(model)s)</source>
+    <target>Burada Bölüm Oluştur %(path)s (%(model)s)</target>
+</phrase>
+<phrase>
+    <source>Edit Partition %s</source>
+    <target> Disk bölümünü düzenle %s</target>
+</phrase>
+<phrase>
+    <source>Edit Partition</source>
+    <target>Bölümü Düzenle</target>
+</phrase>
+<phrase>
+    <source>Error With Request</source>
+    <target>Hatalı İstek</target>
+</phrase>
+<phrase>
+    <source>Invalid Raid Members</source>
+    <target>Geçersiz Raid Üyeleri</target>
+</phrase>
+<phrase>
+    <source>At least two unused software RAID partitions are needed to create a RAID device.
+
+First create at least two partitions of type &quot;software RAID&quot;, and then select the &quot;RAID&quot; option again.</source>
+    <target>Bir RAID aygıtı yaratmak için en az kullanılmamış software RAID bölümlerine ihtiyaç var.
+
+Önce, &quot;software RAID&quot; türünde iyi bölüm oluşturun ve tekrar &quot;RAID&quot; seçeneğini işaretleyin. </target>
+</phrase>
+<phrase>
+    <source>Make RAID Device</source>
+    <target>RAID Aygıtı Oluştur</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device: %s</source>
+    <target>RAID Aygıtını Düzenleyin: %s</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device</source>
+    <target>RAID Aygıtını Düzenle</target>
+</phrase>
+<phrase>
+    <source>A RAID%(level)d set requires at least %(min_member)d member</source>
+    <target>RAID%(level)d seti en az %(min_member)d üye gerektirir</target>
+</phrase>
+<phrase>
+    <source>Error!</source>
+    <target>Hata!</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load an installer interface component.
+
+className = %s.Widget</source>
+    <target>Kurulum arayüz bileşeni yüklenmeye çalışılırken bir hata meydana geldi.
+
+className = %s.Widget</target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target>Çık</target>
+</phrase>
+<phrase>
+    <source>Retry</source>
+    <target>Tekrar dene</target>
+</phrase>
+<phrase>
+    <source>Storage Devices initialising...</source>
+    <target>Depolama Aygıtları başlatılıyor...</target>
+</phrase>
+<phrase>
+    <source>Password is too short.</source>
+    <target>Parola çok kısa.</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match.</source>
+    <target>Parolalar aynı değil.</target>
+</phrase>
+<phrase>
+    <source>Do not use your username as your password.</source>
+    <target>Kullanıcı adınızı parola olarak kullanmayın.</target>
+</phrase>
+<phrase>
+    <source>Hostname cannot be longer than 64 characters.</source>
+    <target>Makine adı 64 karakterden daha uzun olmamalıdır.</target>
+</phrase>
+<phrase>
+    <source>Hostname contains invalid characters.</source>
+    <target>Makine adı geçersiz karakterler içeriyor.</target>
+</phrase>
+<phrase>
+    <source>Starting validation...</source>
+    <target>Doğrulama başlatılıyor...</target>
+</phrase>
+<phrase>
+    <source>Package validation is in progress. Please wait until it is completed.</source>
+    <target>Paket doğrulaması devam ediyor. Lütfen bitene kadar bekleyiniz.</target>
+</phrase>
+<phrase>
+    <source>Validating %s</source>
+    <target>Doğruluyor %s</target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>Uyarı</target>
+</phrase>
+<phrase>
+    <source>Validation of %s package failed.Please remaster your installation medium andreboot.</source>
+    <target>Paket %s doğrulanamadı. Lütfen kurulum medyasını tekrar oluşturun.</target>
+</phrase>
+<phrase>
+    <source>Skip Validation</source>
+    <target>Doğrulamayı Atla</target>
+</phrase>
+<phrase>
+    <source>Skip Package</source>
+    <target>Paketi Atla</target>
+</phrase>
+<phrase>
+    <source>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Validation succeeded. You can proceed with the installation.&lt;/b&gt;&lt;/font&gt;</source>
+    <target>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Kontrol başarılı. Kuruluma devam edebilirsiniz.&lt;/b&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Package validation is finished.</source>
+    <target>Paket doğrulaması tamamlandı.</target>
+</phrase>
+<phrase>
+    <source>Adjusting time settings</source>
+    <target>Saat ayarlanıyor.</target>
+</phrase>
+<phrase>
+    <source>Device Path: %s</source>
+    <target>Aygıt Adresi: %s</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Hata</target>
+</phrase>
+<phrase>
+    <source>You must select at least one drive to be used for installation.</source>
+    <target>Kurulum için en az bir sürücü seçmek zorundasınız.</target>
+</phrase>
+<phrase>
+    <source>Running post-install operations...</source>
+    <target>Kurulum sonrası işlemler gerçekleştiriliyor...</target>
+</phrase>
+<phrase>
+    <source>Press &lt;b&gt;Restart&lt;/b&gt; to restart the computer.</source>
+    <target>Bilgisayarınızı yeniden başlatmak için &lt;b&gt;Yeniden Başlat&lt;/b&gt; düğmesine tıklayın.</target>
+</phrase>
+<phrase>
+    <source>Restart</source>
+    <target>Yeniden Başlat</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Please wait while restarting...&lt;/b&gt;</source>
+    <target>&lt;b&gt;Yeniden başlatılırken lütfen bekleyin...&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Setting timezone...</source>
+    <target>Zaman dilimi ayarlanıyor...</target>
+</phrase>
+<phrase>
+    <source>Migrating Xorg configuration...</source>
+    <target>X.org Yapılandırması aktarılıyor...</target>
+</phrase>
+<phrase>
+    <source>Copying repository index...</source>
+    <target>Pisi indeksi kopyalanıyor...</target>
+</phrase>
+<phrase>
+    <source>Setting hostname...</source>
+    <target>Makine adı ayarlanıyor...</target>
+</phrase>
+<phrase>
+    <source>Setting root password...</source>
+    <target>Root parolası ayarlanıyor...</target>
+</phrase>
+<phrase>
+    <source>Resetting user password...</source>
+    <target>Kullanıcı parolası ayarlanıyor...</target>
+</phrase>
+<phrase>
+    <source>Setup First-Boot...</source>
+    <target>İlk Açılış ayarlanıyor...</target>
+</phrase>
+<phrase>
+    <source>Teardown First-Boot...</source>
+    <target>İlk Açılış kapatılıyor...</target>
+</phrase>
+<phrase>
+    <source>Adding users...</source>
+    <target>Kullanıcılar ekleniyor...</target>
+</phrase>
+<phrase>
+    <source>Installing bootloader...</source>
+    <target>Açılış yöneticisi yükleniyor...</target>
+</phrase>
+<phrase>
+    <source>Writing bootloader config...</source>
+    <target>Açılış yöneticisi yapılandırması yazılıyor...</target>
+</phrase>
+<phrase>
+    <source>Stopping to D-Bus...</source>
+    <target>D-BUS Durduruluyor...</target>
+</phrase>
+<phrase>
+    <source>Teardown storage subsystem...</source>
+    <target>Depolama alt sistemi kapatılıyor...</target>
+</phrase>
+<phrase>
+    <source>Installing &lt;b&gt;%(name)s&lt;/b&gt; -- %(summary)s</source>
+    <target>&lt;b&gt;%(name)s&lt;/b&gt; paketi kuruluyor&lt;br&gt;%(summary)s</target>
+</phrase>
+<phrase>
+    <source>Configuring &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>&lt;b&gt;%s&lt;/b&gt; paketi yapılandırılıyor</target>
+</phrase>
+<phrase>
+    <source>Following error occured while installing packages:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do you want to retry?</source>
+    <target>Paketler kurulurken aşağıdaki hata meydana geldi:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Tekrar denemek ister misiniz?</target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>Evet</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>Hayır</target>
+</phrase>
+<phrase>
+    <source>An error occured during the installation of packages.
+This may be caused by a corrupted installation medium error:
+%s
+</source>
+    <target>Paketlerin kurulumu sırasında bir hata oluştu.
+
+Bu bozuk bir kurulum medyasından (CD, DVD, USB vb.) kaynaklanıyor olabilir.
+
+Hata:
+%s
+</target>
+</phrase>
+<phrase>
+    <source>No storage device found.</source>
+    <target>Hiç bir yükleme aygıtı bulunamadı.</target>
+</phrase>
+<phrase>
+    <source>Use Alt-Shift to toggle between alternative keyboard layouts</source>
+    <target>Alt-Shift kombinasyonuyla alternatif klavye yerleşimlerini deneyebilirsiniz</target>
+</phrase>
+<phrase>
+    <source>License text could not be found.</source>
+    <target>Lisans metni bulunamadı.</target>
+</phrase>
+<phrase>
+    <source>No partitions are available to resize. Only physical
+partitions which size is greater than %s MB can be resized.</source>
+    <target>Yeniden boyutlandırılacak bölüm yok. Sadece özel
+dosya yapılarına sahip %s MB daha büyük fiziksel bölümler yeniden boyutlandırılabilir.</target>
+</phrase>
+<phrase>
+    <source>Use All Disks</source>
+    <target>Disklerin tamamını kullan</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested caused the following critical errors.You must correct these errors before you continue your installation of %s.</source>
+    <target>Talep ettiğiniz bölümleme şeması aşağıdaki kritik hataların oluşmasına neden oldu. Kurulumunuza %s devam etmeden önce bu hataları düzeltmeniz gerekecektir.</target>
+</phrase>
+<phrase>
+    <source>Partitioning Errors</source>
+    <target>Biçimlendirme Hataları</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested generated the following warnings. Would you like to continue with your requested partitioning scheme?</source>
+    <target>Talep ettiğiniz bölümleme şeması aşağıdaki uyarıların ortaya çıkmasına oldu.Talep ettiğiniz bölümleme şeması ile devam etmek istiyor musunuz?</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warnings</source>
+    <target>Bölümleme Uyarıları</target>
+</phrase>
+<phrase>
+    <source>Ok</source>
+    <target>Tamam</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing devices have been selected to be formatted, destroying all data.</source>
+    <target>Aşağıdaki aygıtlar biçimlendirilmek üzere seçilmiş durumdadırlar, bu işlem aygıtlardaki verilerin kaybolmasına neden olacaktır.</target>
+</phrase>
+<phrase>
+    <source>Format Warnings</source>
+    <target>Biçimlendirme Uyarıları</target>
+</phrase>
+<phrase>
+    <source>All Changes that you made will be removed</source>
+    <target>Yaptığınız tüm değişiklikler silinecek</target>
+</phrase>
+<phrase>
+    <source>Standard</source>
+    <target>Standart</target>
+</phrase>
+<phrase>
+    <source>LVM</source>
+    <target>LVM</target>
+</phrase>
+<phrase>
+    <source>RAID</source>
+    <target>RAID</target>
+</phrase>
+<phrase>
+    <source>Partition</source>
+    <target>Disk bölümü</target>
+</phrase>
+<phrase>
+    <source>Member</source>
+    <target>Üye</target>
+</phrase>
+<phrase>
+    <source>Array</source>
+    <target>Dizi</target>
+</phrase>
+<phrase>
+    <source>Volume Groups</source>
+    <target>Hacim Grupları</target>
+</phrase>
+<phrase>
+    <source>Free</source>
+    <target>Boş</target>
+</phrase>
+<phrase>
+    <source>Raid Arrays</source>
+    <target>Raid Dizileri</target>
+</phrase>
+<phrase>
+    <source>Hard Drives</source>
+    <target>Sabit Diskler</target>
+</phrase>
+<phrase>
+    <source>Can&apos;t handle more than one extended partition per disk</source>
+    <target>Disk başına birden fazla uzatılmış bölüm oluşturulamaz</target>
+</phrase>
+<phrase>
+    <source>Crossed logical partition before extended</source>
+    <target>Uzatılmış bölümden önceki engellenmiş mantıksal bölüm</target>
+</phrase>
+<phrase>
+    <source>Extended</source>
+    <target>Uzatılmış</target>
+</phrase>
+<phrase>
+    <source>Error Partitioning</source>
+    <target>Bölümlendirme Hatası</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: %s.</source>
+    <target>İstenen disk bölümleri oluşturulamıyor: %s.</target>
+</phrase>
+<phrase>
+    <source>Warning Partitioning</source>
+    <target>Bölümlendirme Uyarısı</target>
+</phrase>
+<phrase>
+    <source>Warning: %s.</source>
+    <target>Uyarı: %s.</target>
+</phrase>
+<phrase>
+    <source>Modify Partition</source>
+    <target>Bölümü Boyutlandır</target>
+</phrase>
+<phrase>
+    <source>Partition Selection Warning</source>
+    <target>Disk Bölümü Seçim Uyarısı</target>
+</phrase>
+<phrase>
+    <source>Please select free physical partition to create new device.</source>
+    <target>Yeni aygıt oluşturmak için boş bir fiziksel disk bölümü seçin.</target>
+</phrase>
+<phrase>
+    <source>Unable To Edit</source>
+    <target>Düzenleme Yapılamıyor</target>
+</phrase>
+<phrase>
+    <source>You cannot edit this device:
+
+%s</source>
+    <target>Bu aygıtı düzenleyemezsiniz:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t use your user name or name as a password</source>
+    <target>Parola olarak kullanıcı adınızı veya gerçek adınızı kullanmayın</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match</source>
+    <target>Parolalar aynı değil</target>
+</phrase>
+<phrase>
+    <source>Password is too short</source>
+    <target>Parola çok kısa</target>
+</phrase>
+<phrase>
+    <source>Cannot Rescue</source>
+    <target>Kurtarma gerçekleştirilemiyor</target>
+</phrase>
+<phrase>
+    <source>Your current installation cannot be rescued.</source>
+    <target>Şu anki kurulumunuz kurtarılamaz.</target>
+</phrase>
+<phrase>
+    <source>Super User</source>
+    <target>Yetkili Kullanıcı</target>
+</phrase>
+<phrase>
+    <source>Starting D-Bus...</source>
+    <target>D-Bus Başlatılıyor...</target>
+</phrase>
+<phrase>
+    <source>Connecting to D-Bus...</source>
+    <target>D-Bus&apos;a bağlanılıyor...</target>
+</phrase>
+<phrase>
+    <source>Fetching history...</source>
+    <target>Geçmiş bilgisi getiriliyor...</target>
+</phrase>
+<phrase>
+    <source>Please Wait...</source>
+    <target>Lütfen Bekleyin...</target>
+</phrase>
+<phrase>
+    <source>No connection available</source>
+    <target>Bağlantı bulunamadı</target>
+</phrase>
+<phrase>
+    <source>Operation %(no)s : %(date)s - %(type)s</source>
+    <target>İşlem %(no)s : %(date)s - %(type)s</target>
+</phrase>
+<phrase>
+    <source>Connecting to network %s...</source>
+    <target>%s ağına bağlanıyor ...</target>
+</phrase>
+<phrase>
+    <source>Connection failed</source>
+    <target>Bağlantı başarısız</target>
+</phrase>
+<phrase>
+    <source>Connected</source>
+    <target>Bağlı</target>
+</phrase>
+<phrase>
+    <source>Mount failed</source>
+    <target>Bağlama başarısız</target>
+</phrase>
+<phrase>
+    <source>The following error occurred when mounting the file systems listed in /etc/fstab.  Please fix this problem and try to rescue again.
+%s</source>
+    <target>/etc/fstab içinde belirtilmiş dosya sistemleri bağlanırken aşağıdaki hata oluştu. Lütfen, hatayı düzeltiniz ve kurtarmayı tekrar deneyiniz.
+%s</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;&lt;p&gt;Are you sure you want to restart the computer?&lt;/p&gt;&lt;/b&gt;</source>
+    <target>&lt;b&gt;&lt;p&gt;Bilgisayarı yeniden başlatmak istediğinizden emin misiniz?&lt;/p&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Installation starts in &lt;b&gt;%s&lt;/b&gt; seconds</source>
+    <target>Kurulumun başlamasına &lt;b&gt;%s&lt;/b&gt; saniye kaldı</target>
+</phrase>
+<phrase>
+    <source>Start Installation</source>
+    <target>Kurulumu Başlat</target>
+</phrase>
+<phrase>
+    <source>Apply Settings</source>
+    <target>Ayarları Uygula</target>
+</phrase>
+<phrase>
+    <source>Keyboard Settings</source>
+    <target>Klavye Ayarları</target>
+</phrase>
+<phrase>
+    <source>Selected keyboard layout is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Seçilen klavye haritası &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Date/Time Settings</source>
+    <target>Saat/Tarih Ayarları</target>
+</phrase>
+<phrase>
+    <source>Selected TimeZone is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Seçilen Zaman Dilimi &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>User Settings</source>
+    <target>Kullanıcı Ayarları</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added.</source>
+    <target>Kullanıcı %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) eklendi.</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added with &lt;u&gt;administrator privileges&lt;/u&gt;.</source>
+    <target>Kullanıcı %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) &lt;u&gt;yetkili kullanıcı&lt;/u&gt; haklarıyla eklendi.</target>
+</phrase>
+<phrase>
+    <source>Hostname Settings</source>
+    <target>Makine Adı Ayarları</target>
+</phrase>
+<phrase>
+    <source>Hostname is set as &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Makine adı &lt;b&gt;%s&lt;/b&gt; olarak seçildi</target>
+</phrase>
+<phrase>
+    <source>Partition Settings</source>
+    <target>Disk Bölümü Ayarları</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning selected.</source>
+    <target>Otomatik kurulum seçildi.</target>
+</phrase>
+<phrase>
+    <source>Use All Space</source>
+    <target>Diskin Tamamını Kullan</target>
+</phrase>
+<phrase>
+    <source>Removes all partitions on the selected %s device(s). &lt;b&gt;&lt;u&gt;This includes partitions created by other operating systems.&lt;/u&gt;&lt;/b&gt;</source>
+    <target>%s seçili aygıtındaki(veya aygıtlarındaki) tüm bölümleri kaldırır. &lt;b&gt;&lt;u&gt;Bu işlem diğer işletim sistemleri tarafından oluşturulmuş bölümleri de kapsar.&lt;/u&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Replace Existing Linux System(s)</source>
+    <target>Var Olan Linux İşletim Sistem(leri)i Üzerine Yükle</target>
+</phrase>
+<phrase>
+    <source>Removes all Linux partitions on the selected%s device(s). This does not remove other partitions you may have on your storage device(s) (such as VFAT or FAT32)</source>
+    <target>Seçili aygıt(lar)%s üstündeki Linux disk bölümlerini siler. Bu işlem 
+diskinizdeki (VFAT veya FAT32) gibi diğer disk bölümlerine uygulanmaz.</target>
+</phrase>
+<phrase>
+    <source>Retains your current data and partitions and uses only the unpartitioned space on the selected %s device(s), assuming you have enough free space available.</source>
+    <target>Var olan veri ve disk bölümlerini koruyarak seçili %s aygıt(lar) üzerindeki
+bölümlenmemiş alanları kullanır. Yeterli boş alan olduğu var sayılır.</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning selected.</source>
+    <target>Elle Bölümlendirme seçildi.</target>
+</phrase>
+<phrase>
+    <source>Bootloader Settings</source>
+    <target>Açılış Yöneticisi Ayarları</target>
+</phrase>
+<phrase>
+    <source>GRUB will be installed to &lt;b&gt;%s&lt;/b&gt;.</source>
+    <target>GRUB &lt;b&gt;%s&lt;/b&gt; üzerine kurulacak.</target>
+</phrase>
+<phrase>
+    <source>GRUB will not be installed.</source>
+    <target>GRUB kurulmayacak.</target>
+</phrase>
+<phrase>
+    <source>Package Installation Settings</source>
+    <target>Paket Kurulum Ayarları</target>
+</phrase>
+<phrase>
+    <source>Collection &lt;b&gt;%s&lt;/b&gt; selected</source>
+    <target>Seçilen koleksiyon &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Confirm</source>
+    <target>Onayla</target>
+</phrase>
+<phrase>
+    <source>The partitioning options you have selected will now be written to disk. Any data on deleted or reformatted partitions will be lost.</source>
+    <target>Belirlediğiniz biçimlendirme seçenekleri diske uygulanacak. Silinen veya yeniden biçimlendirilen bölümlerdeki tüm verileri kaybedeceksiniz.</target>
+</phrase>
+<phrase>
+    <source>Write Changes to Disk</source>
+    <target>Değişiklikleri Diske Yaz</target>
+</phrase>
+<phrase>
+    <source>Go Back</source>
+    <target>Geri Dön</target>
+</phrase>
+<phrase>
+    <source>Proprietary Hardware Drivers</source>
+    <target>Üretici Tarafından Desteklenen Donanım Sürücüleri</target>
+</phrase>
+<phrase>
+    <source>&lt;qt&gt;Proprietary drivers are available which may be required to utilize the full capabilities of your video card. These drivers are developed by the hardware manufacturer and not supported by Pisi Linux developers since their source code is not publicly available.&lt;br&gt;&lt;br&gt;&lt;b&gt;Do you want to install and use these proprietary drivers instead of the default drivers?&lt;/b&gt;&lt;/qt&gt;</source>
+    <target>&lt;qt&gt;Ekran kartınızın tüm özelliklerini kullanmanızı sağlamak için gerekli olabilecek sahipli sürücüler de bulunuyor. Bu sürücüler donanım üreticileri tarafından sağlanıyor ve kaynak kodu açık olmadığı için Pisi Linux geliştiricileri tarafından destek verilemiyor. &lt;br&gt;&lt;br&gt;&lt;b&gt;Ön tanımlı sürücüler yerine sahipli sürücüleri kurmak ister misiniz?&lt;/b&gt;&lt;/qt&gt;</target>
+</phrase>
+<phrase>
+    <source>Update</source>
+    <target>Güncelle</target>
+</phrase>
+<phrase>
+    <source>This user name is already taken, please choose another one.</source>
+    <target>Bu kullanıcı adı zaten var, başka bir tane seçin.</target>
+</phrase>
+<phrase>
+    <source>The user name contains invalid characters.</source>
+    <target>Kullanıcı adı geçersiz karakterler içeriyor.</target>
+</phrase>
+<phrase>
+    <source>The real name contains invalid characters.</source>
+    <target>Gerçek İsim bölümü geçersiz karakterler içeriyor.</target>
+</phrase>
+<phrase>
+    <source>User ID used before, choose another one!</source>
+    <target>Kullanıcı ID&apos;si daha önce kullanılmış, başka bir tane seçin!</target>
+</phrase>
+<phrase>
+    <source>Partitions to Shrink</source>
+    <target>Disk Bölümü Ayarları</target>
+</phrase>
+<phrase>
+    <source>Resize FileSystem Error</source>
+    <target>Dosya Sistemi Yeniden Boyutlandırma Hatası</target>
+</phrase>
+<phrase>
+    <source>%(device)s: %(msg)s</source>
+    <target>%(device)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>Resize Device Error</source>
+    <target>Aygıtı Yeniden Boyutlandırma Hatası</target>
+</phrase>
+<phrase>
+    <source>%(name)s: %(msg)s</source>
+    <target>%(name)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>You cannot remove this physical volume because
+otherwise the volume group will be too small to
+hold the currently defined logical volumes.</source>
+    <target>Bu fiziksel hacmi kaldıramazsınız çünkü
+o taktirde belirlenen mantıksal hacimleri
+korumak için hacim grubunun ebadı
+çok küçük kalacaktır.</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t ask again</source>
+    <target>Tekrar sorma</target>
+</phrase>
+<phrase>
+    <source>Do you want to continue?</source>
+    <target>Devam etmek istiyor musunuz?</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Bilgi</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>Tamam</target>
+</phrase>
+<phrase>
+    <source>Error reporting</source>
+    <target>Hata bildiriyor</target>
+</phrase>
+<phrase>
+    <source>Pixmaps resources file doesn&apos;t exists</source>
+    <target>Pixmap kaynak dosyası mevcut değil</target>
+</phrase>
+<phrase>
+    <source>Style file doesn&apos;t exists</source>
+    <target>Stil dosyası mevcut değil</target>
+</phrase>
+<phrase>
+    <source>Release file doesn&apos;t exists</source>
+    <target>Sürüm dosyası mevcut değil</target>
+</phrase>
+<phrase>
+    <source>Turn Off Computer</source>
+    <target>Bilgisayarı Kapat</target>
+</phrase>
+<phrase>
+    <source>Restart Computer</source>
+    <target>Bilgisayarı Yeniden Başlat</target>
+</phrase>
+<phrase>
+    <source>Restart YALI</source>
+    <target>Kurulumu Yeniden Başlat</target>
+</phrase>
+<phrase>
+    <source>right</source>
+    <target>Sağ</target>
+</phrase>
+<phrase>
+    <source>left</source>
+    <target>Sol</target>
+</phrase>
+<phrase>
+    <source>Mouse Settings</source>
+    <target>Fare Ayarları</target>
+</phrase>
+<phrase>
+    <source>You just clicked the &lt;b&gt;%s&lt;/b&gt; mouse button.</source>
+    <target>&lt;b&gt;%s&lt;/b&gt; fare tuşuna tıkladınız.</target>
+</phrase>
+<phrase>
+    <source>Do you want to switch to the &lt;b&gt;%s&lt;/b&gt; handed configuration?</source>
+    <target>&lt;b&gt;%s&lt;/b&gt; el için uygun fare ayarlarını kullanmak ister misiniz?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to shut down your computer now?</source>
+    <target>Bilgisayarı şimdi kapatmak istiyor musunuz?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart your computer now?</source>
+    <target>Bilgisayarı şimdi yeniden başlatmak istiyor musunuz?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart the YALI installer now?</source>
+    <target>YALI kurulum sihirbazını tekrar başlatmak istediğinize emin misiniz?</target>
+</phrase>
+<phrase>
+    <source>Terminal</source>
+    <target>Uçbirim</target>
+</phrase>
+<phrase>
+    <source>Tetris</source>
+    <target>Tetris</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load screens:%s</source>
+    <target>Kurulum arayüz bileşeni yüklenmeye çalışılırken bir hata meydana geldi.%s</target>
+</phrase>
+<phrase>
+    <source>Release notes could not be loaded.</source>
+    <target>Sürüm notları yüklenemedi.</target>
+</phrase>
+<phrase>
+    <source>%s</source>
+    <target>%s</target>
+</phrase>
+<phrase>
+    <source>Windows</source>
+    <target>Windows</target>
+</phrase>
+<phrase>
+    <source>This partition is part of an inconsistent LVM Volume Group.</source>
+    <target>Bu disk bölümü tutarsız bir LVM Hacim Grubunun parçası.</target>
+</phrase>
+<phrase>
+    <source>Failed teardownAll in storage.complete with error:%s</source>
+    <target>storage.complete  metodunda başarısız teardownAll hatası:%s </target>
+</phrase>
+<phrase>
+    <source>Storage Device Error</source>
+    <target>Depolama Aygıtları Hatası</target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while partitioning on device %s.</source>
+    <target>%s aygıtını bölümlendirirken bir hata oldu.</target>
+</phrase>
+<phrase>
+    <source>Storage Format Error</source>
+    <target>Depolama Aygıtı Biçimlendirme Hatası</target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while formatting on device %s.</source>
+    <target>%s aygıtını Biçimlendirken bir hata oldu.</target>
+</phrase>
+<phrase>
+    <source>Exit installer</source>
+    <target>Kurulum sihirbazından çık</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target>Göz ardı Et</target>
+</phrase>
+<phrase>
+    <source>Dirty File Systems</source>
+    <target>Bozuk Dosya Sistemi </target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Please boot your Linux installation, let the file systems be checked and shut down cleanly to rescue.
+%s</source>
+    <target>Linux sisteminiz için belirtilen dosya sistemi temiz bir şekilde ayrılamadı. Lütfen Linux kurulumunuzu yeniden başlatın. Dosya sistemlerinizin denetlenmesine ve kurtarılmak üzere düzgünce kapatılmasına izin verin.
+%s</target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Would you like to mount them anyway?
+%s</source>
+    <target>Linux sisteminizin dosya sistemi temiz bir şekilde ayrılamadı. Genede ayırma işlemini gerçekleştirmek ister misiniz?
+%s</target>
+</phrase>
+<phrase>
+    <source>This partition is holding the data for the hard drive install.</source>
+    <target>Bu disk bölümü sabit diske kurulum için gerekli veriyi saklıyor.</target>
+</phrase>
+<phrase>
+    <source>You cannot delete a partition of a LDL formatted DASD.</source>
+    <target>LDL biçimli bir DASD bölümünü silemezsiniz.</target>
+</phrase>
+<phrase>
+    <source>This device is part of the RAID device %s, you have to edit or remove the raid partition appropriately!</source>
+    <target>Bu aygıt %s RAID aygıtının parçası. Raid bölümlerinin kendi yöntemleriyle düzenlenmesi ya da silinmesi gerekir!</target>
+</phrase>
+<phrase>
+    <source>This device is part of a RAID device.</source>
+    <target>Bu aygıt bir RAID aygıtının parçası.</target>
+</phrase>
+<phrase>
+    <source>This device is part of the LVM volume group &apos;%s&apos;.</source>
+    <target>Bu aygıt &apos;%s&apos; LVM hacim grubunun parçası.</target>
+</phrase>
+<phrase>
+    <source>This device is part of a LVM volume group.</source>
+    <target>Bu aygıt bir LVM hacim grubu parçası.</target>
+</phrase>
+<phrase>
+    <source>This device is an extended partition which contains logical partitions that cannot be deleted:
+
+</source>
+    <target>Bu aygıt silinemeyecek mantıksal bölümler içeren bir genişletilmiş disk bölümü:
+
+</target>
+</phrase>
+<phrase>
+    <source>You have not defined a root partition (/),which is required for installation of %s to continue.</source>
+    <target>%s kurulumuna devam etmek için gerekli olan kök dizin bölümünü (/) tanımlanmadınız.</target>
+</phrase>
+<phrase>
+    <source>Your / partition is less than %(min)s MB which is lower than recommended for a normal %(productName)s install.</source>
+    <target>Kök dizin bölünüz ( / ) normal bir %(productName)s kurulumu için önerilen %(min)s MB boyutun altında.</target>
+</phrase>
+<phrase>
+    <source>Your %(mount)s partition is less than %(size)s megabytes which is lower than recommended for a normal %(productName)s install.</source>
+    <target>%(mount)s disk bölümü, normal bir %(productName)s kurulumu için önerilen %(size)s megabyte boyutun altında.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Due to the amount of memory present, a swap partition is required to complete installation.</source>
+    <target>Takas alanı belirlenmemiş. Kullanılabilen hafıza ile bir takas alanı  kurulumu tamamlamak için zorunlu görünüyor.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Although not strictly required in all cases, it will significantly improve performancefor most installations.</source>
+    <target>Takas alanı belirlenmemiş. Bu her durumda gerekli olmasa da,  bir çok kurulumda performansta ciddi artış sağlayacaktır.</target>
+</phrase>
+<phrase>
+    <source>This mount point is invalid. The %s directory must be on the / file system.</source>
+    <target>Bağlama noktası geçersiz. %s dizini kök (/) dosya sisteminde yer almalı.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s must be on a linux file system.</source>
+    <target>%s bağlama noktası linux dosya sistemlerinden biri olmalı.</target>
+</phrase>
+<phrase>
+    <source>No Drives Found</source>
+    <target>Disk bulunamadı</target>
+</phrase>
+<phrase>
+    <source>An error has occurred - no valid devices were found on
+which to create new file systems. Please check your
+hardware for the cause of this problem.</source>
+    <target>Bir hata ortaya çıktı - yeni dosya sistemi yaratılabilecek
+ herhangi bir geçerli aygıt bulunamadı. Lütfen donanımınızda
+ bununla ilgili bir sorun olup olmadığını kontrol edin.</target>
+</phrase>
+<phrase>
+    <source>requested size exceeds maximum allowed</source>
+    <target>istenilen boyut en büyük değeri geçiyor.</target>
+</phrase>
+<phrase>
+    <source>partition is too %(problem)s for %(format)s formatting</source>
+    <target>bölüm %(format)s biçimlendirme için çok %(problem)s</target>
+</phrase>
+<phrase>
+    <source>not enough free space on disks</source>
+    <target>diskte yeterli alan yok</target>
+</phrase>
+<phrase>
+    <source>not enough free space after creating extended partition</source>
+    <target>genişletilmiş bölüm yaratıldıktan sonra yeterli alan yok</target>
+</phrase>
+<phrase>
+    <source>not enough space for LVM requests</source>
+    <target>LVM isteği için yeterli alan yok</target>
+</phrase>
+<phrase>
+    <source>Could not find enough free space for automatic
+partitioning, please use another partitioning method.</source>
+    <target>Otomatik disk bölümü için yeterli boş disk alanı bulunamadı
+ lütfen başka bir bölümleme yöntemi seçin.</target>
+</phrase>
+<phrase>
+    <source>Warnings During Automatic Partitioning</source>
+    <target>Otomatik Bölümlendirme İşlemi Uyarıları</target>
+</phrase>
+<phrase>
+    <source>Following warnings occurred during automatic partitioning:
+
+%s</source>
+    <target>Otomatik bölümlendirme sırasında aşağıdaki hatalar ortaya çıktı:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>
+
+Press &apos;OK&apos; to exit the installer.</source>
+    <target>
+
+Kurulum sihirbazından çıkmak için &apos;Tamam&apos; tuşuna tıklayın.</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: 
+%(msg)s.%(extra)s</source>
+    <target>Disk bölümleri belirlenen şekilde atanamadı: 
+%(msg)s.%(extra)s</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning Errors</source>
+    <target>Otomatik Disk Bölümleme Hataları</target>
+</phrase>
+<phrase>
+    <source>The following errors occurred with your partitioning:
+
+%(errortxt)s
+
+This can happen if there is not enough space on your hard drive(s) for the installation. %(extra)s</source>
+    <target>Disk bölümleme ile ilgili aşağıdaki hatalar ortaya çıktı:
+
+%(errortxt)s
+
+Yeterli disk alanı olmadığı durumlarda bu sorun yaşanabilir.%(extra)s</target>
+</phrase>
+<phrase>
+    <source>Please enter a volume group name.</source>
+    <target>Lütfen hacim grup adı belirleyin.</target>
+</phrase>
+<phrase>
+    <source>Volume Group Names must be less than 128 characters</source>
+    <target>Hacim Grup Adları 128 karakterden az olmalı</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name %s is not valid.</source>
+    <target>Hata - hacim grup adı %s geçersiz.</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Hata - hacim grup adında boşluk ya da başka izin verilmeyen karakter kullanılmış. Sadece &apos;.&apos; ya da &apos;_&apos; karakterleri kullanılabilir.</target>
+</phrase>
+<phrase>
+    <source>Please enter a logical volume name.</source>
+    <target>Lütfen bir mantıksal hacim adı girin.</target>
+</phrase>
+<phrase>
+    <source>Logical Volume Names must be less than 128 characters</source>
+    <target>Mantıksal Hacim Adları 128 karakterden az olmalı</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name %s is not valid.</source>
+    <target>Hata - mantıksal hacim adı %s geçersiz.</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Hata - mantıksal hacim adında boşluk ya da başka izin verilmeyen karakter kullanılmış. Sadece &apos;.&apos; ya da &apos;_&apos; karakterleri kullanılabilir.</target>
+</phrase>
+<phrase>
+    <source>Format as Swap?</source>
+    <target>Takas Alanı olarak biçimlendirilsin mi?</target>
+</phrase>
+<phrase>
+    <source>%s has a partition type of 0x82 (Linux swap) but does not appear to be formatted as a Linux swap partition.
+
+Would you like to format this partition as a swap partition?</source>
+    <target>%s disk bölümü tipi olarak 0x82 (Linux takas) işaretlenmiş ama Linux takas alanı biçimine sahip değil.
+
+Bu disk bölümünü takas alanı olacak şekilde biçimlendirmek ister misiniz?</target>
+</phrase>
+<phrase>
+    <source>You are about to delete all partitions on the device &apos;%s&apos;.</source>
+    <target>&apos;%s&apos; aygıtındaki tüm disk bölümlerini silmek üzeresiniz.</target>
+</phrase>
+<phrase>
+    <source>Notice</source>
+    <target>Uyarı</target>
+</phrase>
+<phrase>
+    <source>The following partitions were not deleted because they are in use:
+
+%s</source>
+    <target>Aşağıdaki disk bölümleri silinemedi çünkü hâlâ kullanılıyorlar:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>Unable To Delete</source>
+    <target>Silinemedi</target>
+</phrase>
+<phrase>
+    <source>You must first select a partition to delete.</source>
+    <target>Silinecek disk bölümünü seçmelisiniz.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s is invalid.  Mount points must start with &apos;/&apos; and cannot end with &apos;/&apos;, and must contain printable characters and no spaces.</source>
+    <target>%s bağlama noktası geçersiz. Bağlama noktaları &apos;/&apos; karakteriyle başlamalı, yazılabilir karakterlerden, boşluk içermeyen biçimde olmalı ve &apos;/&apos; karakteriyle bitmemelidir.</target>
+</phrase>
+<phrase>
+    <source>Error with Partitioning</source>
+    <target>Bölümlendirme Hatası</target>
+</phrase>
+<phrase>
+    <source>The following critical errors exist with your requested partitioning scheme. These errors must be corrected prior to continuing with your install of %(productName)s.
+
+%(errorstr)s</source>
+    <target>Aşağıdaki kritik hatalar istediğiniz bölümleme şemasında var. Bu hatalar %(productName)s kurulumunu devam edebilmeniz için öncelikle düzeltilmesi gerekir.%(errorstr)s</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warning</source>
+    <target>Bölümleme Uyarıları</target>
+</phrase>
+<phrase>
+    <source>The following warnings exist with your requested partition scheme.
+
+%s
+
+Would you like to continue with your requested partitioning scheme?</source>
+    <target>Tanımladığınız disk düzeniyle ilgili aşağıdaki hatalar ortaya çıktı.
+
+%s
+
+Yine de tanımladığınız şekilde devam etmek ister misiniz?</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing partitions have been selected to be formatted, destroying all data.</source>
+    <target>Aşağıda önceden bölümlenmiş disk bölümleri biçimlendirilecek ve içindeki tüm veriler silinecek.</target>
+</phrase>
+<phrase>
+    <source>Select &apos;Yes&apos; to continue and format these partitions, or &apos;No&apos; to go back and change these settings.</source>
+    <target>Bu disk bölümlerini biçimlendirmek için &apos;Evet&apos; ya da geri dönüp tekrar ayarlamak için &apos;Hayır&apos; tuşuna basabilirsiniz.</target>
+</phrase>
+<phrase>
+    <source>Format Warning</source>
+    <target>Biçimlendirme Uyarıları</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the volume group &quot;%s&quot;.
+
+ALL logical volumes in this volume group will be lost!</source>
+    <target>&quot;%s&quot; mantıksal grubu silmek üzeresiniz.
+
+ Bu gruptaki tüm mantıksal hacimler silinir!</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the logical volume &quot;%s&quot;.</source>
+    <target>&quot;%s&quot; mantıksal hacmi silmek istediğinize
+emin misiniz?</target>
+</phrase>
+<phrase>
+    <source>You are about to delete a RAID device.</source>
+    <target>Bir RAID aygıtı silmek üzeresiniz.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %s partition.</source>
+    <target>%s disk bölümünü silmek üzeresiniz.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %(type)s %(name)s</source>
+    <target>%(type)s %(name)s silinmek üzere</target>
+</phrase>
+<phrase>
+    <source>Confirm Reset</source>
+    <target>Sıfırlama Onayı</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to reset the partition table to its original state?</source>
+    <target>Disk bölümü tablosunu sıfırlayarak özgün haline çevirmek istediğinize emin misiniz?</target>
+</phrase>
+<phrase>
+    <source>You have chosen to use a pre-existing partition for this
+installation without formatting it. We recommend that you format
+this partition to make sure files from a previous operating system
+installation do not cause problems with this installation of Linux.
+However, if this partition contains files that you need to keep,
+such as home directories, then continue without formatting this
+npartition.</source>
+    <target>Bu kurulum için biçimlendirme olmadan daha önceden varolan bir bölümü kullanmak için seçtiniz. Bu bölümde daha önceki işletim sistemi kurulumundan dosya kalmamasından emin olmanız için biçimlendirmenizi öneririz. Ancak  bu bölüm kullanıcı dizinleri gibi saklamak istediğiniz dosyalar varsa, biçimlendirmeden devam edebilirsiniz.</target>
+</phrase>
+<phrase>
+    <source>Format?</source>
+    <target>Biçimlendirilsin mi?</target>
+</phrase>
+<phrase>
+    <source>Do Not Format</source>
+    <target>Biçimlendirilmesin</target>
+</phrase>
+<phrase>
+    <source>Partitions of type &apos;%s&apos; must be constrained to a
+single drive.  To do this, select the drive in the &apos;Allowable Drives&apos;
+checklist.</source>
+    <target>&apos;%s&apos; tipindeki disk bölümleri mutlaka bir tekil diskte olmalı.
+ Bunu yapabilmek için &apos;Uygun Diskler&apos; listesinden seçebilirsiniz.</target>
+</phrase>
+<phrase>
+    <source>Storage Device Warning</source>
+    <target>Depolama Aygıtları Uyarısı</target>
+</phrase>
+<phrase>
+    <source>The following storage device may contain recoverable data:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;This device may have data that will be &lt;b&gt;permanently lost&lt;/b&gt; if you include it in this installation.&lt;br&gt;&lt;br&gt;If you don&apos;t care about any data on this device, choose &lt;b&gt;Reset device&lt;/b&gt; to include it in the installation process.&lt;br&gt;&lt;br&gt;If you don&apos;t want the device to be permanently erased, select &lt;b&gt;Ignore device&lt;/b&gt; and the device will not be considered as a possible installation target.</source>
+    <target>Aşağıdaki aygıt veri içeriyor olabilir:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;Bu aygıtı kurulum sürecine dahil ederseniz içerdiği veriler &lt;b&gt;kalıcı olarak silinecektir.&lt;/b&gt;&lt;br&gt;&lt;br&gt;Eğer aygıttaki olası verileri önemsemiyorsanız &lt;b&gt;Aygıtı sıfırla&lt;/b&gt; seçeneğini seçebilirsiniz.&lt;br&gt;&lt;br&gt;Aygıttaki olası verilerin kalıcı olarak silinmesini istemiyorsanız, &lt;b&gt;Aygıtı göz ardı et&lt;/b&gt; seçeneğini seçebilirsiniz. Bu şekilde aygıt kurulum yapılabilecek diskler arasında gözükmeyecek ve göz ardı edilecektir.</target>
+</phrase>
+<phrase>
+    <source>Reset device</source>
+    <target>Aygıtı sıfırla</target>
+</phrase>
+<phrase>
+    <source>Ignore device</source>
+    <target>Aygıtı göz ardı et</target>
+</phrase>
+<phrase>
+    <source>There is inconsistent LVM data on %(msg)s. You can reinitialize all related PVs (%(pvs)s) which will erase the LVM metadata, or ignore which will preserve thecontents.This action may also be applied to all other PVs with inconsistent metadata.</source>
+    <target>Tutarsız LVM verisi %(msg)s bulundu. LVM üst verilerinin silinmesini göze alırsanız, ilgili Fiziksel Hacimleri (%(pvs)s) başlangıç durumuna getirebilirsiniz. İçeriği korumak isterseniz, bu hatayı göz ardı edebilirsiniz. Bu eylem tutarsız üst veri içeren diğer tüm Fiziksel Hacimlere de uygulanır.</target>
+</phrase>
+<phrase>
+    <source>Yes, re-initialize</source>
+    <target>Evet, Yeniden Başlangıç Durumuna Getir</target>
+</phrase>
+<phrase>
+    <source>No, protect data</source>
+    <target>Hayır, veriyi koru</target>
+</phrase>
+<phrase>
+    <source>Disk contains %(members_count)s BIOS RAID metadata, but is not part of any recognized BIOS RAID sets. Ignoring disk %(members)s.</source>
+    <target>Disk içeriğinde %(members_count)s BIOS RAID üst verisi bulunmaktadır, fakat bu üst veri herhangi bir tanımlanmış BIOS RAID ayarlarından birine ait değildir. Disk göz ardı ediliyor %(members)s.</target>
+</phrase>
+<phrase>
+    <source>Invalid mount point</source>
+    <target>Geçersiz bağlanma noktası</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %s.  Some element of this path is not a directory. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>%s yaratılırken hata oluştu. Belirtilen yolun bazı elemanları dizin değil. Bu kritik bir hata sebebiyle kurulum devam edemiyor.
+
+Kurulumdan çıkmak için &lt;Enter&gt;&apos;a basınız. </target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %(mountpoint)s: %(msg)s.  This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>%(mountpoint)s bağlantı noktası yaratılırken hata oldu %(msg)s. Bu ölümcül bir hata, kuruluma devam edilemeyecek. 
+
+ Kurulum sihirbazından çıkmak için &lt;Enter&gt; tuşuna basın.</target>
+</phrase>
+<phrase>
+    <source>Unable to mount filesystem</source>
+    <target>Dosya sistemi bağlanamadı</target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s.  You may continue installation, but there may be problems.</source>
+    <target>%(path)s aygıtı %(mountpoint)s noktasına bağlarken hata oldu. Kurulum devam edecek ama sorun çıkabilir.</target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s: %(msg)s. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>%(path)s aygıtını %(mountpoint)s noktasına bağlarken bir hata oldu %(msg)s. Bu ölümcül bir hata, kuruluma devam edilemeyecek. 
+
+ Kurulum sihirbazından çıkmak için &lt;Enter&gt; tuşuna basın.</target>
+</phrase>
+<phrase>
+    <source>Skip</source>
+    <target>Atla</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+is an old-style Linux swap partition.  If you want to use this device for swap space, you must reformat as a new-style Linux swap partition.</source>
+    <target>Takas alanı:
+
+     %s
+
+ eskiden kalma bir Linux takas yapısında. Bu alanı takas alanı olarak kullanmak istiyorsanız yeniden, çağdaş bir Linux takas türünde biçimlendirmelisiniz.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+in your /etc/fstab file is currently in use as a software suspend device, which means your system is hibernating. If you are performing a new install, make sure the installer is set to format all swap devices.</source>
+    <target>Takas aygıtı:
+
+ %s
+
+ şu an uyku moduna geçmiş bir sistem tarafından kullanımda. Eğer yeni bir kurulum yapıyorsanız, tüm takas aygıtlarınızın biçimlendirilecek şekilde işaretlendiğine emin olun.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+does not contain a supported swap volume.  In order to continue installation, you will need to format the device or skip it.</source>
+    <target>Swap aygıtı:
+
+ %s
+
+ desteklenen swap hacimine sahip değil.Kuruluma devam etmek için, aygıtı formatlanız ya da atlamanız gerekmekte.</target>
+</phrase>
+<phrase>
+    <source>Error enabling swap device %(name)s: %(msg)s&lt;br&gt;&lt;br&gt;This most likely means this swap device has not been initialized.&lt;br&gt;&lt;br&gt;Press OK to exit the installer.</source>
+    <target>%(name)s swap aygıtı etkinleştirirken hata:%(msg)s&lt;br&gt;&lt;br&gt; Bu çoğunlukla etkinleştirilmeyen swap aygıtınından dolayıdır.&lt;br&gt;&lt;br&gt;.Kurulumdan çıkmak için &apos;OK&apos; tıklayın.</target>
+</phrase>
+<phrase>
+    <source>You have not created a bootable partition.</source>
+    <target>Yüklenebilir bölüm yaratmalısınız.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a logical volume.</source>
+    <target>/boot bölümü mantıksal hacim üzerinde olamaz.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a raid array.</source>
+    <target>/boot bölümü raid dizileri üzerinde olamaz.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on an %s filesystem.</source>
+    <target>Yüklenebilir bölümler %s dosya sistemleri üzerinde olmazlar.</target>
+</phrase>
+<phrase>
+    <source>Ignoring noauto entry</source>
+    <target>Kendiliğinden girdileri engelliyor</target>
+</phrase>
+<phrase>
+    <source>Failed to resolve %s (%s) from fstab</source>
+    <target>fstab içindeki %s (%s) için çözümleme işlemi başarısız</target>
+</phrase>
+<phrase>
+    <source>Unrecognized filesystem type for %s (%s)</source>
+    <target>%s için tanımlanamayan dosyalama sistemi tipi (%s)</target>
+</phrase>
+<phrase>
+    <source>Scanned format (%s) differs from fstab format (%s)</source>
+    <target>Taranmış olan biçim (%s) fstab biçiminden (%s) farklılık gösteriyor</target>
+</phrase>
+<phrase>
+    <source>Cannot open %s for read</source>
+    <target>%s okunamadı</target>
+</phrase>
+<phrase>
+    <source>Fstab entry %s is malformed: %s</source>
+    <target>Fstab girdilerinden %s bozuk: %s</target>
+</phrase>
+<phrase>
+    <source>Creating file %s</source>
+    <target>%s dosyası yaratılıyor</target>
+</phrase>
+<phrase>
+    <source>Creating device %s</source>
+    <target>%s aygıtı yaratılıyor</target>
+</phrase>
+<phrase>
+    <source>device has not been created</source>
+    <target>aygıt oluşturulmadı</target>
+</phrase>
+<phrase>
+    <source>cannot activate VG with missing PV(s)</source>
+    <target>Fiziksel Hacim eksik olduğu için Hacim Grupları etkin hale getirilemedi</target>
+</phrase>
+<phrase>
+    <source>vginfo failed for %s</source>
+    <target>%s yüzünden vginfo başarısız oldu</target>
+</phrase>
+<phrase>
+    <source>lvs failed for %s</source>
+    <target>%s yüzünden lvs başarısız oldu</target>
+</phrase>
+<phrase>
+    <source>partition table</source>
+    <target>bölüm tablosu</target>
+</phrase>
+<phrase>
+    <source>dm-raid member device</source>
+    <target>dm-raid bileşeni</target>
+</phrase>
+<phrase>
+    <source>Unknown return code: %d.</source>
+    <target>Bilinmeyen hata kodu: %d</target>
+</phrase>
+<phrase>
+    <source>Migrating %s filesystem on %s</source>
+    <target>%s üzerindeki %s dosya sistemi göç ettiriliyor</target>
+</phrase>
+<phrase>
+    <source>Creating %(type)s filesystem on %(device)s</source>
+    <target>%(type)s dosya sistemi %(device)s aygıtı üzerinde yaratılıyor.</target>
+</phrase>
+<phrase>
+    <source>Resizing filesystem on %s</source>
+    <target>%s üzerinden dosya sistemi yeniden boyutlandırılıyor</target>
+</phrase>
+<phrase>
+    <source>Checking filesystem on %s</source>
+    <target>%s dosya sistemi kontrol ediliyor</target>
+</phrase>
+<phrase>
+    <source>%(type)s filesystem check failure on %(device)s: </source>
+    <target>%(device)s aygıtlarında %(type)s dosya sistemi denetimi başarısız oldu.</target>
+</phrase>
+<phrase>
+    <source>Errors like this usually mean there is a problem with the filesystem that will require user interaction to repair. Restart installation after you have corrected the problems on the filesystem.</source>
+    <target>Bunun gibi hatalar genellikle kullanıcının onarması gereken
+dosya sistemi problemleri olduğunu gösterir. Dosya sistemi problemlerini onardıktan sonra lütfen kuruluma tekrar başlayınız.</target>
+</phrase>
+<phrase>
+    <source>Unrecoverable Error</source>
+    <target>Kurtarılamaz Hata</target>
+</phrase>
+<phrase>
+    <source>File system errors left uncorrected.</source>
+    <target>Dosya sistemi hataları düzeltilmeden bırakıldı.</target>
+</phrase>
+<phrase>
+    <source>Operational error.</source>
+    <target>İşlem hatası.</target>
+</phrase>
+<phrase>
+    <source>Usage or syntax error.</source>
+    <target>Kullanım ya da söz dizimi hatası.</target>
+</phrase>
+<phrase>
+    <source>e2fsck cancelled by user request.</source>
+    <target>e2fsck kullanıcı tarafından iptal edildi.</target>
+</phrase>
+<phrase>
+    <source>Shared library error.</source>
+    <target>Paylaşımlı kütüphane hatası.</target>
+</phrase>
+<phrase>
+    <source>Recoverable errors have been detected or dosfsck has discovered an internal inconsistency.</source>
+    <target>Onarılabilir hatalara rastlandı ya da dosfsck bir tutarsızlık tespit etti.</target>
+</phrase>
+<phrase>
+    <source>Usage error.</source>
+    <target>Kullanım hatası.</target>
+</phrase>
+<phrase>
+    <source>physical volume (LVM)</source>
+    <target>fiziksel Hacim (LVM)</target>
+</phrase>
+<phrase>
+    <source>software RAID</source>
+    <target>yazılım destekli RAID</target>
+</phrase>
+<phrase>
+    <source>Turkish</source>
+    <target>Türkçe</target>
+</phrase>
+<phrase>
+    <source>Turkish F</source>
+    <target>Türkçe F</target>
+</phrase>
+<phrase>
+    <source>Turkish Q</source>
+    <target>Türkçe Q</target>
+</phrase>
+<phrase>
+    <source>English</source>
+    <target>İngilizce (US)</target>
+</phrase>
+<phrase>
+    <source>English GB</source>
+    <target>İngilizce (Britanya)</target>
+</phrase>
+<phrase>
+    <source>Greek</source>
+    <target>Yunanca</target>
+</phrase>
+<phrase>
+    <source>Afrikaans</source>
+    <target>Afrikaansca</target>
+</phrase>
+<phrase>
+    <source>Vietnamese</source>
+    <target>Vietnamca</target>
+</phrase>
+<phrase>
+    <source>Catalan</source>
+    <target>Katalanca</target>
+</phrase>
+<phrase>
+    <source>Italian</source>
+    <target>İtalyanca</target>
+</phrase>
+<phrase>
+    <source>Czech</source>
+    <target>Çekce</target>
+</phrase>
+<phrase>
+    <source>Welsh</source>
+    <target>Gallerce</target>
+</phrase>
+<phrase>
+    <source>Arabic</source>
+    <target>Arapça</target>
+</phrase>
+<phrase>
+    <source>Estonian</source>
+    <target>Estonca</target>
+</phrase>
+<phrase>
+    <source>Spanish</source>
+    <target>İspanyolca</target>
+</phrase>
+<phrase>
+    <source>Russian</source>
+    <target>Rusça</target>
+</phrase>
+<phrase>
+    <source>Dutch</source>
+    <target>Hollandaca</target>
+</phrase>
+<phrase>
+    <source>Portuguese</source>
+    <target>Portekizce</target>
+</phrase>
+<phrase>
+    <source>Norwegian</source>
+    <target>Norveççe</target>
+</phrase>
+<phrase>
+    <source>Icelandic</source>
+    <target>İzlandaca</target>
+</phrase>
+<phrase>
+    <source>Polish</source>
+    <target>Lehce</target>
+</phrase>
+<phrase>
+    <source>Belgium</source>
+    <target>Belçika</target>
+</phrase>
+<phrase>
+    <source>French</source>
+    <target>Fransızca</target>
+</phrase>
+<phrase>
+    <source>Bulgarian</source>
+    <target>Bulgarca</target>
+</phrase>
+<phrase>
+    <source>Slovenian</source>
+    <target>Slovence</target>
+</phrase>
+<phrase>
+    <source>Croatian</source>
+    <target>Hırvatça</target>
+</phrase>
+<phrase>
+    <source>German</source>
+    <target>Almanca</target>
+</phrase>
+<phrase>
+    <source>Danish</source>
+    <target>Danca</target>
+</phrase>
+<phrase>
+    <source>Brazilian</source>
+    <target>Brezilya Portekizcesi</target>
+</phrase>
+<phrase>
+    <source>Finnish</source>
+    <target>Fince</target>
+</phrase>
+<phrase>
+    <source>Hungarian</source>
+    <target>Macarca</target>
+</phrase>
+<phrase>
+    <source>Japanese</source>
+    <target>Japonca</target>
+</phrase>
+<phrase>
+    <source>Malayalam</source>
+    <target>Malayalamca</target>
+</phrase>
+<phrase>
+    <source>Swedish</source>
+    <target>İsveççe</target>
+</phrase>
+<phrase>
+    <source>Macedonian</source>
+    <target>Makedonca</target>
+</phrase>
+<phrase>
+    <source>Slovak</source>
+    <target>Slovakça</target>
+</phrase>
+<phrase>
+    <source>Ukrainian</source>
+    <target>Ukraynaca</target>
+</phrase>
+<phrase>
+    <source>Serbian</source>
+    <target>Sırpça</target>
+</phrase>
+<phrase>
+    <source>Preparing home directory for %s...</source>
+    <target>%s için ev dizinini hazırlıyor...</target>
+</phrase>
+<phrase>
+    <source>Release file is missing</source>
+    <target>Sürüm dosyası kayıp</target>
+</phrase>
+<phrase>
+    <source>Release file is inconsistent</source>
+    <target>Sürüm dosyası uyumsuz</target>
+</phrase>
+<phrase>
+    <source>Invalid xml file</source>
+    <target>Geçersiz xml dosyası</target>
+</phrase>
+</QPH>
