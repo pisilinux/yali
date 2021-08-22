@@ -1,0 +1,2228 @@
+<!DOCTYPE QPH>
+<QPH language="nl">
+<phrase>
+    <source>There appears to be more than one resizeable partition. You can select a partition from the list below or YALI will select one for you.</source>
+    <target>Het lijkt erop dat er meer dan één partitie is die in grootte aangepast kan worden. Selecteer een partitie uit onderstaande lijst of YALI zal er een  selecteren.</target>
+</phrase>
+<phrase>
+    <source>X</source>
+    <target>X</target>
+</phrase>
+<phrase>
+    <source>Automatically choose the partition to resize (recommended)</source>
+    <target>Automatisch partitie kiezen om te wijzigen (aanbevolen)</target>
+</phrase>
+<phrase>
+    <source>I will choose the target</source>
+    <target>Ik zal de bestemming kiezen</target>
+</phrase>
+<phrase>
+    <source>Use Selected</source>
+    <target>Geselecteerde gebruiken</target>
+</phrase>
+<phrase>
+    <source>Use All Disk</source>
+    <target>Gehele schijf gebruiken</target>
+</phrase>
+<phrase>
+    <source>Shrink Current System</source>
+    <target>Huidig systeem kleiner maken</target>
+</phrase>
+<phrase>
+    <source>Use Free Space</source>
+    <target>Vrije ruimte gebruiken</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning</source>
+    <target>Handmatig partitioneren</target>
+</phrase>
+<phrase>
+    <source>Advanced settings</source>
+    <target>Geavanceerde instellingen</target>
+</phrase>
+<phrase>
+    <source>Default settings</source>
+    <target>Standaardinstellingen</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t install bootloader</source>
+    <target>Installeer geen bootloader</target>
+</phrase>
+<phrase>
+    <source>The first sector of</source>
+    <target>De eerste sector van</target>
+</phrase>
+<phrase>
+    <source>You can validate the integrity of the installation packages. Although this is an optional step, we highly recommend to do the validation in order to avoid any possible errors during the installation process.</source>
+    <target>U kunt de integriteit van de installatiepakketten controleren. Ondanks dat dit een optionele stap is raden wij dit aan om mogelijke fouten bij de installatie te voorkomen.</target>
+</phrase>
+<phrase>
+    <source>Validation failed</source>
+    <target>Validatie is mislukt</target>
+</phrase>
+<phrase>
+    <source>Validation succeeded</source>
+    <target>Validatie is gelukt</target>
+</phrase>
+<phrase>
+    <source>Validate</source>
+    <target>Valideren</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>Formulier</target>
+</phrase>
+<phrase>
+    <source>To use PiSi History support, you may need to be online. You can use a connection profile from the list below:</source>
+    <target>Om Pisi geschiedenisbeheer te kunnen gebruiken heeft u mogelijk een internetverbinding nodig. Selecteer een verbindingsprofiel in de lijst hieronder.</target>
+</phrase>
+<phrase>
+    <source>Connect</source>
+    <target>Verbinden</target>
+</phrase>
+<phrase>
+    <source>Standard Partition</source>
+    <target>Standaard partitie</target>
+</phrase>
+<phrase>
+    <source>General purpose of partition creation</source>
+    <target>Algemeen doel van partitie aanmaken</target>
+</phrase>
+<phrase>
+    <source>Volume Group</source>
+    <target>Volumegroep</target>
+</phrase>
+<phrase>
+    <source>Requires at least 1 free LVM formatted partition</source>
+    <target>Vereist tenminste 1 vrije LVM geformatteerde partitie</target>
+</phrase>
+<phrase>
+    <source>Logical Volume</source>
+    <target>Logisch volume</target>
+</phrase>
+<phrase>
+    <source>Create Logical Volume on selected Volume Group</source>
+    <target>Logisch volume op geselecteerde volumegroep aanmaken</target>
+</phrase>
+<phrase>
+    <source>Physical Volume</source>
+    <target>Fysiek volume</target>
+</phrase>
+<phrase>
+    <source>Create LVM formatted partition</source>
+    <target>LVM geformatteerde partitie aanmaken</target>
+</phrase>
+<phrase>
+    <source>Raid Member</source>
+    <target>Raid-member</target>
+</phrase>
+<phrase>
+    <source>Create Raid formatted partition</source>
+    <target>Raid geformatteerde partitie aanmaken</target>
+</phrase>
+<phrase>
+    <source>Raid Array</source>
+    <target>Raid-array</target>
+</phrase>
+<phrase>
+    <source>Requires at least 2 free Raid formatted partition</source>
+    <target>Vereist tenminste 2 vrije Raid geformatteerde partities</target>
+</phrase>
+<phrase>
+    <source>Date</source>
+    <target>Datum</target>
+</phrase>
+<phrase>
+    <source>Time</source>
+    <target>Tijd</target>
+</phrase>
+<phrase>
+    <source>Timezone</source>
+    <target>Tijdzone</target>
+</phrase>
+<phrase>
+    <source>Unhandled exception occured</source>
+    <target>Onbehandelde fout opgetreden</target>
+</phrase>
+<phrase>
+    <source>Please fill a bug report at http://bugs.pisilinux.org.tr/ attaching the following backtrace.</source>
+    <target>Gaarne een foutrapport invullen op http://bugs.pisilinux.org/ en de volgende backtrace toevoegen.</target>
+</phrase>
+<phrase>
+    <source>Reboot</source>
+    <target>Herstarten</target>
+</phrase>
+<phrase>
+    <source>Show Backtrace</source>
+    <target>Backtrace tonen</target>
+</phrase>
+<phrase>
+    <source>help content</source>
+    <target>helpinhoud</target>
+</phrase>
+<phrase>
+    <source>Welcome to YALI (Yet Another Linux Installer), where you will have the opportunity to verify the installation medium, select your keyboard layout, choose your time-zone, create user accounts and prepare your disk - followed by a summary and final review before committing to the installation of Pisi Linux.
+Further information for each page of the installer may be viewed by clicking the question-mark icon at the top of its page. 
+YALI was designed with ease of use in mind and should not pose a problem to the novice Linux user. As with all such procedures though, any valuable data on your system should be backed-up before commencing.</source>
+    <target>Welcome to YALI (Yet Another Linux Installer), where you will have the opportunity to verify the installation medium, select your keyboard layout, choose your time-zone, create user accounts and prepare your disk - followed by a summary and final review before committing to the installation of Pisi Linux.
+Further information for each page of the installer may be viewed by clicking the question-mark icon at the top of its page. 
+YALI was designed with ease of use in mind and should not pose a problem to the novice Linux user. As with all such procedures though, any valuable data on your system should be backed-up before commencing.</target>
+</phrase>
+<phrase>
+    <source>Installing Package: </source>
+    <target>Installeren pakket: </target>
+</phrase>
+<phrase>
+    <source>Keyboard Layouts</source>
+    <target>Toetsenbordindeling</target>
+</phrase>
+<phrase>
+    <source>Test Layout</source>
+    <target>Indeling testen</target>
+</phrase>
+<phrase>
+    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Before installing Pisi Linux on your computer, please read and accept the terms of free / open source licenses of the softwares included in this installation medium. &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;License texts&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <target>Voordat u begint met de installatie van Pisi Linux op deze computer, lees en accepteer de vrije/open-source licentie van de software op dit installatiemedium. &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;Licentietekst&lt;/span&gt;&lt;/a&gt;</target>
+</phrase>
+<phrase>
+    <source>I understand and accept the terms</source>
+    <target>Ik ga akkoord en accepteer de voorwaarden</target>
+</phrase>
+<phrase>
+    <source>Logical Volume:</source>
+    <target>Logisch volume:</target>
+</phrase>
+<phrase>
+    <source>Use :</source>
+    <target>Gebruik:</target>
+</phrase>
+<phrase>
+    <source>Size :</source>
+    <target>Grootte:</target>
+</phrase>
+<phrase>
+    <source> MB</source>
+    <target> MB</target>
+</phrase>
+<phrase>
+    <source>Resize</source>
+    <target>Grootte wijzigen</target>
+</phrase>
+<phrase>
+    <source>File System :</source>
+    <target>Bestandsysteem:</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Formatteren</target>
+</phrase>
+<phrase>
+    <source>Migrate</source>
+    <target>Migreren</target>
+</phrase>
+<phrase>
+    <source>Yali</source>
+    <target>Yali</target>
+</phrase>
+<phrase>
+    <source>Release Notes</source>
+    <target>Uitgavenotities</target>
+</phrase>
+<phrase>
+    <source>Previous Screen</source>
+    <target>Vorig scherm</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>Terug</target>
+</phrase>
+<phrase>
+    <source>Next Screen</source>
+    <target>Volgend scherm</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>Volgende</target>
+</phrase>
+<phrase>
+    <source>Device</source>
+    <target>Apparaat</target>
+</phrase>
+<phrase>
+    <source>Mount Point</source>
+    <target>Aankoppelpunt</target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target>Label</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Type</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Grootte</target>
+</phrase>
+<phrase>
+    <source>Create</source>
+    <target>Aanmaken</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>Bewerken</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>Verwijderen</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Reset</target>
+</phrase>
+<phrase>
+    <source>Format :</source>
+    <target>Formatteren :</target>
+</phrase>
+<phrase>
+    <source>Yes, format this partition</source>
+    <target>Ja, deze partitie formatteren</target>
+</phrase>
+<phrase>
+    <source>Delete Partition</source>
+    <target>Partitie verwijderen</target>
+</phrase>
+<phrase>
+    <source>Resize Partition</source>
+    <target>Partitiegrootte aanpassen</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied after Summary Screen.</source>
+    <target>Veranderingen zullen toegepast worden na het overzichtscherm.</target>
+</phrase>
+<phrase>
+    <source>Refresh Disks</source>
+    <target>Schijven verversen</target>
+</phrase>
+<phrase>
+    <source>Reset All Changes</source>
+    <target>Alle veranderingen ongedaan maken</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Toepassen</target>
+</phrase>
+<phrase>
+    <source>Force to be primary partition</source>
+    <target>Als primaire partities forceren</target>
+</phrase>
+<phrase>
+    <source>Use:</source>
+    <target>Gebruik:</target>
+</phrase>
+<phrase>
+    <source>Force to be a primary partition</source>
+    <target>Als primaire partities forceren</target>
+</phrase>
+<phrase>
+    <source>Which partition would you like to shrink to make room for your installation?</source>
+    <target>Welke partitie dient in grootte aangepast te worden om ruimte voor de installatie te maken?</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB)</source>
+    <target>Partitie verkleinen tot grootte (in MB)</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB) :</source>
+    <target>Partitie verkleinen tot grootte (in MB) :</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Annuleren</target>
+</phrase>
+<phrase>
+    <source>Shrink</source>
+    <target>Verkleinen</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied when you click &quot;Resize&quot;. To cancel the changes, click &lt;b&gt;&quot;Cancel&quot;.
+&lt;br&gt;&lt;br&gt;
+Warning: A resizing operation may corrupt the partition, rendering the data on it unreachable. Make sure that you have backed up the data. Note that this operation cannot be undone.&lt;b&gt;</source>
+    <target>Deze wijzigingen worden toegepast na het selecteren van &quot;Grootte aanpassen&quot; Om de wijzigingen te annuleren, selecteer &lt;b&gt;&quot;Annuleren&quot;.
+&lt;br&gt;&lt;br&gt;
+Waarschuwing: De bewerking &quot;Grootte aanpassen&quot; kan de partitie corrupt maken en daardoor de aanwezige gegevens onbereikbaar maken. Wees er dus zeker van dat er een reservekopie aanwezig is. Let op, deze bewerking kan niet ongedaan gemaakt worden.</target>
+</phrase>
+<phrase>
+    <source>Raid Device:</source>
+    <target>Raid-apparaat:</target>
+</phrase>
+<phrase>
+    <source>Filesystem:</source>
+    <target>Bestandsysteem:</target>
+</phrase>
+<phrase>
+    <source>Raid Level:</source>
+    <target>Raid-niveau:</target>
+</phrase>
+<phrase>
+    <source>Raid Members:</source>
+    <target>Raid-members:</target>
+</phrase>
+<phrase>
+    <source>Number of spares:</source>
+    <target>Aantal onderdelen:</target>
+</phrase>
+<phrase>
+    <source>Select where to install the GRUB bootloader</source>
+    <target>Selecteer waar de bootloader geïnstalleerd wordt</target>
+</phrase>
+<phrase>
+    <source>First bootable disk (recommended)</source>
+    <target>Eerste opstartbare schijf (aanbevolen)</target>
+</phrase>
+<phrase>
+    <source>Disk partition where Pisi Linux is installed</source>
+    <target>De partitie waarop Pisi Linux geïnstalleerd is</target>
+</phrase>
+<phrase>
+    <source>Selected disk below</source>
+    <target>Onderstaande geselecteerde schijf</target>
+</phrase>
+<phrase>
+    <source>Choose the user you want to reset the password:</source>
+    <target>Selecteer de gebruiker waarvan het wachtwoord opnieuw ingesteld wordt:</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Wachtwoord:</target>
+</phrase>
+<phrase>
+    <source>Confirm Password</source>
+    <target>Wachtwoord bevestigen</target>
+</phrase>
+<phrase>
+    <source>Reset Password</source>
+    <target>Wachtwoord opnieuw instellen</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Connection status:&lt;/b&gt;</source>
+    <target>&lt;b&gt;Verbindingstatus:&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>To use PiSi&apos;s history feature, you may need to be online. Select connection profile.</source>
+    <target>Om Pisi geschiedenisbeheer te kunnen gebruiken heeft u mogelijk een internetverbinding nodig. Selecteer verbindingsprofiel.</target>
+</phrase>
+<phrase>
+    <source>Select Connection</source>
+    <target>Selecteer verbinding</target>
+</phrase>
+<phrase>
+    <source>Select the operation to undo:</source>
+    <target>Selecteer de bewerking om ongedaan te maken:</target>
+</phrase>
+<phrase>
+    <source>Choose what do you want to do to repair your system</source>
+    <target>Kies wat nodig is om het systeem te herstellen</target>
+</phrase>
+<phrase>
+    <source>Reinstall bootloader</source>
+    <target>Bootloader opnieuw installeren</target>
+</phrase>
+<phrase>
+    <source>Reset forgotten password</source>
+    <target>Vergeten wachtwoord opnieuw instellen</target>
+</phrase>
+<phrase>
+    <source>Return back to a previous system state</source>
+    <target>Naar een vorige systeemstatus terugzetten</target>
+</phrase>
+<phrase>
+    <source>Administrator password</source>
+    <target>Wachtwoord systeembeheerder</target>
+</phrase>
+<phrase>
+    <source>Confirm password</source>
+    <target>Wachtwoord bevestigen</target>
+</phrase>
+<phrase>
+    <source>Computer Name</source>
+    <target>Computer naam</target>
+</phrase>
+<phrase>
+    <source>User Name</source>
+    <target>Gebruikersnaam</target>
+</phrase>
+<phrase>
+    <source>Real Name</source>
+    <target>Echte naam</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Wachtwoord</target>
+</phrase>
+<phrase>
+    <source>Custom User ID</source>
+    <target>Aangepaste gebruiker-id</target>
+</phrase>
+<phrase>
+    <source>Not recommended</source>
+    <target>Niet aanbevolen</target>
+</phrase>
+<phrase>
+    <source>Bypass authorization attempts for this user</source>
+    <target>Authorisatiebewerkingen voor deze gebruiker toestaan</target>
+</phrase>
+<phrase>
+    <source>Add user to administrator (wheel) group</source>
+    <target>Gebruiker aan beheerdergroep (wheel) toevoegen</target>
+</phrase>
+<phrase>
+    <source>Select auto login user</source>
+    <target>Gebruiker voor automatisch aanmelden selecteren</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Toevoegen</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Geavanceerd</target>
+</phrase>
+<phrase>
+    <source>Volume Group Name:</source>
+    <target>Naam volumegroep:</target>
+</phrase>
+<phrase>
+    <source>Physical Extends</source>
+    <target>Fysieke uitbreidingen</target>
+</phrase>
+<phrase>
+    <source>Physical Volumes to use:</source>
+    <target>Te gebruiken fysieke volumes:</target>
+</phrase>
+<phrase>
+    <source>Total Space:</source>
+    <target>Totale ruimte:</target>
+</phrase>
+<phrase>
+    <source>Free Space:</source>
+    <target>Vrije ruimte:</target>
+</phrase>
+<phrase>
+    <source>Logical Volumes</source>
+    <target>Logische volumes</target>
+</phrase>
+<phrase>
+    <source>Mountpoint</source>
+    <target>Aankoppelpunt</target>
+</phrase>
+<phrase>
+    <source>Used Space:</source>
+    <target>Gebruikte ruimte:</target>
+</phrase>
+<phrase>
+    <source>Pisi Linux is installed and running successfully... 
+
+Before you login to system, you need to create your first user and set the system wide configurations. </source>
+    <target>Pisi Linux is met succes geïnstalleerd... 
+
+Voordat u kunt inloggen is het nodig om eerst een gebruiker aan te maken en algemene systeeminstellingen te configureren.</target>
+</phrase>
+<phrase>
+    <source>Not enough physical volumes</source>
+    <target>Niet voldoende fysieke volumes</target>
+</phrase>
+<phrase>
+    <source>At least one unused physical volume partition is needed to
+create an LVM Volume Group.
+Create a partition or RAID array of type &quot;physical volume
+(LVM)&quot; and then select the &quot;LVM&quot; option again.</source>
+    <target>Tenminste een ongebruikt fysiek volumepartitie is nodig om
+een LVM-volumegroep aan te maken.
+Maak een partitie aan of een RAID-array van het type &quot; fysiek volume
+(LVM)&quot; and selecteer de &quot;LVM&quot;-optie opnieuw.</target>
+</phrase>
+<phrase>
+    <source>Make LVM Volume Group</source>
+    <target>LVM-volumegroep maken</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group: %s</source>
+    <target>Bewerk LVM-volumegroep: %s</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group</source>
+    <target>LVM-volumegroep bewerken</target>
+</phrase>
+<phrase>
+    <source>Invalid Volume Group Name</source>
+    <target>Ongeldige naam volumegroep</target>
+</phrase>
+<phrase>
+    <source>Name in use</source>
+    <target>Naam is in gebruik</target>
+</phrase>
+<phrase>
+    <source>The volume group name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>De volumegroepnaam &quot;%s&quot; wordt reeds gebruikt. Kies een andere.</target>
+</phrase>
+<phrase>
+    <source>Not enough space</source>
+    <target>Niet genoeg ruimte</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+otherwise the space required by the currently defined
+logical volumes will be increased to more than the
+available space.</source>
+    <target>De fysieke uitbreidingsgrootte kan niet gewijzigd worden
+omdat anders de ruimte die nodig is voor de huidige
+gedefinieerde  logische volumes groter zal worden dan
+de beschikbare ruimte.</target>
+</phrase>
+<phrase>
+    <source>Confirm Physical Extent Change</source>
+    <target>Wijziging fysieke uitbreiding bevestigen</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will
+require the sizes of the current logical volume requests
+to be rounded up in size to an integer multiple of
+the physical extent.
+
+This change will take effect
+immediately.</source>
+    <target>Deze wijziging in de waarde van de fysieke uitbreiding
+maakt het noodzakelijk dat de grootte van het huidige
+logische volumeverzoek afgerond wordt op een gehele
+veelvoud  van de fysieke uitbreiding.
+
+Deze wijziging zal onmiddellijk
+plaats vinden.</target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>Doorgaan</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+the value selected (%(curpe)10.2f MB) is larger than the
+smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>De fysieke uitbreidingsgrootte kan niet gewijzigd worden
+omdat de geselecteerde waarde (%(curpe)10.2f MB)
+groter is dan het kleinste fysieke volume (%(maxpvsize)10.2f MB) in de volumegroep.</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the value selected (%(curpe)10.2f MB) is too large compared to the size of the smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>De fysieke uitbreidingsgrootte kan niet gewijzigd worden omdat de geselecteerde waarde (%(curpe)10.2f MB) te groot is in vergelijking met de grootte van het kleinste fysieke volume (%(maxpvsize)10.2f MB) in de volumegroep.</target>
+</phrase>
+<phrase>
+    <source>Too small</source>
+    <target>Te klein</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will waste substantial space on one or more of the physical volumes in the volume group.</source>
+    <target>Deze wijziging in de waarde van de fysieke uitbreiding zal substantiële ruimte verspillen op een of meer van de fysieke volumes in de volumegroep.</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the resulting maximum logical volume size (%10.2f MB) is smaller than one or more of their currently defined logical volumes.</source>
+    <target>De grootte van de fysieke uitbreiding kan niet gewijzigd worden omdat de resulterende maximum logische volumegrootte (%10.2f MB) kleiner is dan een of meer van hun huidige gedefinieerde logische volumes.</target>
+</phrase>
+<phrase>
+    <source>No free slots</source>
+    <target>Geen vrije slots</target>
+</phrase>
+<phrase>
+    <source>You cannot create more than %d logical volume 
+per volume group.</source>
+    <target>Het is niet mogelijk om meer dan %d logische volumes 
+per volumegroup aan te maken.</target>
+</phrase>
+<phrase>
+    <source>No free space</source>
+    <target>Geen vrije ruimte</target>
+</phrase>
+<phrase>
+    <source>There is no room left in the volume group to create new
+logical volumes. To add a logical volume you must reduce
+the size of one or more of the currently existing logical
+volumes</source>
+    <target>Er is in de volumegroep geen ruimte over om nieuwe logische
+volumes aan te maken. Verminder de grootte van en of meer
+van de huidige bestaande logische volumes om een logische
+volume toe te voegen.</target>
+</phrase>
+<phrase>
+    <source>Confirm Delete</source>
+    <target>Verwijderen bevestigen</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to delete the 
+logical volume &quot;%s&quot;?</source>
+    <target>Wilt u werkelijk het logische volume
+&quot;%s&quot; verwijderen?</target>
+</phrase>
+<phrase>
+    <source>Make Logical Volume</source>
+    <target>Logisch volume aanmaken</target>
+</phrase>
+<phrase>
+    <source>Edit Logical Volume: %s</source>
+    <target>Bewerk logisch volume: %s</target>
+</phrase>
+<phrase>
+    <source>Mount Point Error</source>
+    <target>Aankoppelpunt-fout</target>
+</phrase>
+<phrase>
+    <source>Mount point in use</source>
+    <target>Aankoppelpunt is in gebruik</target>
+</phrase>
+<phrase>
+    <source>The mount point &quot;%s&quot; is in use. Please pick another.</source>
+    <target>Het aankoppelpunt &quot;%s&quot; is in gebruik. Kies een andere.</target>
+</phrase>
+<phrase>
+    <source>Illegal Logical Volume Name</source>
+    <target>Niet legale logisch volumenaam</target>
+</phrase>
+<phrase>
+    <source>Illegal logical volume name</source>
+    <target>Niet legale logisch volumenaam</target>
+</phrase>
+<phrase>
+    <source>The logical volume name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>De logische volumenaam &quot;%s&quot; wordt reeds gebruikt. Kies een andere.</target>
+</phrase>
+<phrase>
+    <source>Illegal size</source>
+    <target>Niet legale grootte</target>
+</phrase>
+<phrase>
+    <source>The requested size as entered is not a valid number greater than 0.</source>
+    <target>De opgegeven en gevraagde grootte is ongeldig getal groter dan 0.</target>
+</phrase>
+<phrase>
+    <source>The current requested size (%(size)10.2f MB) is larger than the maximum logical volume size (%(maxlv)10.2f MB). To increase this limit you can create more Physical Volumes from unpartitioned disk space and add them to this Volume Group.</source>
+    <target>De huidige gevraagde grootte (%(size)10.2f MB) is groter dan de maximum logische volumegrootte (%(maxlv)10.2f MB). Om deze limiet te verhogen, maak meer fysieke volumes aan in niet-gepartitioneerde schijfruimte aan en voeg deze toe aan de volumegroep.</target>
+</phrase>
+<phrase>
+    <source>The size entered for this logical volume (%(size)d MB) combined with the size of the other logical volume(s) exceeds the size of the volume group (%(tmpvgsize)d MB). Please make the volume group larger or make the logical volume smaller.</source>
+    <target>De opgegeven grootte voor het logische volume (%(size)d MB) in combinatie met de grootte van de andere logische volume(s) is groter dan de grootte van de volumegroep (%(tmpvgsize)d MB). Maak de volumegroep groter of maak het logische volume kleiner.</target>
+</phrase>
+<phrase>
+    <source>Create Partition on %(path)s (%(model)s)</source>
+    <target>Partitie op %(path)s (%(model)s) aanmaken</target>
+</phrase>
+<phrase>
+    <source>Edit Partition %s</source>
+    <target>Bewerk Partitie %s</target>
+</phrase>
+<phrase>
+    <source>Edit Partition</source>
+    <target>Partitie bewerken</target>
+</phrase>
+<phrase>
+    <source>Error With Request</source>
+    <target>Fout bij verzoek</target>
+</phrase>
+<phrase>
+    <source>Invalid Raid Members</source>
+    <target>Ongeldige Raid-members</target>
+</phrase>
+<phrase>
+    <source>At least two unused software RAID partitions are needed to create a RAID device.
+
+First create at least two partitions of type &quot;software RAID&quot;, and then select the &quot;RAID&quot; option again.</source>
+    <target>Ten minste twee ongebruikte software RAID-partities zijn noodzakelijk om een RAID-apparaat aan te maken.
+
+Maak eerst tenminste twee partities van het type &quot;software RAID&quot; aan en kies daarna opnieuw de optie &quot;RAID&quot;.</target>
+</phrase>
+<phrase>
+    <source>Make RAID Device</source>
+    <target>RAID-apparaat aanmaken</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device: %s</source>
+    <target>Bewerk RAID-apparaat: %s</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device</source>
+    <target>RAID-apparaat bewerken</target>
+</phrase>
+<phrase>
+    <source>A RAID%(level)d set requires at least %(min_member)d member</source>
+    <target>Een RAID%(level)d heeft tenminste %(min_member)d member nodig</target>
+</phrase>
+<phrase>
+    <source>Error!</source>
+    <target>Fout!</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load an installer interface component.
+
+className = %s.Widget</source>
+    <target>Er is een fout opgetreden bij een poging een component van de installatie-interface te laden.
+
+className = %s.Widget</target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target>Afsluiten</target>
+</phrase>
+<phrase>
+    <source>Retry</source>
+    <target>Opnieuw proberen</target>
+</phrase>
+<phrase>
+    <source>Storage Devices initialising...</source>
+    <target>Opslagapparaten initialiseren...</target>
+</phrase>
+<phrase>
+    <source>Password is too short.</source>
+    <target>Wachtwoord is te kort.</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match.</source>
+    <target>Wachtwoorden komen niet overeen.</target>
+</phrase>
+<phrase>
+    <source>Do not use your username as your password.</source>
+    <target>Gebruikersnaam niet als wachtwoord gebruiken.</target>
+</phrase>
+<phrase>
+    <source>Hostname cannot be longer than 64 characters.</source>
+    <target>De hostnaam kan niet langer dan 64 tekens zijn.</target>
+</phrase>
+<phrase>
+    <source>Hostname contains invalid characters.</source>
+    <target>De hostnaam bevat ongeldige tekens.</target>
+</phrase>
+<phrase>
+    <source>Starting validation...</source>
+    <target>Validatie starten...</target>
+</phrase>
+<phrase>
+    <source>Package validation is in progress. Please wait until it is completed.</source>
+    <target>Validatie van pakketten is gaande, even geduld a.u.b...</target>
+</phrase>
+<phrase>
+    <source>Validating %s</source>
+    <target>Valideren van %s</target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>Waarschuwing</target>
+</phrase>
+<phrase>
+    <source>Validation of %s package failed.Please remaster your installation medium andreboot.</source>
+    <target>Validatie van %s pakketten is mislu</target>
+</phrase>
+<phrase>
+    <source>Skip Validation</source>
+    <target>Validatie overslaan</target>
+</phrase>
+<phrase>
+    <source>Skip Package</source>
+    <target>Pakket overslaan</target>
+</phrase>
+<phrase>
+    <source>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Validation succeeded. You can proceed with the installation.&lt;/b&gt;&lt;/font&gt;</source>
+    <target>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Validatie is succesvol. U kunt doorgaan met de installatie.&lt;/b&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Package validation is finished.</source>
+    <target>Valideren van pakketten is beëindigd.</target>
+</phrase>
+<phrase>
+    <source>Adjusting time settings</source>
+    <target>Tijdsinstellingen aan het instellen</target>
+</phrase>
+<phrase>
+    <source>Device Path: %s</source>
+    <target>Apparaatpad: %s</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Fout</target>
+</phrase>
+<phrase>
+    <source>You must select at least one drive to be used for installation.</source>
+    <target>Selecteer tenminste een schijf om voor de installatie te gebruiken.</target>
+</phrase>
+<phrase>
+    <source>Running post-install operations...</source>
+    <target>Bezig met post-installatie bewerkingen..</target>
+</phrase>
+<phrase>
+    <source>Press &lt;b&gt;Restart&lt;/b&gt; to restart the computer.</source>
+    <target>Druk op &lt;b&gt;Herstarten&lt;/b&gt; om de computer opnieuw op te starten.</target>
+</phrase>
+<phrase>
+    <source>Restart</source>
+    <target>Herstarten</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Please wait while restarting...&lt;/b&gt;</source>
+    <target>&lt;b&gt;Wacht even tijdens het herstarten...&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Setting timezone...</source>
+    <target>Tijdzone aan het instellen...</target>
+</phrase>
+<phrase>
+    <source>Migrating Xorg configuration...</source>
+    <target>X.org-configuratie aan het migreren...</target>
+</phrase>
+<phrase>
+    <source>Copying repository index...</source>
+    <target>Softwarebronindex aan het kopiëren...</target>
+</phrase>
+<phrase>
+    <source>Setting hostname...</source>
+    <target>Hostnaam aan het instellen...</target>
+</phrase>
+<phrase>
+    <source>Setting root password...</source>
+    <target>Systeembeheerwachtwoord aan het instellen...</target>
+</phrase>
+<phrase>
+    <source>Resetting user password...</source>
+    <target>Gebruikerswachtwoord opnieuw instellen...</target>
+</phrase>
+<phrase>
+    <source>Setup First-Boot...</source>
+    <target>Bootlader aan het instellen...</target>
+</phrase>
+<phrase>
+    <source>Teardown First-Boot...</source>
+    <target>Eerste boot deactiveren...</target>
+</phrase>
+<phrase>
+    <source>Adding users...</source>
+    <target>Gebruikers toevoegen...</target>
+</phrase>
+<phrase>
+    <source>Installing bootloader...</source>
+    <target>Bootlader aan het installeren...</target>
+</phrase>
+<phrase>
+    <source>Writing bootloader config...</source>
+    <target>Bootlader instellingen aan het schrijven...</target>
+</phrase>
+<phrase>
+    <source>Stopping to D-Bus...</source>
+    <target>Stoppen van D-Bus...</target>
+</phrase>
+<phrase>
+    <source>Teardown storage subsystem...</source>
+    <target>Opslag-subsysteem deactiveren...</target>
+</phrase>
+<phrase>
+    <source>Installing &lt;b&gt;%(name)s&lt;/b&gt; -- %(summary)s</source>
+    <target>Installeren van &lt;b&gt;%(name)s&lt;/b&gt; -- %(summary)s</target>
+</phrase>
+<phrase>
+    <source>Configuring &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Configureren van &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Following error occured while installing packages:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do you want to retry?</source>
+    <target>Volgende fout is opgetreden tijdens installeren van pakketten:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Opnieuw proberen?</target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>Ja</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>Nee</target>
+</phrase>
+<phrase>
+    <source>An error occured during the installation of packages.
+This may be caused by a corrupted installation medium error:
+%s
+</source>
+    <target>Er deed zich een fout voor tijdens de installatie van pakketten.
+Mogelijk veroorzaakt door een beschadigd installatiemedium fout:
+%s
+</target>
+</phrase>
+<phrase>
+    <source>No storage device found.</source>
+    <target>Geen opslagapparaat gevonden.</target>
+</phrase>
+<phrase>
+    <source>Use Alt-Shift to toggle between alternative keyboard layouts</source>
+    <target>Gebruik Alt-Shift om tussen alternatieve toetsenbordindelingen te schakelen</target>
+</phrase>
+<phrase>
+    <source>License text could not be found.</source>
+    <target>Tekst van licentie kan niet gevonden worden.</target>
+</phrase>
+<phrase>
+    <source>No partitions are available to resize. Only physical
+partitions which size is greater than %s MB can be resized.</source>
+    <target>Geen partitie beschikbaar om in grootte aan te passen.
+Dit is alleen mogelijk voor fysieke partities groter dan %s MB.</target>
+</phrase>
+<phrase>
+    <source>Use All Disks</source>
+    <target>Alle schijven gebruiken</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested caused the following critical errors.You must correct these errors before you continue your installation of %s.</source>
+    <target>Het gevraagde partitieschema veroorzaakt de volgende kritieke fouten. Los deze fouten op, om door te kunnen gaan met de installatie van %s.</target>
+</phrase>
+<phrase>
+    <source>Partitioning Errors</source>
+    <target>Partitioneringsfout</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested generated the following warnings. Would you like to continue with your requested partitioning scheme?</source>
+    <target>Het gevraagde partitieschema veroorzaakt de volgende waarschuwingen. Doorgaan met het gevraagde partitieschema?</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warnings</source>
+    <target>Partitioneringswaarschuwingen</target>
+</phrase>
+<phrase>
+    <source>Ok</source>
+    <target>OK</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing devices have been selected to be formatted, destroying all data.</source>
+    <target>De volgende reeds bestaande schijven zijn geselecteerd om geformatteerd te worden en waardoor alle gegevens vernietigd worden.</target>
+</phrase>
+<phrase>
+    <source>Format Warnings</source>
+    <target>Formatteerwaarschuwingen</target>
+</phrase>
+<phrase>
+    <source>All Changes that you made will be removed</source>
+    <target>Alle gemaakte wijzigingen zullen verwijderd worden</target>
+</phrase>
+<phrase>
+    <source>Standard</source>
+    <target>Standaard</target>
+</phrase>
+<phrase>
+    <source>LVM</source>
+    <target>LVM</target>
+</phrase>
+<phrase>
+    <source>RAID</source>
+    <target>RAID</target>
+</phrase>
+<phrase>
+    <source>Partition</source>
+    <target>Partitie</target>
+</phrase>
+<phrase>
+    <source>Member</source>
+    <target>Member</target>
+</phrase>
+<phrase>
+    <source>Array</source>
+    <target>Array</target>
+</phrase>
+<phrase>
+    <source>Volume Groups</source>
+    <target>Volumegroepen</target>
+</phrase>
+<phrase>
+    <source>Free</source>
+    <target>Vrij</target>
+</phrase>
+<phrase>
+    <source>Raid Arrays</source>
+    <target>Raid-arrays</target>
+</phrase>
+<phrase>
+    <source>Hard Drives</source>
+    <target>Harde schijven</target>
+</phrase>
+<phrase>
+    <source>Can&apos;t handle more than one extended partition per disk</source>
+    <target>Niet meer dan een uitgebreide partitie is toegestaan per schijf</target>
+</phrase>
+<phrase>
+    <source>Crossed logical partition before extended</source>
+    <target>Crossed logische partitie voor uitgebreide</target>
+</phrase>
+<phrase>
+    <source>Extended</source>
+    <target>Uitgebreide</target>
+</phrase>
+<phrase>
+    <source>Error Partitioning</source>
+    <target>Partitioneringsfout</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: %s.</source>
+    <target>Kan gevraagde partities niet toewijzen: %s.</target>
+</phrase>
+<phrase>
+    <source>Warning Partitioning</source>
+    <target>Partitioneringswaarschuwing</target>
+</phrase>
+<phrase>
+    <source>Warning: %s.</source>
+    <target>Waarschuwing: %s.</target>
+</phrase>
+<phrase>
+    <source>Modify Partition</source>
+    <target>Partitie wijzigen</target>
+</phrase>
+<phrase>
+    <source>Partition Selection Warning</source>
+    <target>Waarschuwing partitioneringselectie</target>
+</phrase>
+<phrase>
+    <source>Please select free physical partition to create new device.</source>
+    <target>Selecteer een vrije fysieke partitie om een nieuw item aan te maken.</target>
+</phrase>
+<phrase>
+    <source>Unable To Edit</source>
+    <target>Bewerken niet mogelijk</target>
+</phrase>
+<phrase>
+    <source>You cannot edit this device:
+
+%s</source>
+    <target>Apparaat kan niet bewerkt worden:
+
+%s </target>
+</phrase>
+<phrase>
+    <source>Don&apos;t use your user name or name as a password</source>
+    <target>Gebruik gebruikersnaam of naam niet als wachtwoord</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match</source>
+    <target>Wachtwoorden komen niet overeen</target>
+</phrase>
+<phrase>
+    <source>Password is too short</source>
+    <target>Wachtwoord is te kort</target>
+</phrase>
+<phrase>
+    <source>Cannot Rescue</source>
+    <target>Kan niet herstellen</target>
+</phrase>
+<phrase>
+    <source>Your current installation cannot be rescued.</source>
+    <target>De huidige installatie kan niet hersteld worden.</target>
+</phrase>
+<phrase>
+    <source>Super User</source>
+    <target>Systeembeheerder</target>
+</phrase>
+<phrase>
+    <source>Starting D-Bus...</source>
+    <target>Starten van D-Bus...</target>
+</phrase>
+<phrase>
+    <source>Connecting to D-Bus...</source>
+    <target>Aan het verbinden met D-Bus...</target>
+</phrase>
+<phrase>
+    <source>Fetching history...</source>
+    <target>Geschiedenis aan het ophalen...</target>
+</phrase>
+<phrase>
+    <source>Please Wait...</source>
+    <target>Even geduld...</target>
+</phrase>
+<phrase>
+    <source>No connection available</source>
+    <target>Geen verbinding beschikbaar</target>
+</phrase>
+<phrase>
+    <source>Operation %(no)s : %(date)s - %(type)s</source>
+    <target>Bewerking %(no)s : %(date)s - %(type)s</target>
+</phrase>
+<phrase>
+    <source>Connecting to network %s...</source>
+    <target>Verbinden met netwerk %s...</target>
+</phrase>
+<phrase>
+    <source>Connection failed</source>
+    <target>Verbinding is mislukt</target>
+</phrase>
+<phrase>
+    <source>Connected</source>
+    <target>Verbonden</target>
+</phrase>
+<phrase>
+    <source>Mount failed</source>
+    <target>Aankoppelen is mislukt</target>
+</phrase>
+<phrase>
+    <source>The following error occurred when mounting the file systems listed in /etc/fstab.  Please fix this problem and try to rescue again.
+%s</source>
+    <target>De volgende fout is opgetreden tijdens het aankoppelen van de in /etc/fstab vermelde bestandsystemen. Probeer dit probleem op te lossen en probeer het herstellen dan opnieuw.
+%s</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;&lt;p&gt;Are you sure you want to restart the computer?&lt;/p&gt;&lt;/b&gt;</source>
+    <target>&lt;b&gt;&lt;p&gt;Werkelijk de computer opnieuw opstarten?&lt;/p&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Installation starts in &lt;b&gt;%s&lt;/b&gt; seconds</source>
+    <target>Installatie start over &lt;b&gt;%s&lt;/b&gt; seconden</target>
+</phrase>
+<phrase>
+    <source>Start Installation</source>
+    <target>Installatie starten</target>
+</phrase>
+<phrase>
+    <source>Apply Settings</source>
+    <target>Instellingen toepassen</target>
+</phrase>
+<phrase>
+    <source>Keyboard Settings</source>
+    <target>Toetsenbordinstellingen</target>
+</phrase>
+<phrase>
+    <source>Selected keyboard layout is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Geselecteerde toetenbordindeling is &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Date/Time Settings</source>
+    <target>Datum/tijd instellingen</target>
+</phrase>
+<phrase>
+    <source>Selected TimeZone is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Geselecteerde tijdszone is &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>User Settings</source>
+    <target>Gebruikerinstellingen</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added.</source>
+    <target>Gebruiker %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) is toegevoegd.</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added with &lt;u&gt;administrator privileges&lt;/u&gt;.</source>
+    <target>Gebruiker %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) is toegevoegd met &lt;u&gt;beheerderrechten&lt;/u&gt;.</target>
+</phrase>
+<phrase>
+    <source>Hostname Settings</source>
+    <target>Hostnaam instellingen</target>
+</phrase>
+<phrase>
+    <source>Hostname is set as &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Hostnaam is ingesteld als &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Partition Settings</source>
+    <target>Partitie instellingen</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning selected.</source>
+    <target>Automatisch partitioneren geselecteerd.</target>
+</phrase>
+<phrase>
+    <source>Use All Space</source>
+    <target>Alle ruimte gebruiken</target>
+</phrase>
+<phrase>
+    <source>Removes all partitions on the selected %s device(s). &lt;b&gt;&lt;u&gt;This includes partitions created by other operating systems.&lt;/u&gt;&lt;/b&gt;</source>
+    <target>Alle partities op de geselecteerde %s schijf(en) worden verwijderd. &lt;b&gt;&lt;u&gt;Dit betreft ook door andere besturingssystemen aangemaakte partities.&lt;/u&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Replace Existing Linux System(s)</source>
+    <target>Huidige Linux-systeem(en) vervangen</target>
+</phrase>
+<phrase>
+    <source>Removes all Linux partitions on the selected%s device(s). This does not remove other partitions you may have on your storage device(s) (such as VFAT or FAT32)</source>
+    <target>Alle Linux-partities op de geselecteerde %s schijf(en) worden verwijderd. Dit betreft niet het verwijderen van andere partities die op de schijf aanwezig zijn (zoals VFAT of FAT32)</target>
+</phrase>
+<phrase>
+    <source>Retains your current data and partitions and uses only the unpartitioned space on the selected %s device(s), assuming you have enough free space available.</source>
+    <target>De huidige gegevens en partities blijven behouden en alleen de ongepartitioneerde ruimte op de geselecteerde %s schijf(ven) worden gebruikt, aannemende dat er voldoende vrije ruimte aanwezig is</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning selected.</source>
+    <target>Handmatig partitioneren geselecteerd.</target>
+</phrase>
+<phrase>
+    <source>Bootloader Settings</source>
+    <target>Bootlader instellingen</target>
+</phrase>
+<phrase>
+    <source>GRUB will be installed to &lt;b&gt;%s&lt;/b&gt;.</source>
+    <target>GRUB zal geïnstalleerd worden op &lt;b&gt;%s&lt;/b&gt;.</target>
+</phrase>
+<phrase>
+    <source>GRUB will not be installed.</source>
+    <target>GRUB zal niet geïnstalleerd worden.</target>
+</phrase>
+<phrase>
+    <source>Package Installation Settings</source>
+    <target>Pakketinstalatie-instellingen</target>
+</phrase>
+<phrase>
+    <source>Collection &lt;b&gt;%s&lt;/b&gt; selected</source>
+    <target>Verzameling %s geselecteerd</target>
+</phrase>
+<phrase>
+    <source>Confirm</source>
+    <target>Bevestigen</target>
+</phrase>
+<phrase>
+    <source>The partitioning options you have selected will now be written to disk. Any data on deleted or reformatted partitions will be lost.</source>
+    <target>De geselecteerde partitioneringsopties worden nu naar de schijf geschreven. Alle gegevens op verwijderde of opnieuw geformatteerde partities gaan verloren.</target>
+</phrase>
+<phrase>
+    <source>Write Changes to Disk</source>
+    <target>Wijzigingen naar schijf schrijven</target>
+</phrase>
+<phrase>
+    <source>Go Back</source>
+    <target>Ga terug</target>
+</phrase>
+<phrase>
+    <source>Proprietary Hardware Drivers</source>
+    <target>Propriëtaire hardware stuurprogramma</target>
+</phrase>
+<phrase>
+    <source>&lt;qt&gt;Proprietary drivers are available which may be required to utilize the full capabilities of your video card. These drivers are developed by the hardware manufacturer and not supported by Pisi Linux developers since their source code is not publicly available.&lt;br&gt;&lt;br&gt;&lt;b&gt;Do you want to install and use these proprietary drivers instead of the default drivers?&lt;/b&gt;&lt;/qt&gt;</source>
+    <target>&lt;qt&gt;Propriëtaire stuurprogramma&apos;s zijn beschikbaar om alle mogelijkheden van de videokaart te gebruiken. Deze zijn door de hardwarefabrikant gemaakt en worden door de ontwikkelaars van Pisi Linux niet ondersteund omdat de broncode niet vrijgegeven is.&lt;br&gt;&lt;br&gt;&lt;b&gt;Wilt u deze propriëtaire stuurprogramma&apos;s installeren in plaats van het standaard stuurprogramma?</target>
+</phrase>
+<phrase>
+    <source>Update</source>
+    <target>Bijwerken</target>
+</phrase>
+<phrase>
+    <source>This user name is already taken, please choose another one.</source>
+    <target>De gebruikernaam bestaat reeds, kies een andere.</target>
+</phrase>
+<phrase>
+    <source>The user name contains invalid characters.</source>
+    <target>De gebruikernaam bevat ongeldige tekens</target>
+</phrase>
+<phrase>
+    <source>The real name contains invalid characters.</source>
+    <target>De echte naam bevat ongeldige tekens.</target>
+</phrase>
+<phrase>
+    <source>User ID used before, choose another one!</source>
+    <target>Het gebruiker-id bestaat reeds. Kies een andere!</target>
+</phrase>
+<phrase>
+    <source>Partitions to Shrink</source>
+    <target>Partitie om kleiner te maken</target>
+</phrase>
+<phrase>
+    <source>Resize FileSystem Error</source>
+    <target>Fout groottewijziging bestandsysteem</target>
+</phrase>
+<phrase>
+    <source>%(device)s: %(msg)s</source>
+    <target>%(device)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>Resize Device Error</source>
+    <target>Fout wijziging apparaatgrootte</target>
+</phrase>
+<phrase>
+    <source>%(name)s: %(msg)s</source>
+    <target>%(name)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>You cannot remove this physical volume because
+otherwise the volume group will be too small to
+hold the currently defined logical volumes.</source>
+    <target>Dit fysieke volume kan niet verwijderd worden omdat
+anders de volumegroep te klein wordt om de huidige
+gedefinieerde logische volumes te bevatten.</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t ask again</source>
+    <target>Deze vraag niet meer stellen</target>
+</phrase>
+<phrase>
+    <source>Do you want to continue?</source>
+    <target>Wilt u doorgaan?</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Informatie</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>OK</target>
+</phrase>
+<phrase>
+    <source>Error reporting</source>
+    <target>Fout rapporteren</target>
+</phrase>
+<phrase>
+    <source>Pixmaps resources file doesn&apos;t exists</source>
+    <target>Pixmaps-bronbestand bestaat niet</target>
+</phrase>
+<phrase>
+    <source>Style file doesn&apos;t exists</source>
+    <target>Stijlbestand bestaat niet</target>
+</phrase>
+<phrase>
+    <source>Release file doesn&apos;t exists</source>
+    <target>Uitgavebestand bestaat niet</target>
+</phrase>
+<phrase>
+    <source>Turn Off Computer</source>
+    <target>Computer uitschakelen</target>
+</phrase>
+<phrase>
+    <source>Restart Computer</source>
+    <target>Computer herstarten</target>
+</phrase>
+<phrase>
+    <source>Restart YALI</source>
+    <target>YALI herstarten</target>
+</phrase>
+<phrase>
+    <source>right</source>
+    <target>rechts</target>
+</phrase>
+<phrase>
+    <source>left</source>
+    <target>links</target>
+</phrase>
+<phrase>
+    <source>Mouse Settings</source>
+    <target>Muisinstellingen</target>
+</phrase>
+<phrase>
+    <source>You just clicked the &lt;b&gt;%s&lt;/b&gt; mouse button.</source>
+    <target>U heeft zojuist op de &lt;b&gt;%s&lt;/b&gt;-knop gedrukt.</target>
+</phrase>
+<phrase>
+    <source>Do you want to switch to the &lt;b&gt;%s&lt;/b&gt; handed configuration?</source>
+    <target>Naar de &lt;b&gt;%s&lt;/b&gt;-handige configuratie schakelen?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to shut down your computer now?</source>
+    <target>Werkelijk de computer nu uitschakelen?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart your computer now?</source>
+    <target>Werkelijk de computer nu herstarten?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart the YALI installer now?</source>
+    <target>Werkelijk de YALI-installeerder herstarten?&lt;/p&gt;&lt;/b?</target>
+</phrase>
+<phrase>
+    <source>Terminal</source>
+    <target>Terminal</target>
+</phrase>
+<phrase>
+    <source>Tetris</source>
+    <target>Tetris</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load screens:%s</source>
+    <target>Er is een fout opgetreden tijdens het laden van scherm(en):%s</target>
+</phrase>
+<phrase>
+    <source>Release notes could not be loaded.</source>
+    <target>Kan uitgavenotities niet laden.</target>
+</phrase>
+<phrase>
+    <source>%s</source>
+    <target>%s</target>
+</phrase>
+<phrase>
+    <source>Windows</source>
+    <target>Vensters</target>
+</phrase>
+<phrase>
+    <source>This partition is part of an inconsistent LVM Volume Group.</source>
+    <target>Deze partitie is deel van een inconsistente LVM-volumegroep</target>
+</phrase>
+<phrase>
+    <source>Failed teardownAll in storage.complete with error:%s</source>
+    <target>Mislukte teardownAll in storage.complete met fout:%s</target>
+</phrase>
+<phrase>
+    <source>Storage Device Error</source>
+    <target>Fout van opslagapparaat</target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while partitioning on device %s.</source>
+    <target>Er is een fout is opgetreden tijdens het partitioneren van apparaat %s.</target>
+</phrase>
+<phrase>
+    <source>Storage Format Error</source>
+    <target>Fout bij opslagformaat</target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while formatting on device %s.</source>
+    <target>Er is een fout is opgetreden tijdens het formatteren op apparaat %s.</target>
+</phrase>
+<phrase>
+    <source>Exit installer</source>
+    <target>Installatiegereedschap beëindigen</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target>Negeren</target>
+</phrase>
+<phrase>
+    <source>Dirty File Systems</source>
+    <target>Niet-goede bestandsystemen</target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Please boot your Linux installation, let the file systems be checked and shut down cleanly to rescue.
+%s</source>
+    <target>De volgende bestandsystemen voor het Linux-systeem zijn niet goed afgekoppeld. Start de Linux-installatie op, laat de bestandsystemen controleren en sluit af om het te herstellen.
+%s</target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Would you like to mount them anyway?
+%s</source>
+    <target>De volgende bestandsystemen voor het Linux-systeem zijn niet goed afgekoppeld. Wilt u ze toch aankoppelen?
+%s</target>
+</phrase>
+<phrase>
+    <source>This partition is holding the data for the hard drive install.</source>
+    <target>Deze partitie bevat gegevens om op harde schijf te installeren</target>
+</phrase>
+<phrase>
+    <source>You cannot delete a partition of a LDL formatted DASD.</source>
+    <target>Het verwijderen van een partitie een LDL geformatteerde DASD is niet mogelijk.</target>
+</phrase>
+<phrase>
+    <source>This device is part of the RAID device %s, you have to edit or remove the raid partition appropriately!</source>
+    <target>Deze schijf maakt deel uit van het RAID-apparaat %s, het is noodzakelijk om de RAID-partitie op de juiste manier te bewerken of te verwijderen.</target>
+</phrase>
+<phrase>
+    <source>This device is part of a RAID device.</source>
+    <target>Dit apparaat is deel van een Raid-apparaat.</target>
+</phrase>
+<phrase>
+    <source>This device is part of the LVM volume group &apos;%s&apos;.</source>
+    <target>Dit apparaat is deel van de LVM-volumegroep &apos;%s&apos;.</target>
+</phrase>
+<phrase>
+    <source>This device is part of a LVM volume group.</source>
+    <target>Dit apparaat is deel van een LVM-volumegroep.</target>
+</phrase>
+<phrase>
+    <source>This device is an extended partition which contains logical partitions that cannot be deleted:
+
+</source>
+    <target>Deze partitie is een uitgebreide partitie en bevat een logische partitie en kan niet verwijderd worden:
+
+</target>
+</phrase>
+<phrase>
+    <source>You have not defined a root partition (/),which is required for installation of %s to continue.</source>
+    <target>Er is geen root-partitie (/) opgegeven, en deze is noodzakelijk voor de installatie van %s om door te gaan.</target>
+</phrase>
+<phrase>
+    <source>Your / partition is less than %(min)s MB which is lower than recommended for a normal %(productName)s install.</source>
+    <target>De /-partitie is minder dan %(min)s MB en dit is kleiner dan de aanbevolen grootte voor een normale %(productName)s installatie.</target>
+</phrase>
+<phrase>
+    <source>Your %(mount)s partition is less than %(size)s megabytes which is lower than recommended for a normal %(productName)s install.</source>
+    <target>De %(mount)s partitie is minder dan %(size)s MB en dit is kleiner dan de aanbevolen grootte voor een normale %(productName)s installatie.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Due to the amount of memory present, a swap partition is required to complete installation.</source>
+    <target>Er is geen swap-partitie gespecificeerd. Vanwege de grootte van het huidig aanwezige geheugen is een swap-partitie noodzakelijk voor het voltooien van de installatie.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Although not strictly required in all cases, it will significantly improve performancefor most installations.</source>
+    <target>Er is geen swap-partitie gespecificeerd. Alhoewel dit voor alle gevallen niet strikt noodzakelijk is, zal het de prestaties van het systeem voor de meeste installaties belangrijk verbeteren.</target>
+</phrase>
+<phrase>
+    <source>This mount point is invalid. The %s directory must be on the / file system.</source>
+    <target>Dit aankoppelpunt is ongeldig. De %s map dient op het / bestandsysteem te zijn.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s must be on a linux file system.</source>
+    <target>Het aankoppelpunt %s dient op een Linux-bestandsysteem te zijn.</target>
+</phrase>
+<phrase>
+    <source>No Drives Found</source>
+    <target>Geen schijven gevonden</target>
+</phrase>
+<phrase>
+    <source>An error has occurred - no valid devices were found on
+which to create new file systems. Please check your
+hardware for the cause of this problem.</source>
+    <target>Er is een fout opgetreden - geen geldige apparaten zijn
+gevonden om een nieuw bestandsysteem aan te maken.
+Controleer de hardware om dit probleem op te lossen.</target>
+</phrase>
+<phrase>
+    <source>requested size exceeds maximum allowed</source>
+    <target>aangevraagde grootte is meer dan de maximale toegestane</target>
+</phrase>
+<phrase>
+    <source>partition is too %(problem)s for %(format)s formatting</source>
+    <target>partitie is te %(problem)s voor %(format)s formatteren</target>
+</phrase>
+<phrase>
+    <source>not enough free space on disks</source>
+    <target>Niet genoeg vrije schijfruimte</target>
+</phrase>
+<phrase>
+    <source>not enough free space after creating extended partition</source>
+    <target>niet genoeg vrije ruimte na het aanmaken van uitgebreide partitie</target>
+</phrase>
+<phrase>
+    <source>not enough space for LVM requests</source>
+    <target>niet genoeg ruimte voor LVM-verzoek(en)</target>
+</phrase>
+<phrase>
+    <source>Could not find enough free space for automatic
+partitioning, please use another partitioning method.</source>
+    <target>Kan voor automatische partitioneren niet genoeg
+vrije ruimte vinden, selecteer een andere methode.</target>
+</phrase>
+<phrase>
+    <source>Warnings During Automatic Partitioning</source>
+    <target>Waarschuwingen tijdens automatisch partitioneren</target>
+</phrase>
+<phrase>
+    <source>Following warnings occurred during automatic partitioning:
+
+%s</source>
+    <target>Volgende waarschuwingen zijn opgetreden tijdens automatisch partitioneren:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>
+
+Press &apos;OK&apos; to exit the installer.</source>
+    <target>
+
+Selecteer &apos;OK&apos; om de installatie te beëindigen.</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: 
+%(msg)s.%(extra)s</source>
+    <target>Kan gevraagde partities niet toewijzen:
+%(msg)s.%(extra)s</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning Errors</source>
+    <target>Automatisch partitionerenfout</target>
+</phrase>
+<phrase>
+    <source>The following errors occurred with your partitioning:
+
+%(errortxt)s
+
+This can happen if there is not enough space on your hard drive(s) for the installation. %(extra)s</source>
+    <target>De volgende fouten zijn tijdens partitioneren opgetreden:
+
+%(errortxt)s
+
+Dit kan veroorzaakt worden wanneer er niet voldoend vrije ruimte op de harde schijf aanwezig is. %(extra)s</target>
+</phrase>
+<phrase>
+    <source>Please enter a volume group name.</source>
+    <target>Voer een naam voor de volumegroep in.</target>
+</phrase>
+<phrase>
+    <source>Volume Group Names must be less than 128 characters</source>
+    <target>De naam van de volumegroep dient minder dan 128 tekens te zijn</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name %s is not valid.</source>
+    <target>Fout - de naam van volumegroep %s is ongeldig.</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Fout - de naam van de volumegroep bevat ongeldige tekens of spaties. Toegestane tekens zijn letters, cijfers, &apos;.&apos; of &apos;_&apos;.</target>
+</phrase>
+<phrase>
+    <source>Please enter a logical volume name.</source>
+    <target>Voer een logische volumenaam in.</target>
+</phrase>
+<phrase>
+    <source>Logical Volume Names must be less than 128 characters</source>
+    <target>De logische volumenaam dient minder dan 128 tekens te zijn</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name %s is not valid.</source>
+    <target>Fout - de logische volumenaam %s is ongeldig.</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Fout - de logische volumenaam bevat niet geldige tekens of spaties. Toegestane tekens zijn letters, cijfers, &apos;.&apos; of &apos;_&apos;.</target>
+</phrase>
+<phrase>
+    <source>Format as Swap?</source>
+    <target>Formatteren als swap?</target>
+</phrase>
+<phrase>
+    <source>%s has a partition type of 0x82 (Linux swap) but does not appear to be formatted as a Linux swap partition.
+
+Would you like to format this partition as a swap partition?</source>
+    <target>%s heeft een partitietype als 0x82 (Linux swap) maar is hoogstwaarschijnlijk niet als Linux swap-partitie geformatteerd.
+
+Deze partitie als swap-partitie formatteren?</target>
+</phrase>
+<phrase>
+    <source>You are about to delete all partitions on the device &apos;%s&apos;.</source>
+    <target>U staat op het punt om alle partities op de schijf &apos;%s&apos; te verwijderen.</target>
+</phrase>
+<phrase>
+    <source>Notice</source>
+    <target>Opmerking</target>
+</phrase>
+<phrase>
+    <source>The following partitions were not deleted because they are in use:
+
+%s</source>
+    <target>De volgende partities zijn niet verwijderd omdat ze gebruikt worden:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>Unable To Delete</source>
+    <target>Verwijderen is niet mogelijk</target>
+</phrase>
+<phrase>
+    <source>You must first select a partition to delete.</source>
+    <target>Selecteer eerst een partitie om te verwijderen.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s is invalid.  Mount points must start with &apos;/&apos; and cannot end with &apos;/&apos;, and must contain printable characters and no spaces.</source>
+    <target>Het aankoppelpunt %s is ongeldig. Aankoppelpunten dienen met een &apos;/&apos; te beginnen, mogen niet met &apos;/&apos; eindigen, dienen uitsluitend letters/cijfers te bevatten en geen spaties.</target>
+</phrase>
+<phrase>
+    <source>Error with Partitioning</source>
+    <target>Fout tijdens partitioneren</target>
+</phrase>
+<phrase>
+    <source>The following critical errors exist with your requested partitioning scheme. These errors must be corrected prior to continuing with your install of %(productName)s.
+
+%(errorstr)s</source>
+    <target>Het gevraagde schema van partitioneren bevat de volgende kritieke fouten. Deze fouten dienen eerst opgelost te worden voordat verder gegaan kan worden met de installatie van %(productName)s.
+
+%(errorstr)s</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warning</source>
+    <target>Waarschuwingen bij partitioneren</target>
+</phrase>
+<phrase>
+    <source>The following warnings exist with your requested partition scheme.
+
+%s
+
+Would you like to continue with your requested partitioning scheme?</source>
+    <target>Het gevraagde partitieschema veroorzaakt de volgende fouten.
+
+%s
+
+Doorgaan met het gevraagde partitieschema?</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing partitions have been selected to be formatted, destroying all data.</source>
+    <target>De volgende reeds bestaande partities zijn geselecteerd om geformatteerd te worden en daardoor worden alle gegevens vernietigd.</target>
+</phrase>
+<phrase>
+    <source>Select &apos;Yes&apos; to continue and format these partitions, or &apos;No&apos; to go back and change these settings.</source>
+    <target>Selecteer &apos;Ja&apos; om door te gaan en deze partities te formatteren, of &apos;Nee&apos; om terug te gaan en deze instellingen te wijzigen.</target>
+</phrase>
+<phrase>
+    <source>Format Warning</source>
+    <target>Waarschuwingen bij formatteren</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the volume group &quot;%s&quot;.
+
+ALL logical volumes in this volume group will be lost!</source>
+    <target>U staat op het punt om de volumegroep &quot;%s&quot; te verwijderen.
+
+ALLE logische volumes in deze volumegroep zullen verloren gaan!</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the logical volume &quot;%s&quot;.</source>
+    <target>U staat op het punt om het logische volume &quot;%s&quot;  te verwijderen.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete a RAID device.</source>
+    <target>U staat op het punt om een RAID-apparaat te verwijderen.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %s partition.</source>
+    <target>U staat op het punt om de partitie  %s  te verwijderen</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %(type)s %(name)s</source>
+    <target>U staat op het punt om de %(type)s %(name)s te verwijderen</target>
+</phrase>
+<phrase>
+    <source>Confirm Reset</source>
+    <target>Herstellen bevestigen</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to reset the partition table to its original state?</source>
+    <target>Werkelijk de partitietabel in de originele staat herstellen?</target>
+</phrase>
+<phrase>
+    <source>You have chosen to use a pre-existing partition for this
+installation without formatting it. We recommend that you format
+this partition to make sure files from a previous operating system
+installation do not cause problems with this installation of Linux.
+However, if this partition contains files that you need to keep,
+such as home directories, then continue without formatting this
+npartition.</source>
+    <target>U heeft er voor gekozen om reeds bestaande partities voor deze
+installatie te gebruiken zonder deze opnieuw te formatteren.
+Het is raadzaam om deze te laten formatteren om er zeker van te
+zijn dat bestanden van een vorig besturingssysteem geen problemen
+veroorzaken bij de installatie van deze Linux. Echter, indien deze partitie
+bestanden bevat die behouden dienen te worden, zoals home-mappen ed.,
+ga dan verder zonder deze te formatteren
+npartition.</target>
+</phrase>
+<phrase>
+    <source>Format?</source>
+    <target>Formatteren?</target>
+</phrase>
+<phrase>
+    <source>Do Not Format</source>
+    <target>Niet formatteren</target>
+</phrase>
+<phrase>
+    <source>Partitions of type &apos;%s&apos; must be constrained to a
+single drive.  To do this, select the drive in the &apos;Allowable Drives&apos;
+checklist.</source>
+    <target>Partities van het type &apos;%s&apos; dienen tot een enkele schijf
+beperkt te worden. Om dit te bereiken, selecteer de schijf
+uit de lijst &apos;Toegestane Schijven&apos;.</target>
+</phrase>
+<phrase>
+    <source>Storage Device Warning</source>
+    <target>Waarschuwing opslagapparaten</target>
+</phrase>
+<phrase>
+    <source>The following storage device may contain recoverable data:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;This device may have data that will be &lt;b&gt;permanently lost&lt;/b&gt; if you include it in this installation.&lt;br&gt;&lt;br&gt;If you don&apos;t care about any data on this device, choose &lt;b&gt;Reset device&lt;/b&gt; to include it in the installation process.&lt;br&gt;&lt;br&gt;If you don&apos;t want the device to be permanently erased, select &lt;b&gt;Ignore device&lt;/b&gt; and the device will not be considered as a possible installation target.</source>
+    <target>Het volgende opslagapparaat kan herstelbare gegevens bevatten:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;Het apparaat kan gegevens bevatten die &lt;b&gt;definitief verloren&lt;/b&gt; gaan bij het gebruiken voor deze installatie.&lt;br&gt;&lt;br&gt;In dien de gegevens op het apparaat niet belangrijk zijn, selecteer &lt;b&gt;Apparaat opnieuw instellen&lt;/b&gt; om het in het installatieproces op te nemen.&lt;br&gt;&lt;br&gt;Indien het apparaat niet gewist mag worden, selecteer &lt;b&gt;Apparaat negeren&lt;/b&gt; en het apparaat zal niet als een mogelijk installatiedoel beschouwd worden.</target>
+</phrase>
+<phrase>
+    <source>Reset device</source>
+    <target>Apparaat opnieuw instellen</target>
+</phrase>
+<phrase>
+    <source>Ignore device</source>
+    <target>Apparaat negeren</target>
+</phrase>
+<phrase>
+    <source>There is inconsistent LVM data on %(msg)s. You can reinitialize all related PVs (%(pvs)s) which will erase the LVM metadata, or ignore which will preserve thecontents.This action may also be applied to all other PVs with inconsistent metadata.</source>
+    <target>Er zijn niet samenhangend LVM-gegevens op %(msg)s. Alle gerelateerde PV&apos;s (%(pvs)s) kunnen opnieuw geïnitialiseerd worden en dit zal de LVM-metagegevens wissen, of door het negeren zal de inhoud niet verloren gaan. Deze bewerking kan ook op alle andere PV&apos;s, met niet samenhangende metagegevens, toegepast worden.</target>
+</phrase>
+<phrase>
+    <source>Yes, re-initialize</source>
+    <target>Ja, opnieuw initialiseren</target>
+</phrase>
+<phrase>
+    <source>No, protect data</source>
+    <target>Nee, gegevens beschermen</target>
+</phrase>
+<phrase>
+    <source>Disk contains %(members_count)s BIOS RAID metadata, but is not part of any recognized BIOS RAID sets. Ignoring disk %(members)s.</source>
+    <target>Schijf bevat %(members_count)s BIOS RAID metadata, maar is geen deel van enig herkende BIOS RAID-set. Schijf %(members)s worden genegeerd.</target>
+</phrase>
+<phrase>
+    <source>Invalid mount point</source>
+    <target>Ongeldig aankoppelpunt</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %s.  Some element of this path is not a directory. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Een fout is opgetreden tijdens het aanmaken van %s. Enkel elementen van dit pad is niet een map. Dit is een fatale fout en de installatie kan niet voortgezet worden.
+
+Druk &lt;Enter&gt; om de installatie te beëindigen.</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %(mountpoint)s: %(msg)s.  This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Een fout is opgetreden tijdens het aanmaken van %(mountpoint)s: %(msg)s. Dit is een fatale fout en de installatie kan niet voortgezet worden.
+
+Druk &lt;Enter&gt; om de installatie te beëindigen.</target>
+</phrase>
+<phrase>
+    <source>Unable to mount filesystem</source>
+    <target>Kan bestandsysteem niet aankoppelen</target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s.  You may continue installation, but there may be problems.</source>
+    <target>Een fout is opgetreden tijdens het aan koppelen van %(path)s als %(mountpoint)s.  De installatie kan voortgezet worden, maar dit kan problemen geven.</target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s: %(msg)s. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Een fout is opgetreden tijdens het aankoppelen van %(path)s als %(mountpoint)s: %(msg)s. Dit is een fatale fout en de installatie kan niet voortgezet worden.
+
+Druk &lt;Enter&gt; om de installatie te beëindigen.</target>
+</phrase>
+<phrase>
+    <source>Skip</source>
+    <target>Overslaan</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+is an old-style Linux swap partition.  If you want to use this device for swap space, you must reformat as a new-style Linux swap partition.</source>
+    <target>Het swap-apparaat:
+
+     %s
+
+is een oude-stijl swap-partitie voor Linux. Indien deze voor swapruimte gebruikt dient te gaan worden, formatteer deze dan als nieuwe-stijl swap-partitie voor Linux.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+in your /etc/fstab file is currently in use as a software suspend device, which means your system is hibernating. If you are performing a new install, make sure the installer is set to format all swap devices.</source>
+    <target>Het swap-apparaat:
+
+     %s
+
+in het bestand /etc/fstab is momenteel als software slaap-apparaat in gebruik en het systeem is dus in slaaptoestand. Wanneer dit een nieuwe installatie is, wees er zeker van dat de swapruimte opnieuw geformatteerd wordt.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+does not contain a supported swap volume.  In order to continue installation, you will need to format the device or skip it.</source>
+    <target>Het swap-apparaat:
+
+     %s
+
+bevat geen ondersteund swapvolume. Om verder te gaan met de installatie dient deze geformatteerd te worden of dit over te slaan.</target>
+</phrase>
+<phrase>
+    <source>Error enabling swap device %(name)s: %(msg)s&lt;br&gt;&lt;br&gt;This most likely means this swap device has not been initialized.&lt;br&gt;&lt;br&gt;Press OK to exit the installer.</source>
+    <target>Fout tijdens inschakelen swapruimte %(name)s: %(msg)s&lt;br&gt;&lt;br&gt;Dit wordt hoogstwaarschijnlijk veroorzaakt door een niet geïnitialiseerde swapruimte.&lt;br&gt;&lt;br&gt;Selecteer &apos;OK&apos; om de installatie te beëindigen.</target>
+</phrase>
+<phrase>
+    <source>You have not created a bootable partition.</source>
+    <target>Er is geen opstartbare partitie aangemaakt.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a logical volume.</source>
+    <target>Opstartbare partities kunnen niet een logisch volume zijn.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a raid array.</source>
+    <target>Opstartbare partities kunnen niet een raid-array zijn.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on an %s filesystem.</source>
+    <target>Opstartbare partities kunnen niet een bestandsysteem %s zijn.</target>
+</phrase>
+<phrase>
+    <source>Ignoring noauto entry</source>
+    <target>Niet-auto item negeren</target>
+</phrase>
+<phrase>
+    <source>Failed to resolve %s (%s) from fstab</source>
+    <target>Oplossen van %s (%s) van fstab is mislukt</target>
+</phrase>
+<phrase>
+    <source>Unrecognized filesystem type for %s (%s)</source>
+    <target>Niet-herkend type bestandsysteem voor %s (%s)</target>
+</phrase>
+<phrase>
+    <source>Scanned format (%s) differs from fstab format (%s)</source>
+    <target>Gescand formaat (%s) is ongelijk aan fstab-formaat (%s)</target>
+</phrase>
+<phrase>
+    <source>Cannot open %s for read</source>
+    <target>Kan %s niet openen om te lezen</target>
+</phrase>
+<phrase>
+    <source>Fstab entry %s is malformed: %s</source>
+    <target>Fstab-item %s is ongeldig: %s</target>
+</phrase>
+<phrase>
+    <source>Creating file %s</source>
+    <target>Aanmaken bestand %s</target>
+</phrase>
+<phrase>
+    <source>Creating device %s</source>
+    <target>Aanmaken apparaat %s</target>
+</phrase>
+<phrase>
+    <source>device has not been created</source>
+    <target>apparaat is niet aangemaakt</target>
+</phrase>
+<phrase>
+    <source>cannot activate VG with missing PV(s)</source>
+    <target>kan VG met ontbrekende PV(&apos;s) niet activeren</target>
+</phrase>
+<phrase>
+    <source>vginfo failed for %s</source>
+    <target>vginfo is mislukt voor %s</target>
+</phrase>
+<phrase>
+    <source>lvs failed for %s</source>
+    <target>lvs is mislukt voor %s</target>
+</phrase>
+<phrase>
+    <source>partition table</source>
+    <target>partitietabel</target>
+</phrase>
+<phrase>
+    <source>dm-raid member device</source>
+    <target>dm-raid memberapparaat</target>
+</phrase>
+<phrase>
+    <source>Unknown return code: %d.</source>
+    <target>Onbekende return-code: %d</target>
+</phrase>
+<phrase>
+    <source>Migrating %s filesystem on %s</source>
+    <target>Migreren van %s bestandsysteem op %s</target>
+</phrase>
+<phrase>
+    <source>Creating %(type)s filesystem on %(device)s</source>
+    <target>Aanmaken %(type)s bestandsysteem op %(device)s</target>
+</phrase>
+<phrase>
+    <source>Resizing filesystem on %s</source>
+    <target>Grootte wijzigen van bestandsysteem op %s</target>
+</phrase>
+<phrase>
+    <source>Checking filesystem on %s</source>
+    <target>Controleren van bestandsysteem op %s</target>
+</phrase>
+<phrase>
+    <source>%(type)s filesystem check failure on %(device)s: </source>
+    <target>Controleren %(type)s bestandsysteem is mislukt op %(device)s: </target>
+</phrase>
+<phrase>
+    <source>Errors like this usually mean there is a problem with the filesystem that will require user interaction to repair. Restart installation after you have corrected the problems on the filesystem.</source>
+    <target>Fouten zoals deze betekenen meestal dat er een probleem is met het bestandsysteem en maken een reparatiehandeling noodzakelijk. Herstart de installatie nadat het probleem op het bestandsysteem opgelost is.</target>
+</phrase>
+<phrase>
+    <source>Unrecoverable Error</source>
+    <target>Onherstelbare fout</target>
+</phrase>
+<phrase>
+    <source>File system errors left uncorrected.</source>
+    <target>Fouten van bestandsysteem zijn niet opgelost.</target>
+</phrase>
+<phrase>
+    <source>Operational error.</source>
+    <target>Bewerkingsfout.</target>
+</phrase>
+<phrase>
+    <source>Usage or syntax error.</source>
+    <target>Gebruik of syntaxisfout.</target>
+</phrase>
+<phrase>
+    <source>e2fsck cancelled by user request.</source>
+    <target>e2fsck is door gebruiker afgebroken.</target>
+</phrase>
+<phrase>
+    <source>Shared library error.</source>
+    <target>Fout gedeelde bibliotheek.</target>
+</phrase>
+<phrase>
+    <source>Recoverable errors have been detected or dosfsck has discovered an internal inconsistency.</source>
+    <target>Herstelbare fouten zijn gedetecteerd of dosfsck heeft een interne inconsistiteit ontdekt.</target>
+</phrase>
+<phrase>
+    <source>Usage error.</source>
+    <target>Gebruikfout.</target>
+</phrase>
+<phrase>
+    <source>physical volume (LVM)</source>
+    <target>fysiek volume (LVM)</target>
+</phrase>
+<phrase>
+    <source>software RAID</source>
+    <target>software RAID</target>
+</phrase>
+<phrase>
+    <source>Turkish</source>
+    <target>Turks</target>
+</phrase>
+<phrase>
+    <source>Turkish F</source>
+    <target>Turks F</target>
+</phrase>
+<phrase>
+    <source>Turkish Q</source>
+    <target>Turks Q</target>
+</phrase>
+<phrase>
+    <source>English</source>
+    <target>Engels</target>
+</phrase>
+<phrase>
+    <source>English GB</source>
+    <target>Engels GB</target>
+</phrase>
+<phrase>
+    <source>Greek</source>
+    <target>Grieks</target>
+</phrase>
+<phrase>
+    <source>Afrikaans</source>
+    <target>Afrikaans</target>
+</phrase>
+<phrase>
+    <source>Vietnamese</source>
+    <target>Vietnamees</target>
+</phrase>
+<phrase>
+    <source>Catalan</source>
+    <target>Catalaans</target>
+</phrase>
+<phrase>
+    <source>Italian</source>
+    <target>Italiaans</target>
+</phrase>
+<phrase>
+    <source>Czech</source>
+    <target>Tsjechisch</target>
+</phrase>
+<phrase>
+    <source>Welsh</source>
+    <target>Welsh</target>
+</phrase>
+<phrase>
+    <source>Arabic</source>
+    <target>Arabisch</target>
+</phrase>
+<phrase>
+    <source>Estonian</source>
+    <target>Estlands</target>
+</phrase>
+<phrase>
+    <source>Spanish</source>
+    <target>Spaans</target>
+</phrase>
+<phrase>
+    <source>Russian</source>
+    <target>Russisch</target>
+</phrase>
+<phrase>
+    <source>Dutch</source>
+    <target>Nederlands</target>
+</phrase>
+<phrase>
+    <source>Portuguese</source>
+    <target>Portugees</target>
+</phrase>
+<phrase>
+    <source>Norwegian</source>
+    <target>Noors</target>
+</phrase>
+<phrase>
+    <source>Icelandic</source>
+    <target>IJslands</target>
+</phrase>
+<phrase>
+    <source>Polish</source>
+    <target>Pools</target>
+</phrase>
+<phrase>
+    <source>Belgium</source>
+    <target>België</target>
+</phrase>
+<phrase>
+    <source>French</source>
+    <target>Frans</target>
+</phrase>
+<phrase>
+    <source>Bulgarian</source>
+    <target>Bulgaars</target>
+</phrase>
+<phrase>
+    <source>Slovenian</source>
+    <target>Sloveens</target>
+</phrase>
+<phrase>
+    <source>Croatian</source>
+    <target>Kroatisch</target>
+</phrase>
+<phrase>
+    <source>German</source>
+    <target>Duits</target>
+</phrase>
+<phrase>
+    <source>Danish</source>
+    <target>Deens</target>
+</phrase>
+<phrase>
+    <source>Brazilian</source>
+    <target>Braziliaans</target>
+</phrase>
+<phrase>
+    <source>Finnish</source>
+    <target>Fins</target>
+</phrase>
+<phrase>
+    <source>Hungarian</source>
+    <target>Hongaars</target>
+</phrase>
+<phrase>
+    <source>Japanese</source>
+    <target>Japans</target>
+</phrase>
+<phrase>
+    <source>Malayalam</source>
+    <target>Malayalaams</target>
+</phrase>
+<phrase>
+    <source>Swedish</source>
+    <target>Zweeds</target>
+</phrase>
+<phrase>
+    <source>Macedonian</source>
+    <target>Macedonisch</target>
+</phrase>
+<phrase>
+    <source>Slovak</source>
+    <target>Slowaaks</target>
+</phrase>
+<phrase>
+    <source>Ukrainian</source>
+    <target>Oekraïens</target>
+</phrase>
+<phrase>
+    <source>Serbian</source>
+    <target>Servisch</target>
+</phrase>
+<phrase>
+    <source>Preparing home directory for %s...</source>
+    <target>Klaarmaken van persoonlijk map voor %s...</target>
+</phrase>
+<phrase>
+    <source>Release file is missing</source>
+    <target>Uitgavebestand ontbreekt</target>
+</phrase>
+<phrase>
+    <source>Release file is inconsistent</source>
+    <target>Uitgavebestand is niet samenhangend</target>
+</phrase>
+<phrase>
+    <source>Invalid xml file</source>
+    <target>Ongeldig xml-bestand</target>
+</phrase>
+</QPH>

@@ -1,0 +1,2217 @@
+<!DOCTYPE QPH>
+<QPH language="uk">
+<phrase>
+    <source>There appears to be more than one resizeable partition. You can select a partition from the list below or YALI will select one for you.</source>
+    <target>Це повідомлення з&apos;являється, коли потрібно більше одного змінного розділу. Ви можете вибрати розділ з переліку або YALI вибере самостійно.</target>
+</phrase>
+<phrase>
+    <source>X</source>
+    <target>Х</target>
+</phrase>
+<phrase>
+    <source>Automatically choose the partition to resize (recommended)</source>
+    <target>Автоматично вибрати розділ для зміни розміру (рекомендовано)</target>
+</phrase>
+<phrase>
+    <source>I will choose the target</source>
+    <target>Я сам виберу розділ</target>
+</phrase>
+<phrase>
+    <source>Use Selected</source>
+    <target>Використати вибрані</target>
+</phrase>
+<phrase>
+    <source>Use All Disk</source>
+    <target>Використати ввесь простір диску</target>
+</phrase>
+<phrase>
+    <source>Shrink Current System</source>
+    <target>Зменшити існуючу систему</target>
+</phrase>
+<phrase>
+    <source>Use Free Space</source>
+    <target>Використати вільний простір</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning</source>
+    <target>Ручний розподіл</target>
+</phrase>
+<phrase>
+    <source>Advanced settings</source>
+    <target>Додаткові налаштування</target>
+</phrase>
+<phrase>
+    <source>Default settings</source>
+    <target>Типові налаштування</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t install bootloader</source>
+    <target>Не встановлювати завантажувача</target>
+</phrase>
+<phrase>
+    <source>The first sector of</source>
+    <target>У першому секторі</target>
+</phrase>
+<phrase>
+    <source>You can validate the integrity of the installation packages. Although this is an optional step, we highly recommend to do the validation in order to avoid any possible errors during the installation process.</source>
+    <target>Ви можете перевірити цілісність інсталяційних пакетів. Хоча це необов&apos;язково, ми наполегливо рекомендуємо зробити перевірку, щоб уникнути будь-яких можливих помилок протягом встановлення.</target>
+</phrase>
+<phrase>
+    <source>Validation failed</source>
+    <target>Помилка при перевірянні</target>
+</phrase>
+<phrase>
+    <source>Validation succeeded</source>
+    <target>Перевірку закінчено вдало</target>
+</phrase>
+<phrase>
+    <source>Validate</source>
+    <target>Перевіряння</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>Форма</target>
+</phrase>
+<phrase>
+    <source>To use PiSi History support, you may need to be online. You can use a connection profile from the list below:</source>
+    <target>Щоб використовувати журнал PiSi, потрібно бути в мережі. Можна використати з&apos;єднання з переліку нижче:</target>
+</phrase>
+<phrase>
+    <source>Connect</source>
+    <target>З&apos;єднання</target>
+</phrase>
+<phrase>
+    <source>Standard Partition</source>
+    <target>Стандартний розділ</target>
+</phrase>
+<phrase>
+    <source>General purpose of partition creation</source>
+    <target>Загальна ціль створення розділу</target>
+</phrase>
+<phrase>
+    <source>Volume Group</source>
+    <target>Том групи</target>
+</phrase>
+<phrase>
+    <source>Requires at least 1 free LVM formatted partition</source>
+    <target>Потрібно щонайменше 1 вільний і форматований розділ LVM</target>
+</phrase>
+<phrase>
+    <source>Logical Volume</source>
+    <target>Логічний том</target>
+</phrase>
+<phrase>
+    <source>Create Logical Volume on selected Volume Group</source>
+    <target>Створити логічний том на вибраному томі групи</target>
+</phrase>
+<phrase>
+    <source>Physical Volume</source>
+    <target>Фізичний том</target>
+</phrase>
+<phrase>
+    <source>Create LVM formatted partition</source>
+    <target>Створити форматований розділ LVM</target>
+</phrase>
+<phrase>
+    <source>Raid Member</source>
+    <target>Елемент RAID</target>
+</phrase>
+<phrase>
+    <source>Create Raid formatted partition</source>
+    <target>Створити форматований розділ RAID</target>
+</phrase>
+<phrase>
+    <source>Raid Array</source>
+    <target>Масив RAID</target>
+</phrase>
+<phrase>
+    <source>Requires at least 2 free Raid formatted partition</source>
+    <target>Потрібно щонайменше 2 вільних і форматованих розділів RAID</target>
+</phrase>
+<phrase>
+    <source>Date</source>
+    <target>Дата</target>
+</phrase>
+<phrase>
+    <source>Time</source>
+    <target>Час</target>
+</phrase>
+<phrase>
+    <source>Timezone</source>
+    <target>Часовий пояс</target>
+</phrase>
+<phrase>
+    <source>Unhandled exception occured</source>
+    <target>Трапилась помилка оброблення</target>
+</phrase>
+<phrase>
+    <source>Please fill a bug report at http://bugs.pisilinux.org.tr/ attaching the following backtrace.</source>
+    <target>Будь ласка, оформіть звіт про помилку на http://bugs.pisilinux.org/ та долучіть таке зворотне трасування.</target>
+</phrase>
+<phrase>
+    <source>Reboot</source>
+    <target>Перезавантажити</target>
+</phrase>
+<phrase>
+    <source>Show Backtrace</source>
+    <target>Показати звороте трасування</target>
+</phrase>
+<phrase>
+    <source>help content</source>
+    <target>зміст довідки</target>
+</phrase>
+<phrase>
+    <source>Welcome to YALI (Yet Another Linux Installer), where you will have the opportunity to verify the installation medium, select your keyboard layout, choose your time-zone, create user accounts and prepare your disk - followed by a summary and final review before committing to the installation of Pisi Linux.
+Further information for each page of the installer may be viewed by clicking the question-mark icon at the top of its page. 
+YALI was designed with ease of use in mind and should not pose a problem to the novice Linux user. As with all such procedures though, any valuable data on your system should be backed-up before commencing.</source>
+    <target>Ласкаво просимо до YALI (Yet Another Linux Installer), де ви будете мати можливість перевірити середовище встановлення, вибрати розкладку клавіатури, вибрати часовий пояс, створювати облікові записи користувачів і підготувати ваш диск - підсумувати всі налаштування, перевірити їх перш ніж здійснювати встановлення Pisi Linux.
+Додаткову інформацію для кожної сторінки можна переглядати, натиснувши на іконку зі знаком питання у верхній частині своїй сторінки.
+YALI був розроблений, щоб ним було легко користуватися і його використання не повинно представляти проблему для користувача Linux. Як і у всіх інших процедур, цінні дані про вашу систему повинні бути збереженні до початку.</target>
+</phrase>
+<phrase>
+    <source>Installing Package: </source>
+    <target>Встановлення пакунків:</target>
+</phrase>
+<phrase>
+    <source>Keyboard Layouts</source>
+    <target>Розкладка клавіатури</target>
+</phrase>
+<phrase>
+    <source>Test Layout</source>
+    <target>Випробування розкладки</target>
+</phrase>
+<phrase>
+    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Before installing Pisi Linux on your computer, please read and accept the terms of free / open source licenses of the softwares included in this installation medium. &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;License texts&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <target>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Перед тим, як встановити Pisi Linux, будь ласка, ознайомтесь з умовами вільних/відкритих ліцензій програм, які входять у цей комплект. &lt;a href=\&quot;#\&quot;&gt;&lt;span style=\&quot; text-decoration: underline; color:#56a2c0;\&quot;&gt;Тексти ліцензій&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</target>
+</phrase>
+<phrase>
+    <source>I understand and accept the terms</source>
+    <target>Я розумію і погоджуюсь з умовами</target>
+</phrase>
+<phrase>
+    <source>Logical Volume:</source>
+    <target>Логічний том:</target>
+</phrase>
+<phrase>
+    <source>Use :</source>
+    <target>Використання :</target>
+</phrase>
+<phrase>
+    <source>Size :</source>
+    <target>Розмір :</target>
+</phrase>
+<phrase>
+    <source> MB</source>
+    <target> МБ</target>
+</phrase>
+<phrase>
+    <source>Resize</source>
+    <target>Зміна розміру</target>
+</phrase>
+<phrase>
+    <source>File System :</source>
+    <target>Файлова система :</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Формат</target>
+</phrase>
+<phrase>
+    <source>Migrate</source>
+    <target>Міграція</target>
+</phrase>
+<phrase>
+    <source>Yali</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Release Notes</source>
+    <target>Нотатки щодо випуску</target>
+</phrase>
+<phrase>
+    <source>Previous Screen</source>
+    <target>Попереднє вікно</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>Назад</target>
+</phrase>
+<phrase>
+    <source>Next Screen</source>
+    <target>Наступне вікно</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>Далі</target>
+</phrase>
+<phrase>
+    <source>Device</source>
+    <target>Пристрій</target>
+</phrase>
+<phrase>
+    <source>Mount Point</source>
+    <target>Точка монтування</target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target>Мітка</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Тип</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Розмір</target>
+</phrase>
+<phrase>
+    <source>Create</source>
+    <target>Створити</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>Редагувати</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>Вилучити</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Скинути</target>
+</phrase>
+<phrase>
+    <source>Format :</source>
+    <target>Формат :</target>
+</phrase>
+<phrase>
+    <source>Yes, format this partition</source>
+    <target>Так, форматувати цей розділ</target>
+</phrase>
+<phrase>
+    <source>Delete Partition</source>
+    <target>Вилучити розділ</target>
+</phrase>
+<phrase>
+    <source>Resize Partition</source>
+    <target>Змінити розмір розділу</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied after Summary Screen.</source>
+    <target>Зміни буде застосовано після кінцевого вікна.</target>
+</phrase>
+<phrase>
+    <source>Refresh Disks</source>
+    <target>Очисти диски</target>
+</phrase>
+<phrase>
+    <source>Reset All Changes</source>
+    <target>Скинути всі зміни</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Застосувати</target>
+</phrase>
+<phrase>
+    <source>Force to be primary partition</source>
+    <target>Примусово зробити первинним розділом</target>
+</phrase>
+<phrase>
+    <source>Use:</source>
+    <target>Використання :</target>
+</phrase>
+<phrase>
+    <source>Force to be a primary partition</source>
+    <target>Примусово зробити первинним розділом</target>
+</phrase>
+<phrase>
+    <source>Which partition would you like to shrink to make room for your installation?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB) :</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Скасувати</target>
+</phrase>
+<phrase>
+    <source>Shrink</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Changes will be applied when you click &quot;Resize&quot;. To cancel the changes, click &lt;b&gt;&quot;Cancel&quot;.
+&lt;br&gt;&lt;br&gt;
+Warning: A resizing operation may corrupt the partition, rendering the data on it unreachable. Make sure that you have backed up the data. Note that this operation cannot be undone.&lt;b&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Raid Device:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Filesystem:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Raid Level:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Raid Members:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Number of spares:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select where to install the GRUB bootloader</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>First bootable disk (recommended)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Disk partition where Pisi Linux is installed</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Selected disk below</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Choose the user you want to reset the password:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Confirm Password</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reset Password</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Connection status:&lt;/b&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>To use PiSi&apos;s history feature, you may need to be online. Select connection profile.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select Connection</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select the operation to undo:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Choose what do you want to do to repair your system</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reinstall bootloader</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reset forgotten password</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Return back to a previous system state</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Administrator password</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Confirm password</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Computer Name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>User Name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Real Name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Custom User ID</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Not recommended</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bypass authorization attempts for this user</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Add user to administrator (wheel) group</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select auto login user</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Додати</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Volume Group Name:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Physical Extends</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Physical Volumes to use:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Total Space:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Free Space:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Logical Volumes</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Mountpoint</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Used Space:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Pisi Linux is installed and running successfully... 
+
+Before you login to system, you need to create your first user and set the system wide configurations. </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Not enough physical volumes</source>
+    <target>Не вистачає фізичних томів</target>
+</phrase>
+<phrase>
+    <source>At least one unused physical volume partition is needed to
+create an LVM Volume Group.
+Create a partition or RAID array of type &quot;physical volume
+(LVM)&quot; and then select the &quot;LVM&quot; option again.</source>
+    <target>Потрібно щонайменше один фізичний розділ тома, щоб
+створити групу тома LVM.
+Створіть розділ або масив RAID типом «фізичний том (LVM)»
+і потім виберіть параметр «LVM» знову.</target>
+</phrase>
+<phrase>
+    <source>Make LVM Volume Group</source>
+    <target>Зробити групу тома LVM</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group: %s</source>
+    <target>Редагувати групу тома LVM: %s</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group</source>
+    <target>Редагувати групу тома LVM</target>
+</phrase>
+<phrase>
+    <source>Invalid Volume Group Name</source>
+    <target>Неправильна назва групи тома</target>
+</phrase>
+<phrase>
+    <source>Name in use</source>
+    <target>Назва вже використовується</target>
+</phrase>
+<phrase>
+    <source>The volume group name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Назва групи тома «%s» уже використовується. Будь ласка, підберіть іншу.</target>
+</phrase>
+<phrase>
+    <source>Not enough space</source>
+    <target>Недостатньо місця</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+otherwise the space required by the currently defined
+logical volumes will be increased to more than the
+available space.</source>
+    <target>Міру фізичного розміру неможливо змінити, оскільки
+логічні томи будуть більші за доступний розмір.</target>
+</phrase>
+<phrase>
+    <source>Confirm Physical Extent Change</source>
+    <target>Підтвердити зміну фізичної міри</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will
+require the sizes of the current logical volume requests
+to be rounded up in size to an integer multiple of
+the physical extent.
+
+This change will take effect
+immediately.</source>
+    <target>Ця зміна значення фізичної міри потребує, щоб розміри
+логічних томів були заокруглені до розміру цілократне
+фізичній мірі.
+
+Ці зміни відразу наберуть чинності.</target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>Далі</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+the value selected (%(curpe)10.2f MB) is larger than the
+smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>Фізичну міру розміру неможливо змінити, сокільки
+значення вибраного (%(curpe)10.2f МБ) більше за розмір
+найменшого фізичного тома (%(maxpvsize)10.2f МБ) у групі тома. </target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the value selected (%(curpe)10.2f MB) is too large compared to the size of the smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target>Фізичну міру розміру неможливо змінити, оскільки значення вибраного
+(%(curpe)10.2f МБ) надто великий, на відміну від розміру найменшого фізичного тома (%(maxpvsize)10.2f МБ) у групі тома.</target>
+</phrase>
+<phrase>
+    <source>Too small</source>
+    <target>Надто маленький</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will waste substantial space on one or more of the physical volumes in the volume group.</source>
+    <target>Ця зміна в значенні фізичної міри завдасть істотної втрати місця на одному або більше фізичних томах у групі тома.</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the resulting maximum logical volume size (%10.2f MB) is smaller than one or more of their currently defined logical volumes.</source>
+    <target>Фізичну міру розміру неможливо змінити, оскільки кінцевий розмір логічного тома (%10.2f МБ) менше за один або більше теперішніх логічних томів.</target>
+</phrase>
+<phrase>
+    <source>No free slots</source>
+    <target>Нема вільних гнізд</target>
+</phrase>
+<phrase>
+    <source>You cannot create more than %d logical volume 
+per volume group.</source>
+    <target>Неможливо створити понад %d логічних томів в 
+одній групі тома.</target>
+</phrase>
+<phrase>
+    <source>No free space</source>
+    <target>Нема вільного місця</target>
+</phrase>
+<phrase>
+    <source>There is no room left in the volume group to create new
+logical volumes. To add a logical volume you must reduce
+the size of one or more of the currently existing logical
+volumes</source>
+    <target>Недостатньо місця в групі тома, щоб створити нові логічні
+томи. Щоб додати їх, потрібно зменшити розмір одного або
+більше теперішніх наявних логічних томів</target>
+</phrase>
+<phrase>
+    <source>Confirm Delete</source>
+    <target>Підтвердити вилучення</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to delete the 
+logical volume &quot;%s&quot;?</source>
+    <target>Вилучити логічний том «%s»?</target>
+</phrase>
+<phrase>
+    <source>Make Logical Volume</source>
+    <target>Створити логічний том</target>
+</phrase>
+<phrase>
+    <source>Edit Logical Volume: %s</source>
+    <target>Редагувати логічний том: %s</target>
+</phrase>
+<phrase>
+    <source>Mount Point Error</source>
+    <target>Помилка точки монтування</target>
+</phrase>
+<phrase>
+    <source>Mount point in use</source>
+    <target>Точка монтування вже використовується</target>
+</phrase>
+<phrase>
+    <source>The mount point &quot;%s&quot; is in use. Please pick another.</source>
+    <target>Уже використовується точка монтування «%s». Будь ласка, виберіть іншу.</target>
+</phrase>
+<phrase>
+    <source>Illegal Logical Volume Name</source>
+    <target>Недозволена назва логічного тома</target>
+</phrase>
+<phrase>
+    <source>Illegal logical volume name</source>
+    <target>Недозволена назва логічного тома</target>
+</phrase>
+<phrase>
+    <source>The logical volume name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Назва логічного тома «%s» вже використовується. Будь ласка, підберіть іншу.</target>
+</phrase>
+<phrase>
+    <source>Illegal size</source>
+    <target>Недозволений розмір</target>
+</phrase>
+<phrase>
+    <source>The requested size as entered is not a valid number greater than 0.</source>
+    <target>Потрібний введений розмір має менше значення за 0.</target>
+</phrase>
+<phrase>
+    <source>The current requested size (%(size)10.2f MB) is larger than the maximum logical volume size (%(maxlv)10.2f MB). To increase this limit you can create more Physical Volumes from unpartitioned disk space and add them to this Volume Group.</source>
+    <target>Теперішній потрібний розмір (%(size)10.2f МБ) більший за максимальний розмір логічного тома (%(maxlv)10.2f МБ). Щоб збільшити обмеження, можете створити більше логічних томів з вільного дискового простору та додати їх до цієї групи тома.</target>
+</phrase>
+<phrase>
+    <source>The size entered for this logical volume (%(size)d MB) combined with the size of the other logical volume(s) exceeds the size of the volume group (%(tmpvgsize)d MB). Please make the volume group larger or make the logical volume smaller.</source>
+    <target>Введений розмір для логічного тома (%(size)d МБ), у поєднанні з розміром інших логічних томів, перевищує розмір групи тома (%(tmpvgsize)d МБ). Будь ласка, зробіть групу тома більшу або логічний том меншим.</target>
+</phrase>
+<phrase>
+    <source>Create Partition on %(path)s (%(model)s)</source>
+    <target>Створити розділ у %(path)s (%(model)s)</target>
+</phrase>
+<phrase>
+    <source>Edit Partition %s</source>
+    <target>Редагувати розділ %s</target>
+</phrase>
+<phrase>
+    <source>Edit Partition</source>
+    <target>Редагувати розділ</target>
+</phrase>
+<phrase>
+    <source>Error With Request</source>
+    <target>Помилка запиту</target>
+</phrase>
+<phrase>
+    <source>Invalid Raid Members</source>
+    <target>Неправильні елементи RAID</target>
+</phrase>
+<phrase>
+    <source>At least two unused software RAID partitions are needed to create a RAID device.
+
+First create at least two partitions of type &quot;software RAID&quot;, and then select the &quot;RAID&quot; option again.</source>
+    <target>Потрібно щонайменше два невикористані розділів програмних RAID, щоб створити пристрій RAID.
+
+Спочатку створіть щонайменше два розділи «Програмні RAID», і потім виберіть параметр «RAID» знову.</target>
+</phrase>
+<phrase>
+    <source>Make RAID Device</source>
+    <target>Створити пристрій RAID</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device: %s</source>
+    <target>Редагувати пристрій RAID: %s</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device</source>
+    <target>Редагувати пристрій RAID</target>
+</phrase>
+<phrase>
+    <source>A RAID%(level)d set requires at least %(min_member)d member</source>
+    <target>Налаштування RAID%(level)d потребують щонайменше елемент %(min_member)d</target>
+</phrase>
+<phrase>
+    <source>Error!</source>
+    <target>Помилка!</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load an installer interface component.
+
+className = %s.Widget</source>
+    <target>Трапилась помилка при спробі завантажити компонети інтерфейсу встановлення.
+
+
+className = %s.Widget</target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target>Вихід</target>
+</phrase>
+<phrase>
+    <source>Retry</source>
+    <target>Спробувати знову</target>
+</phrase>
+<phrase>
+    <source>Storage Devices initialising...</source>
+    <target>Запуск пристроїв зчитування…</target>
+</phrase>
+<phrase>
+    <source>Password is too short.</source>
+    <target>Пароль надто короткий</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match.</source>
+    <target>Паролі не збігаються.</target>
+</phrase>
+<phrase>
+    <source>Do not use your username as your password.</source>
+    <target>Не використовуйте ваш псевдонім як пароль.</target>
+</phrase>
+<phrase>
+    <source>Hostname cannot be longer than 64 characters.</source>
+    <target>Назва вузла не може бути більша за 64 символи.</target>
+</phrase>
+<phrase>
+    <source>Hostname contains invalid characters.</source>
+    <target>Назва вузла містить неправильні символи.</target>
+</phrase>
+<phrase>
+    <source>Starting validation...</source>
+    <target>Початок перевірки…</target>
+</phrase>
+<phrase>
+    <source>Package validation is in progress. Please wait until it is completed.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Validating %s</source>
+    <target>Перевірка %s</target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>Попередження</target>
+</phrase>
+<phrase>
+    <source>Validation of %s package failed.Please remaster your installation medium andreboot.</source>
+    <target>Помилка при перевірці пакунка %s. Будь ласка, переобладнайте ваш установчий носій і перезапустіться.  </target>
+</phrase>
+<phrase>
+    <source>Skip Validation</source>
+    <target>Пропустити перевірку</target>
+</phrase>
+<phrase>
+    <source>Skip Package</source>
+    <target>Пропустити пакунок</target>
+</phrase>
+<phrase>
+    <source>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Validation succeeded. You can proceed with the installation.&lt;/b&gt;&lt;/font&gt;</source>
+    <target>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Успішна перевірка. Можете спокійно встановлювати.&lt;/b&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Package validation is finished.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Adjusting time settings</source>
+    <target>Налаштування часу</target>
+</phrase>
+<phrase>
+    <source>Device Path: %s</source>
+    <target>Шлях до пристрою: %s</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Помилка</target>
+</phrase>
+<phrase>
+    <source>You must select at least one drive to be used for installation.</source>
+    <target>Потрібно вибрати щонайменше один носій, щоб використати для встановлення.</target>
+</phrase>
+<phrase>
+    <source>Running post-install operations...</source>
+    <target>Запуск післяустановчих операцій…</target>
+</phrase>
+<phrase>
+    <source>Press &lt;b&gt;Restart&lt;/b&gt; to restart the computer.</source>
+    <target>Натисніть &lt;b&gt;Перезавантажити&lt;/b&gt;, щоб перезапустити комп&apos;ютер.</target>
+</phrase>
+<phrase>
+    <source>Restart</source>
+    <target>Перезапустити</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Please wait while restarting...&lt;/b&gt;</source>
+    <target>&lt;b&gt;Зачекайте, будь ласка, перезапуск…&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Setting timezone...</source>
+    <target>Налаштування часового поясу…</target>
+</phrase>
+<phrase>
+    <source>Migrating Xorg configuration...</source>
+    <target>Налаштування міграції Xorg…</target>
+</phrase>
+<phrase>
+    <source>Copying repository index...</source>
+    <target>Копіювання покажчика сховища…</target>
+</phrase>
+<phrase>
+    <source>Setting hostname...</source>
+    <target>Налаштування назви вузла…</target>
+</phrase>
+<phrase>
+    <source>Setting root password...</source>
+    <target>Налаштування паролю адміністратора…</target>
+</phrase>
+<phrase>
+    <source>Resetting user password...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Setup First-Boot...</source>
+    <target>Параметри першого завантаження…</target>
+</phrase>
+<phrase>
+    <source>Teardown First-Boot...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Adding users...</source>
+    <target>Долучення користувачів…</target>
+</phrase>
+<phrase>
+    <source>Installing bootloader...</source>
+    <target>Встановлення завантажувача…</target>
+</phrase>
+<phrase>
+    <source>Writing bootloader config...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Stopping to D-Bus...</source>
+    <target>Зупинка D-Bus…</target>
+</phrase>
+<phrase>
+    <source>Teardown storage subsystem...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Installing &lt;b&gt;%(name)s&lt;/b&gt; -- %(summary)s</source>
+    <target>Встановлення &lt;b&gt;%(name)s&lt;/b&gt; — %(summary)s</target>
+</phrase>
+<phrase>
+    <source>Configuring &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Налаштування &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Following error occured while installing packages:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do you want to retry?</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>Так</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>Ні</target>
+</phrase>
+<phrase>
+    <source>An error occured during the installation of packages.
+This may be caused by a corrupted installation medium error:
+%s
+</source>
+    <target>Трапилась помилка протягом установлення пакунків.
+Це може бути спричено через помилку пошкодженого встановчого носія:
+%s
+</target>
+</phrase>
+<phrase>
+    <source>No storage device found.</source>
+    <target>Жодного пристрою не знайдено.</target>
+</phrase>
+<phrase>
+    <source>Use Alt-Shift to toggle between alternative keyboard layouts</source>
+    <target>Використовуйте Alt-Shift, щоб перемикати розкладки клавіатури</target>
+</phrase>
+<phrase>
+    <source>License text could not be found.</source>
+    <target>Текст ліцензії неможливо знайти.</target>
+</phrase>
+<phrase>
+    <source>No partitions are available to resize. Only physical
+partitions which size is greater than %s MB can be resized.</source>
+    <target>Не знайдено розділів для зміни розміру. Лише фізичні
+розділи, розмір яких більше за %s МБ, можна редагувати.</target>
+</phrase>
+<phrase>
+    <source>Use All Disks</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested caused the following critical errors.You must correct these errors before you continue your installation of %s.</source>
+    <target>Потрібна схема розділення спричинила критичну помилку. Потрібно виправити цю помилку перед продовженням установленням %s.</target>
+</phrase>
+<phrase>
+    <source>Partitioning Errors</source>
+    <target>Помилка розділення</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested generated the following warnings. Would you like to continue with your requested partitioning scheme?</source>
+    <target>Потрібна схема розділення викликала це попередження.Бажаєте продовжити потрібну схему розділення?</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warnings</source>
+    <target>Попередження розділення</target>
+</phrase>
+<phrase>
+    <source>Ok</source>
+    <target>Гаразд</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing devices have been selected to be formatted, destroying all data.</source>
+    <target>Ці пристрої було вибрано для форматування, знищивши усі дані.</target>
+</phrase>
+<phrase>
+    <source>Format Warnings</source>
+    <target>Попередження форматування</target>
+</phrase>
+<phrase>
+    <source>All Changes that you made will be removed</source>
+    <target>Усі зроблені зміни буде вилучено</target>
+</phrase>
+<phrase>
+    <source>Standard</source>
+    <target>Стандартно</target>
+</phrase>
+<phrase>
+    <source>LVM</source>
+    <target>LVM</target>
+</phrase>
+<phrase>
+    <source>RAID</source>
+    <target>RAID</target>
+</phrase>
+<phrase>
+    <source>Partition</source>
+    <target>Розділ</target>
+</phrase>
+<phrase>
+    <source>Member</source>
+    <target>Елемент</target>
+</phrase>
+<phrase>
+    <source>Array</source>
+    <target>Масив</target>
+</phrase>
+<phrase>
+    <source>Volume Groups</source>
+    <target>Групи тома</target>
+</phrase>
+<phrase>
+    <source>Free</source>
+    <target>Вільно</target>
+</phrase>
+<phrase>
+    <source>Raid Arrays</source>
+    <target>Масив RAID</target>
+</phrase>
+<phrase>
+    <source>Hard Drives</source>
+    <target>Тверді диски</target>
+</phrase>
+<phrase>
+    <source>Can&apos;t handle more than one extended partition per disk</source>
+    <target>Неможливо обробити понад один розширений розділ на диск</target>
+</phrase>
+<phrase>
+    <source>Crossed logical partition before extended</source>
+    <target>Перехресний логічний розділ перед розширеним</target>
+</phrase>
+<phrase>
+    <source>Extended</source>
+    <target>Розширений</target>
+</phrase>
+<phrase>
+    <source>Error Partitioning</source>
+    <target>Помилка розділення</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: %s.</source>
+    <target>Неможливо розмістити потрібні розділи: %s.</target>
+</phrase>
+<phrase>
+    <source>Warning Partitioning</source>
+    <target>Попередження розділення</target>
+</phrase>
+<phrase>
+    <source>Warning: %s.</source>
+    <target>Попередження: %s.</target>
+</phrase>
+<phrase>
+    <source>Modify Partition</source>
+    <target>Змінення розділу</target>
+</phrase>
+<phrase>
+    <source>Partition Selection Warning</source>
+    <target>Попередження виділення розділу</target>
+</phrase>
+<phrase>
+    <source>Please select free physical partition to create new device.</source>
+    <target>Будь ласка, виберіть вільний фізичний розділ, щоб створити новий пристрій.</target>
+</phrase>
+<phrase>
+    <source>Unable To Edit</source>
+    <target>Неможливо редагувати</target>
+</phrase>
+<phrase>
+    <source>You cannot edit this device:
+
+%s</source>
+    <target>Неможливо редагувати цей пристрій:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t use your user name or name as a password</source>
+    <target>Не використовуйте ваш псевдонім або ім&apos;я як пароль</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match</source>
+    <target>Паролі не збігаються</target>
+</phrase>
+<phrase>
+    <source>Password is too short</source>
+    <target>Пароль надто короткий</target>
+</phrase>
+<phrase>
+    <source>Cannot Rescue</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Your current installation cannot be rescued.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Super User</source>
+    <target>Суперкористувач</target>
+</phrase>
+<phrase>
+    <source>Starting D-Bus...</source>
+    <target>Запуск D-Bus…</target>
+</phrase>
+<phrase>
+    <source>Connecting to D-Bus...</source>
+    <target>З&apos;єднання з D-Bus…</target>
+</phrase>
+<phrase>
+    <source>Fetching history...</source>
+    <target>Одержання історії…</target>
+</phrase>
+<phrase>
+    <source>Please Wait...</source>
+    <target>Будь ласка, заждіть…</target>
+</phrase>
+<phrase>
+    <source>No connection available</source>
+    <target>Нема доступного з&apos;єднання</target>
+</phrase>
+<phrase>
+    <source>Operation %(no)s : %(date)s - %(type)s</source>
+    <target>Операція %(no)s : %(date)s — %(type)s</target>
+</phrase>
+<phrase>
+    <source>Connecting to network %s...</source>
+    <target>З&apos;єднання з мережою %s…</target>
+</phrase>
+<phrase>
+    <source>Connection failed</source>
+    <target>Не вдалось з&apos;єднатись</target>
+</phrase>
+<phrase>
+    <source>Connected</source>
+    <target>З&apos;єднано</target>
+</phrase>
+<phrase>
+    <source>Mount failed</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following error occurred when mounting the file systems listed in /etc/fstab.  Please fix this problem and try to rescue again.
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;&lt;p&gt;Are you sure you want to restart the computer?&lt;/p&gt;&lt;/b&gt;</source>
+    <target>&lt;b&gt;&lt;p&gt;Перезапустити комп&apos;ютер?&lt;/p&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Installation starts in &lt;b&gt;%s&lt;/b&gt; seconds</source>
+    <target>Установлення розпочнеться через &lt;b&gt;%s&lt;/b&gt; секунд</target>
+</phrase>
+<phrase>
+    <source>Start Installation</source>
+    <target>Запуск установлення</target>
+</phrase>
+<phrase>
+    <source>Apply Settings</source>
+    <target>Застосувати налаштування</target>
+</phrase>
+<phrase>
+    <source>Keyboard Settings</source>
+    <target>Налаштування клавіатури</target>
+</phrase>
+<phrase>
+    <source>Selected keyboard layout is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>&lt;b&gt;%s&lt;/b&gt; — вибрана розкладка клавіатури</target>
+</phrase>
+<phrase>
+    <source>Date/Time Settings</source>
+    <target>Налаштування дати і часу</target>
+</phrase>
+<phrase>
+    <source>Selected TimeZone is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>&lt;b&gt;%s&lt;/b&gt; — вибраний часовий пояс</target>
+</phrase>
+<phrase>
+    <source>User Settings</source>
+    <target>Налаштування користувача</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added.</source>
+    <target>Користувача %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) долучено.</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added with &lt;u&gt;administrator privileges&lt;/u&gt;.</source>
+    <target>користувача %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) долучено з &lt;u&gt;адміністраторськими правами&lt;/u&gt;.</target>
+</phrase>
+<phrase>
+    <source>Hostname Settings</source>
+    <target>Налаштування назви вузла</target>
+</phrase>
+<phrase>
+    <source>Hostname is set as &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Назва вузла вказна як &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Partition Settings</source>
+    <target>Налаштування розділу</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning selected.</source>
+    <target>Вибрано автоматичне розділення. </target>
+</phrase>
+<phrase>
+    <source>Use All Space</source>
+    <target>Використати ввесь простір </target>
+</phrase>
+<phrase>
+    <source>Removes all partitions on the selected %s device(s). &lt;b&gt;&lt;u&gt;This includes partitions created by other operating systems.&lt;/u&gt;&lt;/b&gt;</source>
+    <target>Вилучає всі розділи на вибраних %s пристроях.  &lt;b&gt;&lt;u&gt;Враховуючи розділи створені іншими операційними системами.&lt;/u&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Replace Existing Linux System(s)</source>
+    <target>Перезаписує наявну систему Linux</target>
+</phrase>
+<phrase>
+    <source>Removes all Linux partitions on the selected%s device(s). This does not remove other partitions you may have on your storage device(s) (such as VFAT or FAT32)</source>
+    <target>Вилучає всі розділи Linux на вибраних %s пристроях. Це не вилучить інші розділи, які ви можете мати на носіях (такі, як VFAT або FAT32)</target>
+</phrase>
+<phrase>
+    <source>Retains your current data and partitions and uses only the unpartitioned space on the selected %s device(s), assuming you have enough free space available.</source>
+    <target>Зберігає теперішні дані та розділи і використовує лише вільне місце на вибраних %s пристроях, якщо у вас достатньо місця.</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning selected.</source>
+    <target>Вибрано ручне розділення.</target>
+</phrase>
+<phrase>
+    <source>Bootloader Settings</source>
+    <target>Налаштування завантажувача</target>
+</phrase>
+<phrase>
+    <source>GRUB will be installed to &lt;b&gt;%s&lt;/b&gt;.</source>
+    <target>GRUB буде встановлено в &lt;b&gt;%s&lt;/b&gt;.</target>
+</phrase>
+<phrase>
+    <source>GRUB will not be installed.</source>
+    <target>GRUB не буде встановлено.</target>
+</phrase>
+<phrase>
+    <source>Package Installation Settings</source>
+    <target>Налаштування встановлення пакунка.</target>
+</phrase>
+<phrase>
+    <source>Collection &lt;b&gt;%s&lt;/b&gt; selected</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Confirm</source>
+    <target>Підтвердження</target>
+</phrase>
+<phrase>
+    <source>The partitioning options you have selected will now be written to disk. Any data on deleted or reformatted partitions will be lost.</source>
+    <target>Вибрані параметри розділення буде записано на диск. Будь-які дані на вилученому або відформатованому розділі буде втрачено.</target>
+</phrase>
+<phrase>
+    <source>Write Changes to Disk</source>
+    <target>Записати зміни на диск</target>
+</phrase>
+<phrase>
+    <source>Go Back</source>
+    <target>Повернутись назад</target>
+</phrase>
+<phrase>
+    <source>Proprietary Hardware Drivers</source>
+    <target>Закриті драйвера</target>
+</phrase>
+<phrase>
+    <source>&lt;qt&gt;Proprietary drivers are available which may be required to utilize the full capabilities of your video card. These drivers are developed by the hardware manufacturer and not supported by Pisi Linux developers since their source code is not publicly available.&lt;br&gt;&lt;br&gt;&lt;b&gt;Do you want to install and use these proprietary drivers instead of the default drivers?&lt;/b&gt;&lt;/qt&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Update</source>
+    <target>Оновити</target>
+</phrase>
+<phrase>
+    <source>This user name is already taken, please choose another one.</source>
+    <target>Цей псевдонім уже зайнято, будь ласка, виберіть інший.</target>
+</phrase>
+<phrase>
+    <source>The user name contains invalid characters.</source>
+    <target>Псевдонім містить неприпустимі символи.</target>
+</phrase>
+<phrase>
+    <source>The real name contains invalid characters.</source>
+    <target>Справжнє ім&apos;я містить неприпустимі символи.</target>
+</phrase>
+<phrase>
+    <source>User ID used before, choose another one!</source>
+    <target>ID користувача вже використовувався до того, виберіть інше!</target>
+</phrase>
+<phrase>
+    <source>Partitions to Shrink</source>
+    <target>Розділи на зменшення</target>
+</phrase>
+<phrase>
+    <source>Resize FileSystem Error</source>
+    <target>Помилка зміни розміру файлової системи</target>
+</phrase>
+<phrase>
+    <source>%(device)s: %(msg)s</source>
+    <target>%(device)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>Resize Device Error</source>
+    <target>Помилка зміни розміру пристрою</target>
+</phrase>
+<phrase>
+    <source>%(name)s: %(msg)s</source>
+    <target>%(name)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>You cannot remove this physical volume because
+otherwise the volume group will be too small to
+hold the currently defined logical volumes.</source>
+    <target>Ви не можете вилучити цей фізичний том, оскільки
+натомість група томів буде надто маленькою, щоб
+утримувати теперішні визначені логічні томи.</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t ask again</source>
+    <target>Надалі не запитувати</target>
+</phrase>
+<phrase>
+    <source>Do you want to continue?</source>
+    <target>Продовжити?</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Інформація</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>Гаразд</target>
+</phrase>
+<phrase>
+    <source>Error reporting</source>
+    <target>Звітування про помилку</target>
+</phrase>
+<phrase>
+    <source>Pixmaps resources file doesn&apos;t exists</source>
+    <target>Файл растрових ресурсів не існує</target>
+</phrase>
+<phrase>
+    <source>Style file doesn&apos;t exists</source>
+    <target>Файл стилю не існує</target>
+</phrase>
+<phrase>
+    <source>Release file doesn&apos;t exists</source>
+    <target>Файл випуску не існує</target>
+</phrase>
+<phrase>
+    <source>Turn Off Computer</source>
+    <target>Вимкнути комп&apos;ютер</target>
+</phrase>
+<phrase>
+    <source>Restart Computer</source>
+    <target>Перезапустити комп&apos;ютер</target>
+</phrase>
+<phrase>
+    <source>Restart YALI</source>
+    <target>Перезапустити YALI</target>
+</phrase>
+<phrase>
+    <source>right</source>
+    <target>праву</target>
+</phrase>
+<phrase>
+    <source>left</source>
+    <target>ліву</target>
+</phrase>
+<phrase>
+    <source>Mouse Settings</source>
+    <target>Налаштуванн мишки</target>
+</phrase>
+<phrase>
+    <source>You just clicked the &lt;b&gt;%s&lt;/b&gt; mouse button.</source>
+    <target>Ви щойно натиснули &lt;b&gt;%s&lt;/b&gt; кнопку миші.</target>
+</phrase>
+<phrase>
+    <source>Do you want to switch to the &lt;b&gt;%s&lt;/b&gt; handed configuration?</source>
+    <target>Перемкнути налаштування на &lt;b&gt;%s&lt;/b&gt; руку?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to shut down your computer now?</source>
+    <target>Вимкнути комп&apos;ютер зараз же?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart your computer now?</source>
+    <target>Перезапустити комп&apos;ютер зараз же?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart the YALI installer now?</source>
+    <target>Перезапустити YALI зараз же?</target>
+</phrase>
+<phrase>
+    <source>Terminal</source>
+    <target>Термінал</target>
+</phrase>
+<phrase>
+    <source>Tetris</source>
+    <target>Тетріс</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load screens:%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Release notes could not be loaded.</source>
+    <target>Неможливо завантажити нотатки щодо випуску.</target>
+</phrase>
+<phrase>
+    <source>%s</source>
+    <target>%s</target>
+</phrase>
+<phrase>
+    <source>Windows</source>
+    <target>Вікна</target>
+</phrase>
+<phrase>
+    <source>This partition is part of an inconsistent LVM Volume Group.</source>
+    <target>Це розділ — частина несумісної групи томів LVM.</target>
+</phrase>
+<phrase>
+    <source>Failed teardownAll in storage.complete with error:%s</source>
+    <target>Помилка: %s</target>
+</phrase>
+<phrase>
+    <source>Storage Device Error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while partitioning on device %s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Storage Format Error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while formatting on device %s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Exit installer</source>
+    <target>Вийти з установлення</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dirty File Systems</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Please boot your Linux installation, let the file systems be checked and shut down cleanly to rescue.
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Would you like to mount them anyway?
+%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This partition is holding the data for the hard drive install.</source>
+    <target>Цей розділ утримує дані для встановлення на жорсткий диск.</target>
+</phrase>
+<phrase>
+    <source>You cannot delete a partition of a LDL formatted DASD.</source>
+    <target>Неможливо вилучити зроділ LDL, форматований DASD.</target>
+</phrase>
+<phrase>
+    <source>This device is part of the RAID device %s, you have to edit or remove the raid partition appropriately!</source>
+    <target>Цей пристрій — частина пристрою RAID %s, потрібно редагувати або вилучити розділи RAID належно!</target>
+</phrase>
+<phrase>
+    <source>This device is part of a RAID device.</source>
+    <target>Цей пристрій — частина пристрою RAID.</target>
+</phrase>
+<phrase>
+    <source>This device is part of the LVM volume group &apos;%s&apos;.</source>
+    <target>Цей пристрій — частина гурпи томів LVM «%s».</target>
+</phrase>
+<phrase>
+    <source>This device is part of a LVM volume group.</source>
+    <target>Цей пристрій — частина групи томів LVM.</target>
+</phrase>
+<phrase>
+    <source>This device is an extended partition which contains logical partitions that cannot be deleted:
+
+</source>
+    <target>Цей пристрій є додатковим розділом, який містить логічні розділи, що неможливо вилучити:
+
+</target>
+</phrase>
+<phrase>
+    <source>You have not defined a root partition (/),which is required for installation of %s to continue.</source>
+    <target>Не вказано кореневий розділ (/), який потрібен для подальшого встановлення %s.</target>
+</phrase>
+<phrase>
+    <source>Your / partition is less than %(min)s MB which is lower than recommended for a normal %(productName)s install.</source>
+    <target>Ваш кореневий розділ менший за %(min)s МБ, що нижче від рекомендований обсяг для нормального встановлення %(productName)s.</target>
+</phrase>
+<phrase>
+    <source>Your %(mount)s partition is less than %(size)s megabytes which is lower than recommended for a normal %(productName)s install.</source>
+    <target>Розділ %(mount)s має меше за %(size)s МБ, що нижче від рекомендованого для нормального встановлення %(productName)s.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Due to the amount of memory present, a swap partition is required to complete installation.</source>
+    <target>Ви не вказали розділ для свопінгу. Розділ для свопінгу потрібний для завершення встановлення через брак достатнього обсягу пам&apos;яті.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Although not strictly required in all cases, it will significantly improve performancefor most installations.</source>
+    <target>Не вказано розділу для свопінгу. Хоча це не є обов&apos;язковим узагалі, це значно покращить продуктивність більшості встановлень.</target>
+</phrase>
+<phrase>
+    <source>This mount point is invalid. The %s directory must be on the / file system.</source>
+    <target>Ця точка монтування є неприпустимою. Каталог %s повиннен бути на корені файлової системи.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s must be on a linux file system.</source>
+    <target>Точка монтування %s повинна бути файлова система linux.</target>
+</phrase>
+<phrase>
+    <source>No Drives Found</source>
+    <target>Не знайдено драйвера</target>
+</phrase>
+<phrase>
+    <source>An error has occurred - no valid devices were found on
+which to create new file systems. Please check your
+hardware for the cause of this problem.</source>
+    <target>Трапилась помилка — нема прийнятного спритрою, на який
+можна встановити нову файлову систему. Будь ласка, перевірте
+апартуру на можливі негаразди.</target>
+</phrase>
+<phrase>
+    <source>requested size exceeds maximum allowed</source>
+    <target>потрібний розмір перевищує граничну межу</target>
+</phrase>
+<phrase>
+    <source>partition is too %(problem)s for %(format)s formatting</source>
+    <target>розділ надто %(problem)s для форматування %(format)s</target>
+</phrase>
+<phrase>
+    <source>not enough free space on disks</source>
+    <target>недостатньо місця на дисках</target>
+</phrase>
+<phrase>
+    <source>not enough free space after creating extended partition</source>
+    <target>недостатньо місця після створення розширених розділів</target>
+</phrase>
+<phrase>
+    <source>not enough space for LVM requests</source>
+    <target>недостатньо місця для LVM</target>
+</phrase>
+<phrase>
+    <source>Could not find enough free space for automatic
+partitioning, please use another partitioning method.</source>
+    <target>Неможливо знайти місця для автоматичного розділення,
+будь ласка, спробуйте інший спосіб. </target>
+</phrase>
+<phrase>
+    <source>Warnings During Automatic Partitioning</source>
+    <target>Попередження протягом автоматичного розділення</target>
+</phrase>
+<phrase>
+    <source>Following warnings occurred during automatic partitioning:
+
+%s</source>
+    <target>Такі попередження виникли протягом автоматичного розділення:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>
+
+Press &apos;OK&apos; to exit the installer.</source>
+    <target>
+
+Натисіть «Гаразд», щоб покинути встановлення.</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: 
+%(msg)s.%(extra)s</source>
+    <target>Неможливо розмістити потрібні розділи: 
+%(msg)s.%(extra)s</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning Errors</source>
+    <target>Помилка автоматичного розділення</target>
+</phrase>
+<phrase>
+    <source>The following errors occurred with your partitioning:
+
+%(errortxt)s
+
+This can happen if there is not enough space on your hard drive(s) for the installation. %(extra)s</source>
+    <target>Такі помилки трапились з розділенням:
+
+%(errortxt)s
+
+Це могло статись через брак місця для встановлення на жорсткому диску. %(extra)s</target>
+</phrase>
+<phrase>
+    <source>Please enter a volume group name.</source>
+    <target>Будь ласка, введіть назву групи томів.</target>
+</phrase>
+<phrase>
+    <source>Volume Group Names must be less than 128 characters</source>
+    <target>Назва групи томів не повинна перевищувати понад 128 символів</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name %s is not valid.</source>
+    <target>Помилка — назва групи томів %s неприпустима.</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Помилка — назва гурпи томів містить недозволені символи або пропуски.
+Дозволені символи — букви, числа, «.» або «_». </target>
+</phrase>
+<phrase>
+    <source>Please enter a logical volume name.</source>
+    <target>Будь ласка, введіть назву логічного тома.</target>
+</phrase>
+<phrase>
+    <source>Logical Volume Names must be less than 128 characters</source>
+    <target>Назва логічного тома не повинна перевищувати понад 128 символів</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name %s is not valid.</source>
+    <target>Помилка — назва логічного тома %s неприпустима.</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Помилка — назва логічного тома містить недозволені символи або пропуски.
+Дозволені символи — букви, числа, «.» або «_». </target>
+</phrase>
+<phrase>
+    <source>Format as Swap?</source>
+    <target>Форматувати як Swap?</target>
+</phrase>
+<phrase>
+    <source>%s has a partition type of 0x82 (Linux swap) but does not appear to be formatted as a Linux swap partition.
+
+Would you like to format this partition as a swap partition?</source>
+    <target>%s має тип розділу 0x82 (Linux swap), однак не проявляється форматованим як розділ для свопінгу Linux.
+
+Форматувати як розділ для свопінгу?</target>
+</phrase>
+<phrase>
+    <source>You are about to delete all partitions on the device &apos;%s&apos;.</source>
+    <target>Ви збараєтесь вилучити всі розділи на носії «%s».</target>
+</phrase>
+<phrase>
+    <source>Notice</source>
+    <target>Повідомлення</target>
+</phrase>
+<phrase>
+    <source>The following partitions were not deleted because they are in use:
+
+%s</source>
+    <target>Такі розділи не вилучено, оскільки вони використовуються:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>Unable To Delete</source>
+    <target>Неможливо вилучити</target>
+</phrase>
+<phrase>
+    <source>You must first select a partition to delete.</source>
+    <target>Спочатку потрібно вибрати розділ для вилучення.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s is invalid.  Mount points must start with &apos;/&apos; and cannot end with &apos;/&apos;, and must contain printable characters and no spaces.</source>
+    <target>Точка монтування %s — неприпустима. Точки монтування повинні починатись з «/», і закінчуватись на «/» і містити друковані символи без пропусків.</target>
+</phrase>
+<phrase>
+    <source>Error with Partitioning</source>
+    <target>Помилка з розділенням</target>
+</phrase>
+<phrase>
+    <source>The following critical errors exist with your requested partitioning scheme. These errors must be corrected prior to continuing with your install of %(productName)s.
+
+%(errorstr)s</source>
+    <target>Ця критична помилка існує у вашій схемі розділення. Такі помилки потрібно виправляти перед установленням %(productName)s.
+
+%(errorstr)s</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warning</source>
+    <target>Попередження розділення</target>
+</phrase>
+<phrase>
+    <source>The following warnings exist with your requested partition scheme.
+
+%s
+
+Would you like to continue with your requested partitioning scheme?</source>
+    <target>Це попередження існує у вашій схемі розділення.
+
+%s
+
+Продовжити за вашою схемою?</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing partitions have been selected to be formatted, destroying all data.</source>
+    <target>Ці розділи було вибрано для форматування, знищивши усі дані.</target>
+</phrase>
+<phrase>
+    <source>Select &apos;Yes&apos; to continue and format these partitions, or &apos;No&apos; to go back and change these settings.</source>
+    <target>Натисніть «Так», щоб продовжити і форматувати ці розділи, або «Ні», щоб повернутись назад і змінити ці налаштування.</target>
+</phrase>
+<phrase>
+    <source>Format Warning</source>
+    <target>Попередження форматування</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the volume group &quot;%s&quot;.
+
+ALL logical volumes in this volume group will be lost!</source>
+    <target>Ви збираєтесь вилучити групу томів «%s».
+
+Усі логічні томи в цій групі буде втрачено!</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the logical volume &quot;%s&quot;.</source>
+    <target>Ви збираєтесь вилучити логічний том «%s».</target>
+</phrase>
+<phrase>
+    <source>You are about to delete a RAID device.</source>
+    <target>Ви збираєтесь вилучити пристрій RAID.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %s partition.</source>
+    <target>Ви збираєтесь вилучити розділ %s.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %(type)s %(name)s</source>
+    <target>Ви збираєтесь вилучити %(type)s %(name)s</target>
+</phrase>
+<phrase>
+    <source>Confirm Reset</source>
+    <target>Підвердити скидання</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to reset the partition table to its original state?</source>
+    <target>Скинути таблицю розділів до її первинного стану?</target>
+</phrase>
+<phrase>
+    <source>You have chosen to use a pre-existing partition for this
+installation without formatting it. We recommend that you format
+this partition to make sure files from a previous operating system
+installation do not cause problems with this installation of Linux.
+However, if this partition contains files that you need to keep,
+such as home directories, then continue without formatting this
+npartition.</source>
+    <target>Ви вибрали використання наявного розідлу для цього 
+встановлення без його форматуванння. Ми радимо віформатувати
+цей розділ, щоб переконатись, що з файлами з попередньої операційної
+системи не виникнуть прикростей через це встановлення.
+Утім, якщо розділи містять файли, які вам потрібно зберегти, як-от,
+домашній каталог, то продовжіть без форматування цього розділу.</target>
+</phrase>
+<phrase>
+    <source>Format?</source>
+    <target>Форматувати?</target>
+</phrase>
+<phrase>
+    <source>Do Not Format</source>
+    <target>Не форматувати</target>
+</phrase>
+<phrase>
+    <source>Partitions of type &apos;%s&apos; must be constrained to a
+single drive.  To do this, select the drive in the &apos;Allowable Drives&apos;
+checklist.</source>
+    <target>Розділи типу «%s» повинні знаходитись у одному носії.
+Щоб це зробити, виберіть пристрій в переліку
+«Можливі пристрої».</target>
+</phrase>
+<phrase>
+    <source>Storage Device Warning</source>
+    <target>Попередження пристрою зберігання інформації</target>
+</phrase>
+<phrase>
+    <source>The following storage device may contain recoverable data:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;This device may have data that will be &lt;b&gt;permanently lost&lt;/b&gt; if you include it in this installation.&lt;br&gt;&lt;br&gt;If you don&apos;t care about any data on this device, choose &lt;b&gt;Reset device&lt;/b&gt; to include it in the installation process.&lt;br&gt;&lt;br&gt;If you don&apos;t want the device to be permanently erased, select &lt;b&gt;Ignore device&lt;/b&gt; and the device will not be considered as a possible installation target.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reset device</source>
+    <target>Скинути пристрій</target>
+</phrase>
+<phrase>
+    <source>Ignore device</source>
+    <target>Зігнорувати пристрій</target>
+</phrase>
+<phrase>
+    <source>There is inconsistent LVM data on %(msg)s. You can reinitialize all related PVs (%(pvs)s) which will erase the LVM metadata, or ignore which will preserve thecontents.This action may also be applied to all other PVs with inconsistent metadata.</source>
+    <target>Дані на LVM %(msg)s не сходяться. Можете перезапустити всі пов&apos;язані PV (%(pvs)s), які струть метадані LVM, або знехтувати, що збереже вміст. Ця дія може також бути застосована для всі інших метаданих PV, які не зійшлись.</target>
+</phrase>
+<phrase>
+    <source>Yes, re-initialize</source>
+    <target>Так, перезапустити</target>
+</phrase>
+<phrase>
+    <source>No, protect data</source>
+    <target>Ні, захистити дані</target>
+</phrase>
+<phrase>
+    <source>Disk contains %(members_count)s BIOS RAID metadata, but is not part of any recognized BIOS RAID sets. Ignoring disk %(members)s.</source>
+    <target>Диск містить метадані %(members_count)s BIOS RAID, однак це не частина якоїсь встановленої BIOS RAID. Нехтування диском %(members)s.</target>
+</phrase>
+<phrase>
+    <source>Invalid mount point</source>
+    <target>Неприпустима точка монтування</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %s.  Some element of this path is not a directory. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Виникла помилка при спробі створити %s. Деякі елементи шляху не є каталогом. Це фатальна помилка і встановлення не можна продовжувати.
+
+Натисніть &lt;Enter&gt;, щоб покинути встановлення.</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %(mountpoint)s: %(msg)s.  This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Виникла помилка при спробі створити %(mountpoint)s: %(msg)s. Це фатальна помилка і встановлення не можна продовжувати.
+
+Натисніть &lt;Enter&gt;, щоб покинути встановлення.</target>
+</phrase>
+<phrase>
+    <source>Unable to mount filesystem</source>
+    <target>Неможливо змонтувати файлову систему</target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s.  You may continue installation, but there may be problems.</source>
+    <target>Трапилась помилка монтування пристрою %(path)s як %(mountpoint)s. Можете продовжити встановлення, однак можуть виникнути негаразди. </target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s: %(msg)s. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Виникла помилка при монтуванні пристрою %(path)s як %(mountpoint)s: %(msg)s. Це фатальна помилка і встановлення не можна продовжувати.
+
+Натисніть &lt;Enter&gt;, щоб покинути встановлення.</target>
+</phrase>
+<phrase>
+    <source>Skip</source>
+    <target>Пропустити</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+is an old-style Linux swap partition.  If you want to use this device for swap space, you must reformat as a new-style Linux swap partition.</source>
+    <target>Пристрій для свопінгу:
+
+     %s
+
+старий розділ для свопінгу Linux. Якщо бажаєте використовувати пристрій для свопінгу, варто переформатувати як новий розділ для свопінгу Linux.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+in your /etc/fstab file is currently in use as a software suspend device, which means your system is hibernating. If you are performing a new install, make sure the installer is set to format all swap devices.</source>
+    <target>Пристрій для свопінгу:
+
+     %s
+
+у вашому файлі /etc/fstab тепер використовується як програма для приспання пристроїв, тобто ваша система присипляється. Якщо виконали нове встановлення, переконайтесь, що воно вказало форматувати всі пристрої для свопінгу.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+does not contain a supported swap volume.  In order to continue installation, you will need to format the device or skip it.</source>
+    <target>Пристрій для свопінгу:
+
+     %s
+
+не містить підтримуваного тома для свопінгу. Щоб продовжити встановлення, потрібно форматувати пристрій або пропустити це.</target>
+</phrase>
+<phrase>
+    <source>Error enabling swap device %(name)s: %(msg)s&lt;br&gt;&lt;br&gt;This most likely means this swap device has not been initialized.&lt;br&gt;&lt;br&gt;Press OK to exit the installer.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You have not created a bootable partition.</source>
+    <target>Не створено завантажувального розділу.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a logical volume.</source>
+    <target>Завантажувальний розділ не може бути логічним томом.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a raid array.</source>
+    <target>Завантажувальний розділ не може бути на масиві RAID.</target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on an %s filesystem.</source>
+    <target>Завантажувальний розділ не може бути на файловій системі %s.</target>
+</phrase>
+<phrase>
+    <source>Ignoring noauto entry</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Failed to resolve %s (%s) from fstab</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unrecognized filesystem type for %s (%s)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Scanned format (%s) differs from fstab format (%s)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot open %s for read</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Fstab entry %s is malformed: %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Creating file %s</source>
+    <target>Створення файла %s</target>
+</phrase>
+<phrase>
+    <source>Creating device %s</source>
+    <target>Створення пристрою %s</target>
+</phrase>
+<phrase>
+    <source>device has not been created</source>
+    <target>пристрій не створено</target>
+</phrase>
+<phrase>
+    <source>cannot activate VG with missing PV(s)</source>
+    <target>через брак PV неможливо ввімкнути VG</target>
+</phrase>
+<phrase>
+    <source>vginfo failed for %s</source>
+    <target>Помилка vginfo для %s</target>
+</phrase>
+<phrase>
+    <source>lvs failed for %s</source>
+    <target>Помилка lvs для %s</target>
+</phrase>
+<phrase>
+    <source>partition table</source>
+    <target>таблиця розділів</target>
+</phrase>
+<phrase>
+    <source>dm-raid member device</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unknown return code: %d.</source>
+    <target>Невідомий код повернення: %d.</target>
+</phrase>
+<phrase>
+    <source>Migrating %s filesystem on %s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Creating %(type)s filesystem on %(device)s</source>
+    <target>Створення файлової системи %(type)s на %(device)s</target>
+</phrase>
+<phrase>
+    <source>Resizing filesystem on %s</source>
+    <target>Зміна розміру на %s</target>
+</phrase>
+<phrase>
+    <source>Checking filesystem on %s</source>
+    <target>Перевірка файлової системи на %s</target>
+</phrase>
+<phrase>
+    <source>%(type)s filesystem check failure on %(device)s: </source>
+    <target>Не вдалось перевірити файлову систему %(type)s на %(device)s: </target>
+</phrase>
+<phrase>
+    <source>Errors like this usually mean there is a problem with the filesystem that will require user interaction to repair. Restart installation after you have corrected the problems on the filesystem.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unrecoverable Error</source>
+    <target>Критична помилка</target>
+</phrase>
+<phrase>
+    <source>File system errors left uncorrected.</source>
+    <target>Помилки файлової системи залишились невиправленими.</target>
+</phrase>
+<phrase>
+    <source>Operational error.</source>
+    <target>Оперативна помилка.</target>
+</phrase>
+<phrase>
+    <source>Usage or syntax error.</source>
+    <target>Помилка використання або синтаксу.</target>
+</phrase>
+<phrase>
+    <source>e2fsck cancelled by user request.</source>
+    <target>e2fsck скасовано за волею користувача.</target>
+</phrase>
+<phrase>
+    <source>Shared library error.</source>
+    <target>Помилка спільної бібліотеки.</target>
+</phrase>
+<phrase>
+    <source>Recoverable errors have been detected or dosfsck has discovered an internal inconsistency.</source>
+    <target>Знайдено виправні помилки або dosfsck виявив внутрішню неузгодженість.</target>
+</phrase>
+<phrase>
+    <source>Usage error.</source>
+    <target>Помилка використання.</target>
+</phrase>
+<phrase>
+    <source>physical volume (LVM)</source>
+    <target>фізичний том (LVM)</target>
+</phrase>
+<phrase>
+    <source>software RAID</source>
+    <target>Програма RAID</target>
+</phrase>
+<phrase>
+    <source>Turkish</source>
+    <target>Турецька</target>
+</phrase>
+<phrase>
+    <source>Turkish F</source>
+    <target>Турецька F</target>
+</phrase>
+<phrase>
+    <source>Turkish Q</source>
+    <target>Турецька Q</target>
+</phrase>
+<phrase>
+    <source>English</source>
+    <target>Англійська</target>
+</phrase>
+<phrase>
+    <source>English GB</source>
+    <target>Англійська GB</target>
+</phrase>
+<phrase>
+    <source>Greek</source>
+    <target>Грецький</target>
+</phrase>
+<phrase>
+    <source>Afrikaans</source>
+    <target>Африкаанс</target>
+</phrase>
+<phrase>
+    <source>Vietnamese</source>
+    <target>В&apos;єтнамська</target>
+</phrase>
+<phrase>
+    <source>Catalan</source>
+    <target>Каталонська</target>
+</phrase>
+<phrase>
+    <source>Italian</source>
+    <target>Італійська</target>
+</phrase>
+<phrase>
+    <source>Czech</source>
+    <target>Чеська</target>
+</phrase>
+<phrase>
+    <source>Welsh</source>
+    <target>Валлійська</target>
+</phrase>
+<phrase>
+    <source>Arabic</source>
+    <target>Арабська</target>
+</phrase>
+<phrase>
+    <source>Estonian</source>
+    <target>Естонська</target>
+</phrase>
+<phrase>
+    <source>Spanish</source>
+    <target>Іспанська</target>
+</phrase>
+<phrase>
+    <source>Russian</source>
+    <target>Російська</target>
+</phrase>
+<phrase>
+    <source>Dutch</source>
+    <target>Голландська</target>
+</phrase>
+<phrase>
+    <source>Portuguese</source>
+    <target>Португальска</target>
+</phrase>
+<phrase>
+    <source>Norwegian</source>
+    <target>Норвезька</target>
+</phrase>
+<phrase>
+    <source>Icelandic</source>
+    <target>Ісландська</target>
+</phrase>
+<phrase>
+    <source>Polish</source>
+    <target>Польська</target>
+</phrase>
+<phrase>
+    <source>Belgium</source>
+    <target>Белгійська</target>
+</phrase>
+<phrase>
+    <source>French</source>
+    <target>Французька</target>
+</phrase>
+<phrase>
+    <source>Bulgarian</source>
+    <target>Болгарська</target>
+</phrase>
+<phrase>
+    <source>Slovenian</source>
+    <target>Словенська</target>
+</phrase>
+<phrase>
+    <source>Croatian</source>
+    <target>Хорватська</target>
+</phrase>
+<phrase>
+    <source>German</source>
+    <target>Німецька</target>
+</phrase>
+<phrase>
+    <source>Danish</source>
+    <target>Данська</target>
+</phrase>
+<phrase>
+    <source>Brazilian</source>
+    <target>Бразильська</target>
+</phrase>
+<phrase>
+    <source>Finnish</source>
+    <target>Фінська</target>
+</phrase>
+<phrase>
+    <source>Hungarian</source>
+    <target>Болгарська</target>
+</phrase>
+<phrase>
+    <source>Japanese</source>
+    <target>Японська</target>
+</phrase>
+<phrase>
+    <source>Malayalam</source>
+    <target>Малаяламська</target>
+</phrase>
+<phrase>
+    <source>Swedish</source>
+    <target>Шведська</target>
+</phrase>
+<phrase>
+    <source>Macedonian</source>
+    <target>Македонська</target>
+</phrase>
+<phrase>
+    <source>Slovak</source>
+    <target>Словацька</target>
+</phrase>
+<phrase>
+    <source>Ukrainian</source>
+    <target>Українська</target>
+</phrase>
+<phrase>
+    <source>Serbian</source>
+    <target>Сербська</target>
+</phrase>
+<phrase>
+    <source>Preparing home directory for %s...</source>
+    <target>Підготовлення домашнього каталогу для %s...</target>
+</phrase>
+<phrase>
+    <source>Release file is missing</source>
+    <target>Бракує файла випуску </target>
+</phrase>
+<phrase>
+    <source>Release file is inconsistent</source>
+    <target>Файл випуску неузгоджений</target>
+</phrase>
+<phrase>
+    <source>Invalid xml file</source>
+    <target>Неправильний файл xml</target>
+</phrase>
+</QPH>

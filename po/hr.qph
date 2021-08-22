@@ -1,0 +1,2204 @@
+<!DOCTYPE QPH>
+<QPH language="hr">
+<phrase>
+    <source>There appears to be more than one resizeable partition. You can select a partition from the list below or YALI will select one for you.</source>
+    <target>Izgleda d aima više particija koje mogu promjeniti veličinu. MOžete izabrati particiju sa dolje liste ili će YALI izabrati particiju za vas.</target>
+</phrase>
+<phrase>
+    <source>X</source>
+    <target>X</target>
+</phrase>
+<phrase>
+    <source>Automatically choose the partition to resize (recommended)</source>
+    <target>Automatski odaberi particiju kojoj ćete promjeniti veličinu (preporučeno)</target>
+</phrase>
+<phrase>
+    <source>I will choose the target</source>
+    <target>Ja ću odabrati metu</target>
+</phrase>
+<phrase>
+    <source>Use Selected</source>
+    <target>Koristi izabrano</target>
+</phrase>
+<phrase>
+    <source>Use All Disk</source>
+    <target>Koristi cijeli disk</target>
+</phrase>
+<phrase>
+    <source>Shrink Current System</source>
+    <target>Smanji trenutni sustav</target>
+</phrase>
+<phrase>
+    <source>Use Free Space</source>
+    <target>Koristi slobodni prostor</target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning</source>
+    <target>Ručno particioniranje</target>
+</phrase>
+<phrase>
+    <source>Advanced settings</source>
+    <target>Napredne postavke</target>
+</phrase>
+<phrase>
+    <source>Default settings</source>
+    <target>Zadane postavke</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t install bootloader</source>
+    <target>Nemoj instalirati učitavač podizanja sustava</target>
+</phrase>
+<phrase>
+    <source>The first sector of</source>
+    <target>Prvi sektor od</target>
+</phrase>
+<phrase>
+    <source>You can validate the integrity of the installation packages. Although this is an optional step, we highly recommend to do the validation in order to avoid any possible errors during the installation process.</source>
+    <target>Možete provjeriti valjanost cjelovitosti instalacijskih paketa.Iako je ovo neobavezan korak,preporučujemo da napravite provjeru valjanosti da biste izbjegli moguće greške tijekom instalacije.</target>
+</phrase>
+<phrase>
+    <source>Validation failed</source>
+    <target>Neuspješna provjera valjanosti</target>
+</phrase>
+<phrase>
+    <source>Validation succeeded</source>
+    <target>Uspjela provjera valjanosti</target>
+</phrase>
+<phrase>
+    <source>Validate</source>
+    <target>Provjerite valjanost</target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target>Forma</target>
+</phrase>
+<phrase>
+    <source>To use PiSi History support, you may need to be online. You can use a connection profile from the list below:</source>
+    <target>Za korištenje Pisi podrške za povijest, možda morate biti na mreži. Možete koristiti profil spajanja sa donje liste:</target>
+</phrase>
+<phrase>
+    <source>Connect</source>
+    <target>Spoji</target>
+</phrase>
+<phrase>
+    <source>Standard Partition</source>
+    <target>Standardna particija</target>
+</phrase>
+<phrase>
+    <source>General purpose of partition creation</source>
+    <target>Osnovna namjera stvaranja particije</target>
+</phrase>
+<phrase>
+    <source>Volume Group</source>
+    <target>Particijska grupa</target>
+</phrase>
+<phrase>
+    <source>Requires at least 1 free LVM formatted partition</source>
+    <target>Zahtijeva barem 1 slobodnu LVM formatiranu particiju</target>
+</phrase>
+<phrase>
+    <source>Logical Volume</source>
+    <target>Logička particija</target>
+</phrase>
+<phrase>
+    <source>Create Logical Volume on selected Volume Group</source>
+    <target>Napravite logičku particiju na odabranoj particijskoj grupi</target>
+</phrase>
+<phrase>
+    <source>Physical Volume</source>
+    <target>Fizička particija</target>
+</phrase>
+<phrase>
+    <source>Create LVM formatted partition</source>
+    <target>Napravite LVM formatiranu paticiju</target>
+</phrase>
+<phrase>
+    <source>Raid Member</source>
+    <target>Raid član</target>
+</phrase>
+<phrase>
+    <source>Create Raid formatted partition</source>
+    <target>Napravi RAID formatiranu particiju</target>
+</phrase>
+<phrase>
+    <source>Raid Array</source>
+    <target>RAID polje</target>
+</phrase>
+<phrase>
+    <source>Requires at least 2 free Raid formatted partition</source>
+    <target>Zahtijeva najmanje 2 slobodne RAID formatirane particije</target>
+</phrase>
+<phrase>
+    <source>Date</source>
+    <target>Datum</target>
+</phrase>
+<phrase>
+    <source>Time</source>
+    <target>Vrijeme</target>
+</phrase>
+<phrase>
+    <source>Timezone</source>
+    <target>Vremenska zona</target>
+</phrase>
+<phrase>
+    <source>Unhandled exception occured</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Please fill a bug report at http://bugs.pisilinux.org.tr/ attaching the following backtrace.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reboot</source>
+    <target>Ponovno podizanje sustava</target>
+</phrase>
+<phrase>
+    <source>Show Backtrace</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>help content</source>
+    <target>sadržaj pomoći</target>
+</phrase>
+<phrase>
+    <source>Welcome to YALI (Yet Another Linux Installer), where you will have the opportunity to verify the installation medium, select your keyboard layout, choose your time-zone, create user accounts and prepare your disk - followed by a summary and final review before committing to the installation of Pisi Linux.
+Further information for each page of the installer may be viewed by clicking the question-mark icon at the top of its page. 
+YALI was designed with ease of use in mind and should not pose a problem to the novice Linux user. As with all such procedures though, any valuable data on your system should be backed-up before commencing.</source>
+    <target>Dobrodošli u YALI (Yet Another Linux Installer), gdje imate mogućnost provjeriti instalacijski medij, odabrati raspored tipkovnice, izabrati vašu vremensku zonu, napraviti korisničke račune i pripremiti disk - nakon čega slijedi sažetak i konačni pregled prije instalacije PIsi Linuxa.
+Daljnje informacije za svaku stranicu instalacijskog programa možete pogledati klikom na ikonu upitnika na vrhu stranice.
+YALI je dizajniran imajući na umu lakoću korištenja i ne bi trebao predstavljati problem novom Linux korisniku.Kao sa svim takvim postupcima, trebalo bi napraviti sigurnosnu kopiju svih vrijednih podataka na vašem sustavu prije započinjanja.</target>
+</phrase>
+<phrase>
+    <source>Installing Package: </source>
+    <target>Instaliram paket:</target>
+</phrase>
+<phrase>
+    <source>Keyboard Layouts</source>
+    <target>Raspored tipkovnice</target>
+</phrase>
+<phrase>
+    <source>Test Layout</source>
+    <target>Testiraj raspored</target>
+</phrase>
+<phrase>
+    <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Before installing Pisi Linux on your computer, please read and accept the terms of free / open source licenses of the softwares included in this installation medium. &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;License texts&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+    <target>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Prije instalacije Pisi Linuxa na vaše računalo, molim pročitajte i prihvatite uvjete slobodnog / otvorenog koda licenci softwarea uključenog u instalacijski medij. &lt;a href=&quot;#&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#56a2c0;&quot;&gt;Tekstovi licenci&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</target>
+</phrase>
+<phrase>
+    <source>I understand and accept the terms</source>
+    <target>Razumijem i prihvaćam uvjete</target>
+</phrase>
+<phrase>
+    <source>Logical Volume:</source>
+    <target>Logička particija:</target>
+</phrase>
+<phrase>
+    <source>Use :</source>
+    <target>Koristi:</target>
+</phrase>
+<phrase>
+    <source>Size :</source>
+    <target>Veličina:</target>
+</phrase>
+<phrase>
+    <source> MB</source>
+    <target> MB</target>
+</phrase>
+<phrase>
+    <source>Resize</source>
+    <target>Promijeni veličinu</target>
+</phrase>
+<phrase>
+    <source>File System :</source>
+    <target>Datotečni sustav:</target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Formatiraj</target>
+</phrase>
+<phrase>
+    <source>Migrate</source>
+    <target>Preseli</target>
+</phrase>
+<phrase>
+    <source>Yali</source>
+    <target>Yali</target>
+</phrase>
+<phrase>
+    <source>Release Notes</source>
+    <target>Obavijesti o izdanju</target>
+</phrase>
+<phrase>
+    <source>Previous Screen</source>
+    <target>Prethodni zaslon</target>
+</phrase>
+<phrase>
+    <source>Back</source>
+    <target>Natrag</target>
+</phrase>
+<phrase>
+    <source>Next Screen</source>
+    <target>Slijedeći zaslon</target>
+</phrase>
+<phrase>
+    <source>Next</source>
+    <target>Slijedeći</target>
+</phrase>
+<phrase>
+    <source>Device</source>
+    <target>Uređaj</target>
+</phrase>
+<phrase>
+    <source>Mount Point</source>
+    <target>Točka montiranja</target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target>Natpis</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Tip</target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target>Veličina</target>
+</phrase>
+<phrase>
+    <source>Create</source>
+    <target>Napravi</target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>Uredi</target>
+</phrase>
+<phrase>
+    <source>Delete</source>
+    <target>Izbriši</target>
+</phrase>
+<phrase>
+    <source>Reset</source>
+    <target>Ponovno postavi</target>
+</phrase>
+<phrase>
+    <source>Format :</source>
+    <target>Formatiraj :</target>
+</phrase>
+<phrase>
+    <source>Yes, format this partition</source>
+    <target>Da,formatiraj ovu particiju</target>
+</phrase>
+<phrase>
+    <source>Delete Partition</source>
+    <target>Izbriši particiju</target>
+</phrase>
+<phrase>
+    <source>Resize Partition</source>
+    <target>Promjeni veličinu particije</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied after Summary Screen.</source>
+    <target>Promjene će biti primjenejne nakon zaslona sažetka</target>
+</phrase>
+<phrase>
+    <source>Refresh Disks</source>
+    <target>Osvježi diskove</target>
+</phrase>
+<phrase>
+    <source>Reset All Changes</source>
+    <target>Ponovno postavljanje svih promjena</target>
+</phrase>
+<phrase>
+    <source>Apply</source>
+    <target>Primjeni</target>
+</phrase>
+<phrase>
+    <source>Force to be primary partition</source>
+    <target>Prisili da bude primarna particija</target>
+</phrase>
+<phrase>
+    <source>Use:</source>
+    <target>Koristi:</target>
+</phrase>
+<phrase>
+    <source>Force to be a primary partition</source>
+    <target>Prisili da bude primarna particija</target>
+</phrase>
+<phrase>
+    <source>Which partition would you like to shrink to make room for your installation?</source>
+    <target>Koju particiju želite smanjiti da biste napravili mjesta za vašu instalaciju?</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB)</source>
+    <target>Smanji particiju na veličinu (MB)</target>
+</phrase>
+<phrase>
+    <source>Shrink partition to size (in MB) :</source>
+    <target>Smanji particiju na veličinu (MB) :</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Otkaži</target>
+</phrase>
+<phrase>
+    <source>Shrink</source>
+    <target>Smanji</target>
+</phrase>
+<phrase>
+    <source>Changes will be applied when you click &quot;Resize&quot;. To cancel the changes, click &lt;b&gt;&quot;Cancel&quot;.
+&lt;br&gt;&lt;br&gt;
+Warning: A resizing operation may corrupt the partition, rendering the data on it unreachable. Make sure that you have backed up the data. Note that this operation cannot be undone.&lt;b&gt;</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Raid Device:</source>
+    <target>Raid uređaj:</target>
+</phrase>
+<phrase>
+    <source>Filesystem:</source>
+    <target>Datotečni sustav:</target>
+</phrase>
+<phrase>
+    <source>Raid Level:</source>
+    <target>Raid razina:</target>
+</phrase>
+<phrase>
+    <source>Raid Members:</source>
+    <target>Raid članovi:</target>
+</phrase>
+<phrase>
+    <source>Number of spares:</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select where to install the GRUB bootloader</source>
+    <target>Odaberiter gdje instalirati GRUB boot učitavač</target>
+</phrase>
+<phrase>
+    <source>First bootable disk (recommended)</source>
+    <target>Prvi disk za podizanje (preporučeno)</target>
+</phrase>
+<phrase>
+    <source>Disk partition where Pisi Linux is installed</source>
+    <target>Particija diska gdje je instaliran Pisi Linux</target>
+</phrase>
+<phrase>
+    <source>Selected disk below</source>
+    <target>Odaberite disk ispod</target>
+</phrase>
+<phrase>
+    <source>Choose the user you want to reset the password:</source>
+    <target>Odaberite korisnika kojem želite ponovno postaviti lozinku:</target>
+</phrase>
+<phrase>
+    <source>Password:</source>
+    <target>Lozinka:</target>
+</phrase>
+<phrase>
+    <source>Confirm Password</source>
+    <target>Potvrdi lozinku</target>
+</phrase>
+<phrase>
+    <source>Reset Password</source>
+    <target>Ponovno postavite lozinku</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Connection status:&lt;/b&gt;</source>
+    <target>&lt;b&gt;Status veze:&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>To use PiSi&apos;s history feature, you may need to be online. Select connection profile.</source>
+    <target>Da biste koristili PiSi značajku povijesti, možda ćete morati biti na mreži. Odaberite profil veze.</target>
+</phrase>
+<phrase>
+    <source>Select Connection</source>
+    <target>Odaberi vezu</target>
+</phrase>
+<phrase>
+    <source>Select the operation to undo:</source>
+    <target>Odaberite operaciju za poništavanje:</target>
+</phrase>
+<phrase>
+    <source>Choose what do you want to do to repair your system</source>
+    <target>Izaberite što učiniti da bi popravili vaš sustav</target>
+</phrase>
+<phrase>
+    <source>Reinstall bootloader</source>
+    <target>Ponovno instaliraj boot učitavač</target>
+</phrase>
+<phrase>
+    <source>Reset forgotten password</source>
+    <target>Ponovno postavite zaboravljenu lozinku</target>
+</phrase>
+<phrase>
+    <source>Return back to a previous system state</source>
+    <target>Vratite se na prethodno stanje sustava</target>
+</phrase>
+<phrase>
+    <source>Administrator password</source>
+    <target>Administratorska lozinka</target>
+</phrase>
+<phrase>
+    <source>Confirm password</source>
+    <target>Potvrdi lozinku</target>
+</phrase>
+<phrase>
+    <source>Computer Name</source>
+    <target>Ime računala</target>
+</phrase>
+<phrase>
+    <source>User Name</source>
+    <target>Korisničko ime</target>
+</phrase>
+<phrase>
+    <source>Real Name</source>
+    <target>Pravo ime</target>
+</phrase>
+<phrase>
+    <source>Password</source>
+    <target>Lozinka</target>
+</phrase>
+<phrase>
+    <source>Custom User ID</source>
+    <target>Prilagođeni korisnički ID</target>
+</phrase>
+<phrase>
+    <source>Not recommended</source>
+    <target>NIje preporučljivo</target>
+</phrase>
+<phrase>
+    <source>Bypass authorization attempts for this user</source>
+    <target>Zaobiđi pokušaje odobrenja za ovog korisnika</target>
+</phrase>
+<phrase>
+    <source>Add user to administrator (wheel) group</source>
+    <target>Dodaj korisnika u administratorsku (kotač) grupu</target>
+</phrase>
+<phrase>
+    <source>Select auto login user</source>
+    <target>Odaberite automatsku prijavu korisnika</target>
+</phrase>
+<phrase>
+    <source>Add</source>
+    <target>Dodaj</target>
+</phrase>
+<phrase>
+    <source>Advanced</source>
+    <target>Napredno</target>
+</phrase>
+<phrase>
+    <source>Volume Group Name:</source>
+    <target>Ime particijske grupe:</target>
+</phrase>
+<phrase>
+    <source>Physical Extends</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Physical Volumes to use:</source>
+    <target>Fizičke particije za korištenje:</target>
+</phrase>
+<phrase>
+    <source>Total Space:</source>
+    <target>Ukupni prostor:</target>
+</phrase>
+<phrase>
+    <source>Free Space:</source>
+    <target>Slobodni prostor:</target>
+</phrase>
+<phrase>
+    <source>Logical Volumes</source>
+    <target>Logičke particije</target>
+</phrase>
+<phrase>
+    <source>Mountpoint</source>
+    <target>Točka montiranja</target>
+</phrase>
+<phrase>
+    <source>Used Space:</source>
+    <target>Korišteni prostor:</target>
+</phrase>
+<phrase>
+    <source>Pisi Linux is installed and running successfully... 
+
+Before you login to system, you need to create your first user and set the system wide configurations. </source>
+    <target>Pisi Linux je uspješno instaliran i pokrenut...
+
+Prije nego što se prijavite u sustav, morate napraviti vašeg prvog korisnika i postaviti konfiguracije usustava.</target>
+</phrase>
+<phrase>
+    <source>Not enough physical volumes</source>
+    <target>Nije dovoljno fizičkih particija</target>
+</phrase>
+<phrase>
+    <source>At least one unused physical volume partition is needed to
+create an LVM Volume Group.
+Create a partition or RAID array of type &quot;physical volume
+(LVM)&quot; and then select the &quot;LVM&quot; option again.</source>
+    <target>Barem jedna neiskorištena fizička particija je potrebna da bi \ nnapravili LVM particijsku grupu. 
+Napravite particiju ili RAID polje vrste &quot;fizička particija
+(LVM)&quot; i zatim opet odaberite \ &quot;LVM &quot; opciju.</target>
+</phrase>
+<phrase>
+    <source>Make LVM Volume Group</source>
+    <target>Napravite LVM particijsku grupu</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group: %s</source>
+    <target>Uredi  LVM particijsku grupu: %s</target>
+</phrase>
+<phrase>
+    <source>Edit LVM Volume Group</source>
+    <target>Uredi  LVM particijsku grupu</target>
+</phrase>
+<phrase>
+    <source>Invalid Volume Group Name</source>
+    <target>Neispravno ime particijske grupe</target>
+</phrase>
+<phrase>
+    <source>Name in use</source>
+    <target>Ime u uporabi</target>
+</phrase>
+<phrase>
+    <source>The volume group name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Ime partiocijske grupe &quot;%s&quot; je u uporabi.Odaberite drugo ime.</target>
+</phrase>
+<phrase>
+    <source>Not enough space</source>
+    <target>Nema dovoljno prostora</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+otherwise the space required by the currently defined
+logical volumes will be increased to more than the
+available space.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Confirm Physical Extent Change</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will
+require the sizes of the current logical volume requests
+to be rounded up in size to an integer multiple of
+the physical extent.
+
+This change will take effect
+immediately.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Continue</source>
+    <target>Nastavi</target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because
+the value selected (%(curpe)10.2f MB) is larger than the
+smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the value selected (%(curpe)10.2f MB) is too large compared to the size of the smallest physical volume (%(maxpvsize)10.2f MB) in the volume group.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Too small</source>
+    <target>Premaleno</target>
+</phrase>
+<phrase>
+    <source>This change in the value of the physical extent will waste substantial space on one or more of the physical volumes in the volume group.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>The physical extent size cannot be changed because the resulting maximum logical volume size (%10.2f MB) is smaller than one or more of their currently defined logical volumes.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>No free slots</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>You cannot create more than %d logical volume 
+per volume group.</source>
+    <target>Ne možete napraviti više od %d logičkih particija 
+po particijskoj grupi.</target>
+</phrase>
+<phrase>
+    <source>No free space</source>
+    <target>Nema slobodnog prostora</target>
+</phrase>
+<phrase>
+    <source>There is no room left in the volume group to create new
+logical volumes. To add a logical volume you must reduce
+the size of one or more of the currently existing logical
+volumes</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Confirm Delete</source>
+    <target>Potvrdi brisanje</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to delete the 
+logical volume &quot;%s&quot;?</source>
+    <target>Jeste li sigurni da želite izbrisati 
+logičku particiju &quot;%s&quot;?</target>
+</phrase>
+<phrase>
+    <source>Make Logical Volume</source>
+    <target>Napravi logičku particiju</target>
+</phrase>
+<phrase>
+    <source>Edit Logical Volume: %s</source>
+    <target>Uredi logičku particiju: %s</target>
+</phrase>
+<phrase>
+    <source>Mount Point Error</source>
+    <target>Greška točke montiranja</target>
+</phrase>
+<phrase>
+    <source>Mount point in use</source>
+    <target>Točka montiranja u upotrebi</target>
+</phrase>
+<phrase>
+    <source>The mount point &quot;%s&quot; is in use. Please pick another.</source>
+    <target>Točka montiranja &quot;%s&quot; je u upotebi.Odaberite drugu.</target>
+</phrase>
+<phrase>
+    <source>Illegal Logical Volume Name</source>
+    <target>Nedopušteno ime logičke particije</target>
+</phrase>
+<phrase>
+    <source>Illegal logical volume name</source>
+    <target>Nedopušteno ime logičke particije</target>
+</phrase>
+<phrase>
+    <source>The logical volume name &quot;%s&quot; is already in use. Please pick another.</source>
+    <target>Logička particija &quot;%s&quot; je već u uporabi.Molim odaberite drugu.</target>
+</phrase>
+<phrase>
+    <source>Illegal size</source>
+    <target>Nedopuštena veličina</target>
+</phrase>
+<phrase>
+    <source>The requested size as entered is not a valid number greater than 0.</source>
+    <target>Tražena veličina kako je unešena nije ispravan broj veći od 0..</target>
+</phrase>
+<phrase>
+    <source>The current requested size (%(size)10.2f MB) is larger than the maximum logical volume size (%(maxlv)10.2f MB). To increase this limit you can create more Physical Volumes from unpartitioned disk space and add them to this Volume Group.</source>
+    <target>Trenutno tražena veličina (%(size)10.2f MB) je veća od maksimalne veličine logičke particije (%(maxlv)10.2f MB). DA bi ste povećali ovo ograničenje morate napraviti više primarnih particija sa neparticioniranog prostora diska i dodati ih u ovu grupu particija.</target>
+</phrase>
+<phrase>
+    <source>The size entered for this logical volume (%(size)d MB) combined with the size of the other logical volume(s) exceeds the size of the volume group (%(tmpvgsize)d MB). Please make the volume group larger or make the logical volume smaller.</source>
+    <target>Veličina unešena za ovu logičku particiju  (%(size)d MB) kombinirana sa veličinom ostalih logičkih particija(a) prelazi veličinu particijske grupe (%(tmpvgsize)d MB). Molim povećajte particijsku grupu ili smanjite logičku particiju.</target>
+</phrase>
+<phrase>
+    <source>Create Partition on %(path)s (%(model)s)</source>
+    <target>Napravi particiju na %(path)s (%(model)s)</target>
+</phrase>
+<phrase>
+    <source>Edit Partition %s</source>
+    <target>Uredi particiju %s</target>
+</phrase>
+<phrase>
+    <source>Edit Partition</source>
+    <target>Uredi particiju</target>
+</phrase>
+<phrase>
+    <source>Error With Request</source>
+    <target>Greška sa zahtjevom</target>
+</phrase>
+<phrase>
+    <source>Invalid Raid Members</source>
+    <target>Nevažeći Raid članovi</target>
+</phrase>
+<phrase>
+    <source>At least two unused software RAID partitions are needed to create a RAID device.
+
+First create at least two partitions of type &quot;software RAID&quot;, and then select the &quot;RAID&quot; option again.</source>
+    <target>Najmanje dvije neiskorištene softwere RAID particije su potrebne za stvaranje RAID uređaja. 
+
+Najprije  stvorite najmanje dvije particije vrste &quot;software RAID&quot;, a zatim odaberite &quot;RAID&quot; opciju opet.</target>
+</phrase>
+<phrase>
+    <source>Make RAID Device</source>
+    <target>Napravi RAID uređaj</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device: %s</source>
+    <target>Uredi RAID uređaj: %s</target>
+</phrase>
+<phrase>
+    <source>Edit RAID Device</source>
+    <target>Uredi RAID uređaj</target>
+</phrase>
+<phrase>
+    <source>A RAID%(level)d set requires at least %(min_member)d member</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error!</source>
+    <target>Greška!</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load an installer interface component.
+
+className = %s.Widget</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target>Izađi</target>
+</phrase>
+<phrase>
+    <source>Retry</source>
+    <target>Pokušaj ponovno</target>
+</phrase>
+<phrase>
+    <source>Storage Devices initialising...</source>
+    <target>Iniciram uređaje pohrane...</target>
+</phrase>
+<phrase>
+    <source>Password is too short.</source>
+    <target>Lozinka je prekratka</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match.</source>
+    <target>Lozinke se ne podudaraju</target>
+</phrase>
+<phrase>
+    <source>Do not use your username as your password.</source>
+    <target>Ne koristite korisničko ime kao lozinku</target>
+</phrase>
+<phrase>
+    <source>Hostname cannot be longer than 64 characters.</source>
+    <target>Ime računala ne može biti veće od 64 znaka</target>
+</phrase>
+<phrase>
+    <source>Hostname contains invalid characters.</source>
+    <target>Ime računala sadrži neispravne znakove</target>
+</phrase>
+<phrase>
+    <source>Starting validation...</source>
+    <target>Započinjem provjeru valjanosti...</target>
+</phrase>
+<phrase>
+    <source>Package validation is in progress. Please wait until it is completed.</source>
+    <target>Provjera valjanosti paketa je u tijeku.Molim pričekajte dok se ne dovrši.</target>
+</phrase>
+<phrase>
+    <source>Validating %s</source>
+    <target>Provjeram valjanost %s</target>
+</phrase>
+<phrase>
+    <source>Warning</source>
+    <target>Upozorenje</target>
+</phrase>
+<phrase>
+    <source>Validation of %s package failed.Please remaster your installation medium andreboot.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Skip Validation</source>
+    <target>Preskoči provjeru valjanosti</target>
+</phrase>
+<phrase>
+    <source>Skip Package</source>
+    <target>Preskoči paket</target>
+</phrase>
+<phrase>
+    <source>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Validation succeeded. You can proceed with the installation.&lt;/b&gt;&lt;/font&gt;</source>
+    <target>&lt;font color=&quot;#FFF&quot;&gt;&lt;b&gt;Uspješna provjera valjanosti. Možete nastaviti sa instalacijom.&lt;/b&gt;&lt;/font&gt;</target>
+</phrase>
+<phrase>
+    <source>Package validation is finished.</source>
+    <target>Provjera valjanosti paketa je završena.</target>
+</phrase>
+<phrase>
+    <source>Adjusting time settings</source>
+    <target>Podešavanje postavki vremena</target>
+</phrase>
+<phrase>
+    <source>Device Path: %s</source>
+    <target>Putanja uređaja: %s</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Greška</target>
+</phrase>
+<phrase>
+    <source>You must select at least one drive to be used for installation.</source>
+    <target>Morate odabrati barem jedan disk koji će se koristiti za instalaciju.</target>
+</phrase>
+<phrase>
+    <source>Running post-install operations...</source>
+    <target>Pokrećem  post-instalacijske operacije ...</target>
+</phrase>
+<phrase>
+    <source>Press &lt;b&gt;Restart&lt;/b&gt; to restart the computer.</source>
+    <target>Pritisni &lt;b&gt;Ponovno pokretanje&lt;/b&gt; za ponovno pokretanje računala.</target>
+</phrase>
+<phrase>
+    <source>Restart</source>
+    <target>Ponovno pokretanje</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;Please wait while restarting...&lt;/b&gt;</source>
+    <target>&lt;b&gt;Molimo pričekajte dok se ponovno pokreće...&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Setting timezone...</source>
+    <target>Postavljam vremensku zonu...</target>
+</phrase>
+<phrase>
+    <source>Migrating Xorg configuration...</source>
+    <target>Premještanje Xorg konfiguracije ...</target>
+</phrase>
+<phrase>
+    <source>Copying repository index...</source>
+    <target>Kopiram index reozitorija</target>
+</phrase>
+<phrase>
+    <source>Setting hostname...</source>
+    <target>Postavljam ime računala</target>
+</phrase>
+<phrase>
+    <source>Setting root password...</source>
+    <target>Postavljam korijensku lozinku</target>
+</phrase>
+<phrase>
+    <source>Resetting user password...</source>
+    <target>Ponovno postavljanje korisničke lozinke...</target>
+</phrase>
+<phrase>
+    <source>Setup First-Boot...</source>
+    <target>Postavljanje prvog pokretanja ...</target>
+</phrase>
+<phrase>
+    <source>Teardown First-Boot...</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Adding users...</source>
+    <target>Dodajem korisnike...</target>
+</phrase>
+<phrase>
+    <source>Installing bootloader...</source>
+    <target>Instaliram boot učitavač...</target>
+</phrase>
+<phrase>
+    <source>Writing bootloader config...</source>
+    <target>Zapisujen boot učitavač config...</target>
+</phrase>
+<phrase>
+    <source>Stopping to D-Bus...</source>
+    <target>Zaustavljanje na D-Bus-u ...</target>
+</phrase>
+<phrase>
+    <source>Teardown storage subsystem...</source>
+    <target>Teardown podsustav pohrane...</target>
+</phrase>
+<phrase>
+    <source>Installing &lt;b&gt;%(name)s&lt;/b&gt; -- %(summary)s</source>
+    <target>Instaliram &lt;b&gt;%(name)s&lt;/b&gt; -- %(summary)s</target>
+</phrase>
+<phrase>
+    <source>Configuring &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Konfiguriram &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Following error occured while installing packages:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Do you want to retry?</source>
+    <target>Došlo je do slijedeće greške tijekom instalacije paketa:&lt;b&gt;%s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Želite li pokušati ponovno?</target>
+</phrase>
+<phrase>
+    <source>Yes</source>
+    <target>Da</target>
+</phrase>
+<phrase>
+    <source>No</source>
+    <target>Ne</target>
+</phrase>
+<phrase>
+    <source>An error occured during the installation of packages.
+This may be caused by a corrupted installation medium error:
+%s
+</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>No storage device found.</source>
+    <target>Nije pronađen uređaj za pohranu.</target>
+</phrase>
+<phrase>
+    <source>Use Alt-Shift to toggle between alternative keyboard layouts</source>
+    <target>Koristite Alt-Shift za izmjenu između alternativnih rasporeda tipkovnice</target>
+</phrase>
+<phrase>
+    <source>License text could not be found.</source>
+    <target>NIje moguće naći tekst licence.</target>
+</phrase>
+<phrase>
+    <source>No partitions are available to resize. Only physical
+partitions which size is greater than %s MB can be resized.</source>
+    <target>Nema particije dostupne za promjenu veličine. Samo fizičke
+particije čije su veličine veće od %s MB mogu promijeniti veličinu.</target>
+</phrase>
+<phrase>
+    <source>Use All Disks</source>
+    <target>Koristi sve diskove</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested caused the following critical errors.You must correct these errors before you continue your installation of %s.</source>
+    <target>Shemu particioniranja koju ste zatražili uzrokavala je sljedeće kritične greške.Morate ispraviti ove pogreške prije nego što nastavite instalaciju %s.</target>
+</phrase>
+<phrase>
+    <source>Partitioning Errors</source>
+    <target>Greške particioniranja</target>
+</phrase>
+<phrase>
+    <source>The partitioning scheme you requested generated the following warnings. Would you like to continue with your requested partitioning scheme?</source>
+    <target>Shemu particioniranja koju ste zatražili generirala je slijedeća upozorenja. Želite li nastaviti sa svojom traženom shemom particioniranja?</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warnings</source>
+    <target>Upozorenja particioniranja</target>
+</phrase>
+<phrase>
+    <source>Ok</source>
+    <target>U redu</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing devices have been selected to be formatted, destroying all data.</source>
+    <target>Slijedeći postojeći uređaji su odabrani za formatiranje, uništavajući sve podatke.</target>
+</phrase>
+<phrase>
+    <source>Format Warnings</source>
+    <target>Upozorenja formatiranja</target>
+</phrase>
+<phrase>
+    <source>All Changes that you made will be removed</source>
+    <target>Sve promjene koje ste napravili biti će uklonjene</target>
+</phrase>
+<phrase>
+    <source>Standard</source>
+    <target>Standardno</target>
+</phrase>
+<phrase>
+    <source>LVM</source>
+    <target>LVM</target>
+</phrase>
+<phrase>
+    <source>RAID</source>
+    <target>RAID</target>
+</phrase>
+<phrase>
+    <source>Partition</source>
+    <target>Particija</target>
+</phrase>
+<phrase>
+    <source>Member</source>
+    <target>Član</target>
+</phrase>
+<phrase>
+    <source>Array</source>
+    <target>Polje</target>
+</phrase>
+<phrase>
+    <source>Volume Groups</source>
+    <target>Grupe particija</target>
+</phrase>
+<phrase>
+    <source>Free</source>
+    <target>Slobodno</target>
+</phrase>
+<phrase>
+    <source>Raid Arrays</source>
+    <target>RAID polja</target>
+</phrase>
+<phrase>
+    <source>Hard Drives</source>
+    <target>Tvrdi diskovi</target>
+</phrase>
+<phrase>
+    <source>Can&apos;t handle more than one extended partition per disk</source>
+    <target>Ne mogu podržati više od jedne po proširene particije po disku</target>
+</phrase>
+<phrase>
+    <source>Crossed logical partition before extended</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Extended</source>
+    <target>Proširena</target>
+</phrase>
+<phrase>
+    <source>Error Partitioning</source>
+    <target>Greška particioniranja</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: %s.</source>
+    <target>Nisam mogao dodijeliti tražene particije: %s.</target>
+</phrase>
+<phrase>
+    <source>Warning Partitioning</source>
+    <target>Upozorenje particioniranja</target>
+</phrase>
+<phrase>
+    <source>Warning: %s.</source>
+    <target>Upozorenje: %s.</target>
+</phrase>
+<phrase>
+    <source>Modify Partition</source>
+    <target>Izmijeni particiju</target>
+</phrase>
+<phrase>
+    <source>Partition Selection Warning</source>
+    <target>Upozorenje odabira particije</target>
+</phrase>
+<phrase>
+    <source>Please select free physical partition to create new device.</source>
+    <target>Molim, odaberite slobodnu fizičku particiju za stvaranje novog uređaja.</target>
+</phrase>
+<phrase>
+    <source>Unable To Edit</source>
+    <target>Nije moguće urediti</target>
+</phrase>
+<phrase>
+    <source>You cannot edit this device:
+
+%s</source>
+    <target>Ne možete urediti ovaj uređaj:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t use your user name or name as a password</source>
+    <target>Nemojte koristiti vaše korisničko ime kao lozinku</target>
+</phrase>
+<phrase>
+    <source>Passwords do not match</source>
+    <target>Lozinke se ne podudaraju</target>
+</phrase>
+<phrase>
+    <source>Password is too short</source>
+    <target>Lozinka je prekratka</target>
+</phrase>
+<phrase>
+    <source>Cannot Rescue</source>
+    <target>Ne mogu spasiti</target>
+</phrase>
+<phrase>
+    <source>Your current installation cannot be rescued.</source>
+    <target>Vaša trenutna instalacija ne može biti spašena.</target>
+</phrase>
+<phrase>
+    <source>Super User</source>
+    <target>Super korisnik</target>
+</phrase>
+<phrase>
+    <source>Starting D-Bus...</source>
+    <target>Pokrećem D-Bus ...</target>
+</phrase>
+<phrase>
+    <source>Connecting to D-Bus...</source>
+    <target>Spajanje na D-Bus ...</target>
+</phrase>
+<phrase>
+    <source>Fetching history...</source>
+    <target>Dohvaćanje povijesti ...</target>
+</phrase>
+<phrase>
+    <source>Please Wait...</source>
+    <target>Molim pričekajte...</target>
+</phrase>
+<phrase>
+    <source>No connection available</source>
+    <target>Nema dostupnih veza</target>
+</phrase>
+<phrase>
+    <source>Operation %(no)s : %(date)s - %(type)s</source>
+    <target>Operacija %(no)s : %(date)s - %(type)s</target>
+</phrase>
+<phrase>
+    <source>Connecting to network %s...</source>
+    <target>Spajanje na mrežu %s...</target>
+</phrase>
+<phrase>
+    <source>Connection failed</source>
+    <target>Spajanje neuspjelo</target>
+</phrase>
+<phrase>
+    <source>Connected</source>
+    <target>Spojen</target>
+</phrase>
+<phrase>
+    <source>Mount failed</source>
+    <target>Neuspjelo montiranje</target>
+</phrase>
+<phrase>
+    <source>The following error occurred when mounting the file systems listed in /etc/fstab.  Please fix this problem and try to rescue again.
+%s</source>
+    <target>Došlo je do slijedeće greške pri montiranju datotečnih sustava izlistanih u /etc/ fstab. Molimo riješite ovaj problem i pokušajte spasiti ponovno.
+%s</target>
+</phrase>
+<phrase>
+    <source>&lt;b&gt;&lt;p&gt;Are you sure you want to restart the computer?&lt;/p&gt;&lt;/b&gt;</source>
+    <target>&lt;b&gt;&lt;p&gt;Jeste li sigurni da želite ponovno pokrenuti računalo?&lt;/p&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Installation starts in &lt;b&gt;%s&lt;/b&gt; seconds</source>
+    <target>Instalacija počinje za &lt;b&gt;%s&lt;/b&gt; sekunda</target>
+</phrase>
+<phrase>
+    <source>Start Installation</source>
+    <target>Pokreni instalaciju</target>
+</phrase>
+<phrase>
+    <source>Apply Settings</source>
+    <target>Primjeni postavke</target>
+</phrase>
+<phrase>
+    <source>Keyboard Settings</source>
+    <target>Postavke tipkovnice</target>
+</phrase>
+<phrase>
+    <source>Selected keyboard layout is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Odabrani raspored tipkovnice je &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Date/Time Settings</source>
+    <target>Postavke datuma i vremena</target>
+</phrase>
+<phrase>
+    <source>Selected TimeZone is &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Odabrana vremenska zona je  &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>User Settings</source>
+    <target>Postavke korisnika</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added.</source>
+    <target>Korisnik %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) dodan.</target>
+</phrase>
+<phrase>
+    <source>User %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) added with &lt;u&gt;administrator privileges&lt;/u&gt;.</source>
+    <target>Korisnik %(username)s (&lt;b&gt;%(realname)s&lt;/b&gt;) dodan sa &lt;u&gt;administratorskim privilegijama&lt;/u&gt;.</target>
+</phrase>
+<phrase>
+    <source>Hostname Settings</source>
+    <target>Postavke računala</target>
+</phrase>
+<phrase>
+    <source>Hostname is set as &lt;b&gt;%s&lt;/b&gt;</source>
+    <target>Računalo je postavljeno kao &lt;b&gt;%s&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Partition Settings</source>
+    <target>Postavke particija</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning selected.</source>
+    <target>Odabrano je automatsko particioniranje.</target>
+</phrase>
+<phrase>
+    <source>Use All Space</source>
+    <target>Koristi cijeli prostor</target>
+</phrase>
+<phrase>
+    <source>Removes all partitions on the selected %s device(s). &lt;b&gt;&lt;u&gt;This includes partitions created by other operating systems.&lt;/u&gt;&lt;/b&gt;</source>
+    <target>Uklanja sve particije na odabranom %s uređaju(ma).&lt;u&gt;&lt;b&gt;To uključuje particije kreirane od strane drugih operativnih sustava.&lt;/u&gt;&lt;/b&gt;</target>
+</phrase>
+<phrase>
+    <source>Replace Existing Linux System(s)</source>
+    <target>Zamijeni postojeći Linux sustav(e)</target>
+</phrase>
+<phrase>
+    <source>Removes all Linux partitions on the selected%s device(s). This does not remove other partitions you may have on your storage device(s) (such as VFAT or FAT32)</source>
+    <target>Uklanja sve Linux particije na izabranom %s uređaju(ma). To ne uklonja druge particije koje možda imate na svom uređaju(ma) za pohranu (kao što je vfat ili FAT32)</target>
+</phrase>
+<phrase>
+    <source>Retains your current data and partitions and uses only the unpartitioned space on the selected %s device(s), assuming you have enough free space available.</source>
+    <target>Zadržava vaše trenutne podatke i particije i koristi samo nedodijeljeni prostor na odabranom %s uređaju(ma) ,pretpostavljajući da imate dostupno dovoljno slobodnog prostora. </target>
+</phrase>
+<phrase>
+    <source>Manual Partitioning selected.</source>
+    <target>Odabrano je ručno particioniranje.</target>
+</phrase>
+<phrase>
+    <source>Bootloader Settings</source>
+    <target>Postavke boot učitavača</target>
+</phrase>
+<phrase>
+    <source>GRUB will be installed to &lt;b&gt;%s&lt;/b&gt;.</source>
+    <target>GRUB će biti instaliran na &lt;b&gt;%s&lt;/b&gt;.</target>
+</phrase>
+<phrase>
+    <source>GRUB will not be installed.</source>
+    <target>GRUB neće biti instaliran.</target>
+</phrase>
+<phrase>
+    <source>Package Installation Settings</source>
+    <target>Postavke instalacije paketa</target>
+</phrase>
+<phrase>
+    <source>Collection &lt;b&gt;%s&lt;/b&gt; selected</source>
+    <target>Zbirka &lt;b&gt;%s&lt;/b&gt; odabrana</target>
+</phrase>
+<phrase>
+    <source>Confirm</source>
+    <target>Potvrdi</target>
+</phrase>
+<phrase>
+    <source>The partitioning options you have selected will now be written to disk. Any data on deleted or reformatted partitions will be lost.</source>
+    <target>Opcije particioniranja koje ste odabrali će sada biti zapisane na disk. Svi podaci na izbrisanim ilil reformatiranim particijama će biti izgubljeni.</target>
+</phrase>
+<phrase>
+    <source>Write Changes to Disk</source>
+    <target>Zapiši promjene na disk</target>
+</phrase>
+<phrase>
+    <source>Go Back</source>
+    <target>Idi natrag</target>
+</phrase>
+<phrase>
+    <source>Proprietary Hardware Drivers</source>
+    <target>Vlasnički upravljački programi hardware-a</target>
+</phrase>
+<phrase>
+    <source>&lt;qt&gt;Proprietary drivers are available which may be required to utilize the full capabilities of your video card. These drivers are developed by the hardware manufacturer and not supported by Pisi Linux developers since their source code is not publicly available.&lt;br&gt;&lt;br&gt;&lt;b&gt;Do you want to install and use these proprietary drivers instead of the default drivers?&lt;/b&gt;&lt;/qt&gt;</source>
+    <target>&lt;qt&gt; Dostupni su vlasnički upravljački programi koji mogu biti potrebni da se iskoristi puna sposobnost vaše grafičke kartice. Ti upravljački programi su razvijeni od strane proizvođača hardwer-a i nije podržan od strane Pardus programera, jer njihov izvorni kod nije javno dostupan. &lt;br&gt;&lt;br&gt; &lt;b&gt;Želite li instalirati i koristiti ove vlasničke upravljačke programe umjesto zadanih upravljačkih programa?&lt;/b&gt; &lt;/qt&gt;</target>
+</phrase>
+<phrase>
+    <source>Update</source>
+    <target>Dopuni</target>
+</phrase>
+<phrase>
+    <source>This user name is already taken, please choose another one.</source>
+    <target>Ovo korisničko ime već zauzeto, molim odaberite drugo.</target>
+</phrase>
+<phrase>
+    <source>The user name contains invalid characters.</source>
+    <target>Korisničko ime sadrži neispravne znakove.</target>
+</phrase>
+<phrase>
+    <source>The real name contains invalid characters.</source>
+    <target>Pravo ime sadrži neispravne znakove.</target>
+</phrase>
+<phrase>
+    <source>User ID used before, choose another one!</source>
+    <target>Korisnički ID je korišten prije, odaberite drugi!</target>
+</phrase>
+<phrase>
+    <source>Partitions to Shrink</source>
+    <target>Particije za smanjiti</target>
+</phrase>
+<phrase>
+    <source>Resize FileSystem Error</source>
+    <target>Greška promjene veličine datotečnog sustava </target>
+</phrase>
+<phrase>
+    <source>%(device)s: %(msg)s</source>
+    <target>%(device)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>Resize Device Error</source>
+    <target>Greška u promjeni veličine uređaja</target>
+</phrase>
+<phrase>
+    <source>%(name)s: %(msg)s</source>
+    <target>%(name)s: %(msg)s</target>
+</phrase>
+<phrase>
+    <source>You cannot remove this physical volume because
+otherwise the volume group will be too small to
+hold the currently defined logical volumes.</source>
+    <target>Ne možete ukloniti ovu fizički particiju, jer
+bi tada particijska grupa bila premala za
+zadržavanje trenutno definiranih logičkih particija.</target>
+</phrase>
+<phrase>
+    <source>Don&apos;t ask again</source>
+    <target>Ne pitaj me ponovno</target>
+</phrase>
+<phrase>
+    <source>Do you want to continue?</source>
+    <target>Želite li nastaviti?</target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Informacija</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>U redu</target>
+</phrase>
+<phrase>
+    <source>Error reporting</source>
+    <target>Izvješćivanje o pogreškama</target>
+</phrase>
+<phrase>
+    <source>Pixmaps resources file doesn&apos;t exists</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Style file doesn&apos;t exists</source>
+    <target>Datoteka stila ne postoji</target>
+</phrase>
+<phrase>
+    <source>Release file doesn&apos;t exists</source>
+    <target>Datoteka izdanja ne postoji</target>
+</phrase>
+<phrase>
+    <source>Turn Off Computer</source>
+    <target>Isključi računalo</target>
+</phrase>
+<phrase>
+    <source>Restart Computer</source>
+    <target>Ponovno pokreni računalo</target>
+</phrase>
+<phrase>
+    <source>Restart YALI</source>
+    <target>Ponovno pokreni YALI</target>
+</phrase>
+<phrase>
+    <source>right</source>
+    <target>desno</target>
+</phrase>
+<phrase>
+    <source>left</source>
+    <target>lijevo</target>
+</phrase>
+<phrase>
+    <source>Mouse Settings</source>
+    <target>Postavke miša</target>
+</phrase>
+<phrase>
+    <source>You just clicked the &lt;b&gt;%s&lt;/b&gt; mouse button.</source>
+    <target>Upravo ste kliknuli &lt;b&gt;%s&lt;/b&gt; tipku miša.</target>
+</phrase>
+<phrase>
+    <source>Do you want to switch to the &lt;b&gt;%s&lt;/b&gt; handed configuration?</source>
+    <target>Želite li prebaciti na &lt;b&gt;%s&lt;/b&gt; ručnu konfiguraciju?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to shut down your computer now?</source>
+    <target>Jeste li sigurni da želite isključiti računalo sada?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart your computer now?</source>
+    <target>Jeste li sigurni da želite ponovono pokrenuti računalo sada?</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to restart the YALI installer now?</source>
+    <target>Jeste li sigurni da želite ponovono pokrenuti YALI instaler sada?</target>
+</phrase>
+<phrase>
+    <source>Terminal</source>
+    <target>Terminal</target>
+</phrase>
+<phrase>
+    <source>Tetris</source>
+    <target>Tetris</target>
+</phrase>
+<phrase>
+    <source>An error occurred when attempting to load screens:%s</source>
+    <target>Došlo je do pogreške prilikom pokušaja učitavanja ekrana:%s</target>
+</phrase>
+<phrase>
+    <source>Release notes could not be loaded.</source>
+    <target>Obavijesti o izdanju nisu mogle biti učitane.</target>
+</phrase>
+<phrase>
+    <source>%s</source>
+    <target>%s</target>
+</phrase>
+<phrase>
+    <source>Windows</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This partition is part of an inconsistent LVM Volume Group.</source>
+    <target>Ova particija dio LVM nedosljedne particijske grupe.</target>
+</phrase>
+<phrase>
+    <source>Failed teardownAll in storage.complete with error:%s</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Storage Device Error</source>
+    <target>Greška uređaja pohrane</target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while partitioning on device %s.</source>
+    <target>Došlo je do pogreške pri particioniranju na uređaju %s.</target>
+</phrase>
+<phrase>
+    <source>Storage Format Error</source>
+    <target>Greška formatiranja pohrane</target>
+</phrase>
+<phrase>
+    <source>There was an error encountered while formatting on device %s.</source>
+    <target>Došlo je do pogreške pri formatiranju na uređaju %s.</target>
+</phrase>
+<phrase>
+    <source>Exit installer</source>
+    <target>Napusti instaler</target>
+</phrase>
+<phrase>
+    <source>Ignore</source>
+    <target>Ignoriraj</target>
+</phrase>
+<phrase>
+    <source>Dirty File Systems</source>
+    <target>Prljavi datotečni sustavi</target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Please boot your Linux installation, let the file systems be checked and shut down cleanly to rescue.
+%s</source>
+    <target>Sljedeći datotečni sustavi za vaš Linux sustav nisu odmontirani čisto. Molimo podignite vašu Linux instalaciju, neka datotečni sustavi budu provjereni i isključi čisto za spašavanje. 
+%s</target>
+</phrase>
+<phrase>
+    <source>The following file systems for your Linux system were not unmounted cleanly.  Would you like to mount them anyway?
+%s</source>
+    <target>Sljedeći datotečni sustavi za vaš Linux sustav nisu odmontirani čisto. Želite li ih ipak montirati?
+%s</target>
+</phrase>
+<phrase>
+    <source>This partition is holding the data for the hard drive install.</source>
+    <target>Ova particija sadrži podatke za instalaciju na tvrdi disk.</target>
+</phrase>
+<phrase>
+    <source>You cannot delete a partition of a LDL formatted DASD.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>This device is part of the RAID device %s, you have to edit or remove the raid partition appropriately!</source>
+    <target>Ovaj uređaj je dio RAID uređaja %s, morate urediti ili ukloniti RAID particiju na odgovarajući način!</target>
+</phrase>
+<phrase>
+    <source>This device is part of a RAID device.</source>
+    <target>Ovaj uređaj je dio RAID uređaja.</target>
+</phrase>
+<phrase>
+    <source>This device is part of the LVM volume group &apos;%s&apos;.</source>
+    <target>Ureðaj je dio LVM particijske grupe &apos;%s&apos;.</target>
+</phrase>
+<phrase>
+    <source>This device is part of a LVM volume group.</source>
+    <target>Ureðaj je dio LVM particijske grupe.</target>
+</phrase>
+<phrase>
+    <source>This device is an extended partition which contains logical partitions that cannot be deleted:
+
+</source>
+    <target>Ovaj uređaj je proširena particija koja sadrži logičke particije koje se ne mogu izbrisati:
+
+</target>
+</phrase>
+<phrase>
+    <source>You have not defined a root partition (/),which is required for installation of %s to continue.</source>
+    <target>Niste definirali root particiju (/), koja je potrebna za instalaciju%s da biste nastavili.</target>
+</phrase>
+<phrase>
+    <source>Your / partition is less than %(min)s MB which is lower than recommended for a normal %(productName)s install.</source>
+    <target>VAša / particija je manja od %(min)s MB što je manje od preporučenog za normalnu %(productName)s instalaciju.</target>
+</phrase>
+<phrase>
+    <source>Your %(mount)s partition is less than %(size)s megabytes which is lower than recommended for a normal %(productName)s install.</source>
+    <target>Vaša %(mount)s particija je manja od %(size)s  megabyte-a što je manje od preporučenog za normalnu %(productName)s instalaciju.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Due to the amount of memory present, a swap partition is required to complete installation.</source>
+    <target>Niste odredili swap particiju. Zbog trenutne količine memorije , swap particija je potrebna za dovršenje instalacije.</target>
+</phrase>
+<phrase>
+    <source>You have not specified a swap partition. Although not strictly required in all cases, it will significantly improve performancefor most installations.</source>
+    <target>Niste odredili swap particiju. Iako nije strogo potrebna u svim slučajevima, to će značajno poboljšati performance za većinu instalacija.</target>
+</phrase>
+<phrase>
+    <source>This mount point is invalid. The %s directory must be on the / file system.</source>
+    <target>Ova točka montiranja je neispravna. %s direktorij mora biti na / datotečnom sustavu.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s must be on a linux file system.</source>
+    <target>Točka montiranja %s mora biti na Linux datotečnom sustavu.</target>
+</phrase>
+<phrase>
+    <source>No Drives Found</source>
+    <target>Nijedan pogon nije pronaðen</target>
+</phrase>
+<phrase>
+    <source>An error has occurred - no valid devices were found on
+which to create new file systems. Please check your
+hardware for the cause of this problem.</source>
+    <target>Došlo je do pogreške - nisu pronađeni valjani uređaji na
+kojima se može stvarati nove datotečne sustave. Molimo provjerite
+hardware za uzrok ovog problema.</target>
+</phrase>
+<phrase>
+    <source>requested size exceeds maximum allowed</source>
+    <target>tražena veličina prelazi maksimalno dopuštenu</target>
+</phrase>
+<phrase>
+    <source>partition is too %(problem)s for %(format)s formatting</source>
+    <target>particija je previše %(problem)s za %(format)s formatiranje</target>
+</phrase>
+<phrase>
+    <source>not enough free space on disks</source>
+    <target>nema dovoljno slobodnog prostora na diskovima</target>
+</phrase>
+<phrase>
+    <source>not enough free space after creating extended partition</source>
+    <target>nema dovoljno slobodnog prostora nakon stvaranja proširene particije</target>
+</phrase>
+<phrase>
+    <source>not enough space for LVM requests</source>
+    <target>dovoljno mjesta za LVM zahtjev</target>
+</phrase>
+<phrase>
+    <source>Could not find enough free space for automatic
+partitioning, please use another partitioning method.</source>
+    <target>Ne mogu pronaći dovoljno slobodnog prostora za automatsko
+particioniranje. molimo Vas da koristite drugi način particioniranja.</target>
+</phrase>
+<phrase>
+    <source>Warnings During Automatic Partitioning</source>
+    <target>Upozorenja tijekom automatskog particioniranja</target>
+</phrase>
+<phrase>
+    <source>Following warnings occurred during automatic partitioning:
+
+%s</source>
+    <target>Slijedeća upozorenja dogodila su se tijekom automatskog particioniranja:
+
+%s</target>
+</phrase>
+<phrase>
+    <source>
+
+Press &apos;OK&apos; to exit the installer.</source>
+    <target>
+
+Kliknite &quot;U redu&quot; za izlazak iz instalera.</target>
+</phrase>
+<phrase>
+    <source>Could not allocate requested partitions: 
+%(msg)s.%(extra)s</source>
+    <target>Ne mogu dodijeliti zahtjevane particije: 
+%(msg)s.%(extra)s</target>
+</phrase>
+<phrase>
+    <source>Automatic Partitioning Errors</source>
+    <target>Greške automatskog particioniranja</target>
+</phrase>
+<phrase>
+    <source>The following errors occurred with your partitioning:
+
+%(errortxt)s
+
+This can happen if there is not enough space on your hard drive(s) for the installation. %(extra)s</source>
+    <target>Došlo je do slijedećih grešaka tijekom vašeg particioniranja::
+
+%(errortxt)s
+
+Ovo se može dogoditi ako nema dovoljno prostora na vašem tvrdom disku(ovima) za instalaciju. %(extra)s</target>
+</phrase>
+<phrase>
+    <source>Please enter a volume group name.</source>
+    <target>Unesite naziv particijske grupe.</target>
+</phrase>
+<phrase>
+    <source>Volume Group Names must be less than 128 characters</source>
+    <target>Imena particijske grupe moraju imati manje od 128 znakova</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name %s is not valid.</source>
+    <target>Pogreška - naziv particijske grupe %s nije valjan.</target>
+</phrase>
+<phrase>
+    <source>Error - the volume group name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Pogreška - naziv particijske grupe sadrži nedozvoljene znakove ili razmake. Prihvatljivi znakovi su slova, brojevi, &quot;.&quot; ili &apos;_&apos;.</target>
+</phrase>
+<phrase>
+    <source>Please enter a logical volume name.</source>
+    <target>Molimo unesite ime logičke particije.</target>
+</phrase>
+<phrase>
+    <source>Logical Volume Names must be less than 128 characters</source>
+    <target>Imena logičkih particija moraju biti manja od 128 znakova</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name %s is not valid.</source>
+    <target>Greška - ime logičke particije %s nije valjano.</target>
+</phrase>
+<phrase>
+    <source>Error - the logical volume name contains illegal characters or spaces.  Acceptable characters are letters, digits, &apos;.&apos; or &apos;_&apos;.</source>
+    <target>Greška - ime logičke particije sadrži nedopuštene znakove ili razmake. Prihvatljivi znakovi su slova, brojevi, &quot;.&quot; ili &apos;_&apos;.</target>
+</phrase>
+<phrase>
+    <source>Format as Swap?</source>
+    <target>Formatirati kao swap?</target>
+</phrase>
+<phrase>
+    <source>%s has a partition type of 0x82 (Linux swap) but does not appear to be formatted as a Linux swap partition.
+
+Would you like to format this partition as a swap partition?</source>
+    <target>%s ima particiju tipa 0x82 (Linux swap), ali ne čini se da je formatirana kao Linux swap particija.
+
+Želite li formatirati ovu particiju kao swap particiju?</target>
+</phrase>
+<phrase>
+    <source>You are about to delete all partitions on the device &apos;%s&apos;.</source>
+    <target>Spremate se izbrisati sve particije na uređaju %s&apos;.</target>
+</phrase>
+<phrase>
+    <source>Notice</source>
+    <target>Obavijest</target>
+</phrase>
+<phrase>
+    <source>The following partitions were not deleted because they are in use:
+
+%s</source>
+    <target>Sljedeće particije nisu izbrisane, jer su u uporabi:
+
+%s </target>
+</phrase>
+<phrase>
+    <source>Unable To Delete</source>
+    <target>Nije moguće izbrisati</target>
+</phrase>
+<phrase>
+    <source>You must first select a partition to delete.</source>
+    <target>Prvo morate odabrati particiju za brisanje.</target>
+</phrase>
+<phrase>
+    <source>The mount point %s is invalid.  Mount points must start with &apos;/&apos; and cannot end with &apos;/&apos;, and must contain printable characters and no spaces.</source>
+    <target>Točka montiranja %s nije valjana. Točke montiranja moraju početi s &apos;/&apos; i ne mogu završavati s &apos;/&apos;, i moraju sadržavati ispisive znakove i bez razmaka.</target>
+</phrase>
+<phrase>
+    <source>Error with Partitioning</source>
+    <target>Pogreška u particioniranju</target>
+</phrase>
+<phrase>
+    <source>The following critical errors exist with your requested partitioning scheme. These errors must be corrected prior to continuing with your install of %(productName)s.
+
+%(errorstr)s</source>
+    <target>Slijedeće kritične greške postoje na vašoj zahtjevanoj particijskoj shemi. Ove greške moraju biti ispravljene prije nego se nastavi sa instalacijom %(productName)s.
+
+%(errorstr)s</target>
+</phrase>
+<phrase>
+    <source>Partitioning Warning</source>
+    <target>Upozorenja particioniranja</target>
+</phrase>
+<phrase>
+    <source>The following warnings exist with your requested partition scheme.
+
+%s
+
+Would you like to continue with your requested partitioning scheme?</source>
+    <target>Postoje slijedeća upozorenja sa zahtjevanom shemom particioniranja.
+
+%s
+
+Želite li nastaviti sa zahtjevanom shemom particioniranja?</target>
+</phrase>
+<phrase>
+    <source>The following pre-existing partitions have been selected to be formatted, destroying all data.</source>
+    <target>Sljedeće već postojeće particije su odabrane za  formatiranje, uništavajući sve podatke</target>
+</phrase>
+<phrase>
+    <source>Select &apos;Yes&apos; to continue and format these partitions, or &apos;No&apos; to go back and change these settings.</source>
+    <target>Odaberite &apos;Da&apos; za nastavak i formatiranje ovih particija, ili &quot;Ne&quot; za vraćanje i promijenu ovih postavki.</target>
+</phrase>
+<phrase>
+    <source>Format Warning</source>
+    <target>Upozorenje formatiranja</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the volume group &quot;%s&quot;.
+
+ALL logical volumes in this volume group will be lost!</source>
+    <target>Spremate se izbrisati particijsku grupu &quot;%s&quot;.
+
+Sve logičke particije će biti izgubljene!</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the logical volume &quot;%s&quot;.</source>
+    <target>Spremate se izbrisati logičku particiju &quot;%s&quot;.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete a RAID device.</source>
+    <target>Spremate se izbrisati RAID uređaj.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %s partition.</source>
+    <target>Spremate se izbrisati %s particiju.</target>
+</phrase>
+<phrase>
+    <source>You are about to delete the %(type)s %(name)s</source>
+    <target>Spremate se izbrisati %(type)s %(name)s</target>
+</phrase>
+<phrase>
+    <source>Confirm Reset</source>
+    <target>Potvrdi vraćanje na izvorno</target>
+</phrase>
+<phrase>
+    <source>Are you sure you want to reset the partition table to its original state?</source>
+    <target>Jeste li sigurni da želite vratiti vašu particijsku tablicu na izvorno stanje?</target>
+</phrase>
+<phrase>
+    <source>You have chosen to use a pre-existing partition for this
+installation without formatting it. We recommend that you format
+this partition to make sure files from a previous operating system
+installation do not cause problems with this installation of Linux.
+However, if this partition contains files that you need to keep,
+such as home directories, then continue without formatting this
+npartition.</source>
+    <target>Izabrali ste već postojeću particiju za ovu
+instalaciju bez da ste je formatirali.Preporučujemo da formatirate
+ovu particiju da biste bili sigurni da datoteke prethodnog operativnog sustava
+neće uzrokovati probleme ovoj instalaciji Linuxa.
+Međutim,ako ova particija sadrži datoteke koji želitesačuvati,
+kao što je osobna mapa,tada nastavite be3t formatiranja ove
+particije.</target>
+</phrase>
+<phrase>
+    <source>Format?</source>
+    <target>Formatirati?</target>
+</phrase>
+<phrase>
+    <source>Do Not Format</source>
+    <target>Nemoj formatirati</target>
+</phrase>
+<phrase>
+    <source>Partitions of type &apos;%s&apos; must be constrained to a
+single drive.  To do this, select the drive in the &apos;Allowable Drives&apos;
+checklist.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Storage Device Warning</source>
+    <target>Upozorenje uređaja za pohranu</target>
+</phrase>
+<phrase>
+    <source>The following storage device may contain recoverable data:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;This device may have data that will be &lt;b&gt;permanently lost&lt;/b&gt; if you include it in this installation.&lt;br&gt;&lt;br&gt;If you don&apos;t care about any data on this device, choose &lt;b&gt;Reset device&lt;/b&gt; to include it in the installation process.&lt;br&gt;&lt;br&gt;If you don&apos;t want the device to be permanently erased, select &lt;b&gt;Ignore device&lt;/b&gt; and the device will not be considered as a possible installation target.</source>
+    <target>Slijedeći uređaj za pohranu možda sadrži podatke koji se mogu vratiti:&lt;br&gt;&lt;br&gt;%(description)s (%(size)s MB)&lt;br&gt;&lt;br&gt;Ovaj uređaj ,možda ima podatke koji će biti &lt;b&gt;trajno izgubljeni&lt;/b&gt; ako ga uključite u ovu instalaciju.&lt;br&gt;&lt;br&gt;Ako ne marite za podatke na ovom uređaju odaberite &lt;b&gt;Ponovno namjesti uređaj&lt;/b&gt; da biste ga uključili u instalacijski proces.&lt;br&gt;&lt;br&gt;Ako ne želite da uređaj bude trajno izbrisan.odaberite &lt;b&gt;Zanemari uređaj&lt;/b&gt; i uređaj neće biti smatran kao moguća instalacijska meta.</target>
+</phrase>
+<phrase>
+    <source>Reset device</source>
+    <target>Ponovno namjesti uređaj</target>
+</phrase>
+<phrase>
+    <source>Ignore device</source>
+    <target>Zanemari uređaj</target>
+</phrase>
+<phrase>
+    <source>There is inconsistent LVM data on %(msg)s. You can reinitialize all related PVs (%(pvs)s) which will erase the LVM metadata, or ignore which will preserve thecontents.This action may also be applied to all other PVs with inconsistent metadata.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Yes, re-initialize</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>No, protect data</source>
+    <target>Ne, zaštiti podatake</target>
+</phrase>
+<phrase>
+    <source>Disk contains %(members_count)s BIOS RAID metadata, but is not part of any recognized BIOS RAID sets. Ignoring disk %(members)s.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Invalid mount point</source>
+    <target>Neispravna točku montiranja</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %s.  Some element of this path is not a directory. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Došlo je do greške prilikom pokušaja stvaranja %s. Neki element ove putanje nije direktorij.Ovo je kritična greška i instalacija se ne može nastaviti.
+
+
+Pritisnite &lt;Enter&gt; a izlazak iz instalacijskog programa.</target>
+</phrase>
+<phrase>
+    <source>An error occurred when trying to create %(mountpoint)s: %(msg)s.  This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Došlo je do greške prilikom pokušaja stvaranja %(mountpoint)s: %(msg)s.  Ovo je kritična greška i instalacija se ne može nastaviti.
+
+Pritisnite &lt;Enter&gt; za izlazak iz instalacijskog programa.</target>
+</phrase>
+<phrase>
+    <source>Unable to mount filesystem</source>
+    <target>Nije moguće montiranje datotečnog sustava</target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s.  You may continue installation, but there may be problems.</source>
+    <target>Došlo je do greške prilikom montiranja uređaja %(path)s kao %(mountpoint)s.Možete nastaviti sa instalacijom, ali može doći do problema.</target>
+</phrase>
+<phrase>
+    <source>An error occurred mounting device %(path)s as %(mountpoint)s: %(msg)s. This is a fatal error and the install cannot continue.
+
+Press &lt;Enter&gt; to exit the installer.</source>
+    <target>Došlo je do greške prilikom montiranja uređaja %(path)s kao %(mountpoint)s: %(msg)s.Ovo je kritična greška i instalacija se ne može nastaviti.
+
+Pritisnite &lt;Enter&gt; za izlazak iz instalacijskog programa.</target>
+</phrase>
+<phrase>
+    <source>Skip</source>
+    <target>Preskoči</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+is an old-style Linux swap partition.  If you want to use this device for swap space, you must reformat as a new-style Linux swap partition.</source>
+    <target>Swap uređaj:
+
+     %s
+
+je Linux swap particija staroga stila.  Ako želite koristiti ovaj uređaj za swap prostor,morate reformatirati kao Linux swap particiju novoga stila.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+in your /etc/fstab file is currently in use as a software suspend device, which means your system is hibernating. If you are performing a new install, make sure the installer is set to format all swap devices.</source>
+    <target>Swap uređaj:
+
+     %s
+
+u vašoj /etc/fstab datoteci trenutno služi kao uređaj za suspenziju software-a,što znači da vaš sustav hibernira.Ako vršite novu instalaciju budite sigurni da je instalacijski program postavljen da formatira sve swap uređaje.</target>
+</phrase>
+<phrase>
+    <source>The swap device:
+
+     %s
+
+does not contain a supported swap volume.  In order to continue installation, you will need to format the device or skip it.</source>
+    <target>Swap uređaj:
+
+     %s
+
+ne sadrži podržanu swap particiju.Ako želite nastaviti instalaciju,morate formatirati uređaj ili ga preskočiti.</target>
+</phrase>
+<phrase>
+    <source>Error enabling swap device %(name)s: %(msg)s&lt;br&gt;&lt;br&gt;This most likely means this swap device has not been initialized.&lt;br&gt;&lt;br&gt;Press OK to exit the installer.</source>
+    <target>Greška pri omogućavanju swap uređaja %(name)s: %(msg)s&lt;br&gt;&lt;br&gt;Ovo najvjerojatnije znači da swap uređaj nije iniciran.&lt;br&gt;&lt;br&gt;Pritisni U redu za izlazak iz instalacijskog programa.</target>
+</phrase>
+<phrase>
+    <source>You have not created a bootable partition.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a logical volume.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on a raid array.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bootable partitions cannot be on an %s filesystem.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Ignoring noauto entry</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Failed to resolve %s (%s) from fstab</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unrecognized filesystem type for %s (%s)</source>
+    <target>Neprepoznati datotečni sustav za %s (%s)</target>
+</phrase>
+<phrase>
+    <source>Scanned format (%s) differs from fstab format (%s)</source>
+    <target>Pregledani format (%s) razlikuje se od fstab formata (%s)</target>
+</phrase>
+<phrase>
+    <source>Cannot open %s for read</source>
+    <target>Ne mogu otvoriti %s za čitanje</target>
+</phrase>
+<phrase>
+    <source>Fstab entry %s is malformed: %s</source>
+    <target>Fstab unos %s je neispravan: %s</target>
+</phrase>
+<phrase>
+    <source>Creating file %s</source>
+    <target>Stvaram datoteku %s</target>
+</phrase>
+<phrase>
+    <source>Creating device %s</source>
+    <target>Stvaram uređaj %s</target>
+</phrase>
+<phrase>
+    <source>device has not been created</source>
+    <target>uređaj nije stvoren</target>
+</phrase>
+<phrase>
+    <source>cannot activate VG with missing PV(s)</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>vginfo failed for %s</source>
+    <target>vginfo nije uspio za %s</target>
+</phrase>
+<phrase>
+    <source>lvs failed for %s</source>
+    <target>lvs nije uspio za %s</target>
+</phrase>
+<phrase>
+    <source>partition table</source>
+    <target>particijska tablicu</target>
+</phrase>
+<phrase>
+    <source>dm-raid member device</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unknown return code: %d.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Migrating %s filesystem on %s</source>
+    <target>Premještanje %s datotečnog sustava na %s</target>
+</phrase>
+<phrase>
+    <source>Creating %(type)s filesystem on %(device)s</source>
+    <target>Stvaram %(type)s datotečni sustav na %(device)s</target>
+</phrase>
+<phrase>
+    <source>Resizing filesystem on %s</source>
+    <target>Promjena veličine datotečnog sustava na %s</target>
+</phrase>
+<phrase>
+    <source>Checking filesystem on %s</source>
+    <target>Provjera datotečnog sustava na %s</target>
+</phrase>
+<phrase>
+    <source>%(type)s filesystem check failure on %(device)s: </source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Errors like this usually mean there is a problem with the filesystem that will require user interaction to repair. Restart installation after you have corrected the problems on the filesystem.</source>
+    <target>Pogreške poput ovih obično znače da postoji problem s datotečnom sustavom koje zahtjevaju popravak. Ponovno pokrenite instalaciju nakon što ste ispravili probleme sa datotečnim sustavom.</target>
+</phrase>
+<phrase>
+    <source>Unrecoverable Error</source>
+    <target>Nepopravljiva greška</target>
+</phrase>
+<phrase>
+    <source>File system errors left uncorrected.</source>
+    <target>Pogreške datotečnog sustava ostale su neispravljene.</target>
+</phrase>
+<phrase>
+    <source>Operational error.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Usage or syntax error.</source>
+    <target>Greška upotrebe ili sintakse.</target>
+</phrase>
+<phrase>
+    <source>e2fsck cancelled by user request.</source>
+    <target>e2fsck otkazan na zahtjev korisnika.</target>
+</phrase>
+<phrase>
+    <source>Shared library error.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recoverable errors have been detected or dosfsck has discovered an internal inconsistency.</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Usage error.</source>
+    <target>Greška korištenja.</target>
+</phrase>
+<phrase>
+    <source>physical volume (LVM)</source>
+    <target>fizička particija (LVM)</target>
+</phrase>
+<phrase>
+    <source>software RAID</source>
+    <target>software RAID</target>
+</phrase>
+<phrase>
+    <source>Turkish</source>
+    <target>Turski</target>
+</phrase>
+<phrase>
+    <source>Turkish F</source>
+    <target>Turski F</target>
+</phrase>
+<phrase>
+    <source>Turkish Q</source>
+    <target>Turski Q</target>
+</phrase>
+<phrase>
+    <source>English</source>
+    <target>Engleski</target>
+</phrase>
+<phrase>
+    <source>English GB</source>
+    <target>Engleski GB</target>
+</phrase>
+<phrase>
+    <source>Greek</source>
+    <target>Grčki</target>
+</phrase>
+<phrase>
+    <source>Afrikaans</source>
+    <target>Afrikaans</target>
+</phrase>
+<phrase>
+    <source>Vietnamese</source>
+    <target>Vijetnamski</target>
+</phrase>
+<phrase>
+    <source>Catalan</source>
+    <target>Katalonski</target>
+</phrase>
+<phrase>
+    <source>Italian</source>
+    <target>Talijanski</target>
+</phrase>
+<phrase>
+    <source>Czech</source>
+    <target>Češki</target>
+</phrase>
+<phrase>
+    <source>Welsh</source>
+    <target>Velški</target>
+</phrase>
+<phrase>
+    <source>Arabic</source>
+    <target>Arapski</target>
+</phrase>
+<phrase>
+    <source>Estonian</source>
+    <target>Estonski</target>
+</phrase>
+<phrase>
+    <source>Spanish</source>
+    <target>Španjolski</target>
+</phrase>
+<phrase>
+    <source>Russian</source>
+    <target>Ruski</target>
+</phrase>
+<phrase>
+    <source>Dutch</source>
+    <target>Nizozemski</target>
+</phrase>
+<phrase>
+    <source>Portuguese</source>
+    <target>Portugalski</target>
+</phrase>
+<phrase>
+    <source>Norwegian</source>
+    <target>Norveški</target>
+</phrase>
+<phrase>
+    <source>Icelandic</source>
+    <target>Islandski</target>
+</phrase>
+<phrase>
+    <source>Polish</source>
+    <target>Poljski</target>
+</phrase>
+<phrase>
+    <source>Belgium</source>
+    <target>Belgijski</target>
+</phrase>
+<phrase>
+    <source>French</source>
+    <target>Francuski</target>
+</phrase>
+<phrase>
+    <source>Bulgarian</source>
+    <target>Bugarski</target>
+</phrase>
+<phrase>
+    <source>Slovenian</source>
+    <target>Slovenski</target>
+</phrase>
+<phrase>
+    <source>Croatian</source>
+    <target>Hrvatski</target>
+</phrase>
+<phrase>
+    <source>German</source>
+    <target>Njemački</target>
+</phrase>
+<phrase>
+    <source>Danish</source>
+    <target>Danski</target>
+</phrase>
+<phrase>
+    <source>Brazilian</source>
+    <target>Brazilski</target>
+</phrase>
+<phrase>
+    <source>Finnish</source>
+    <target>Finski</target>
+</phrase>
+<phrase>
+    <source>Hungarian</source>
+    <target>Mađarski</target>
+</phrase>
+<phrase>
+    <source>Japanese</source>
+    <target>Japanski</target>
+</phrase>
+<phrase>
+    <source>Malayalam</source>
+    <target>Malajski</target>
+</phrase>
+<phrase>
+    <source>Swedish</source>
+    <target>Švedski</target>
+</phrase>
+<phrase>
+    <source>Macedonian</source>
+    <target>Makedonski</target>
+</phrase>
+<phrase>
+    <source>Slovak</source>
+    <target>Slovački</target>
+</phrase>
+<phrase>
+    <source>Ukrainian</source>
+    <target>Ukrajinski</target>
+</phrase>
+<phrase>
+    <source>Serbian</source>
+    <target>Srpski</target>
+</phrase>
+<phrase>
+    <source>Preparing home directory for %s...</source>
+    <target>Pripremam osobnu mapu za %s...</target>
+</phrase>
+<phrase>
+    <source>Release file is missing</source>
+    <target>Nedostaje datoteka izdanja</target>
+</phrase>
+<phrase>
+    <source>Release file is inconsistent</source>
+    <target>Datoteka izdanja nije konzistentna</target>
+</phrase>
+<phrase>
+    <source>Invalid xml file</source>
+    <target>Neispravna xml datoteka</target>
+</phrase>
+</QPH>
