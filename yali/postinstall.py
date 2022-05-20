@@ -62,10 +62,12 @@ def initbaselayout():
     yali.util.cp("usr/share/baselayout/ld.so.conf", "etc/ld.so.conf")
 
     # /etc/passwd, /etc/shadow, /etc/group
-    yali.util.cp("usr/share/baselayout/passwd", "etc/passwd")
-    yali.util.cp("usr/share/baselayout/shadow", "etc/shadow")
-    os.chmod(os.path.join(ctx.consts.target_dir, "etc/shadow"), 0o600)
-    yali.util.cp("usr/share/baselayout/group", "etc/group")
+
+    # aşağıdaki 4 satır 20-05-2022 tarihinde kapatıldı
+    #yali.util.cp("usr/share/baselayout/passwd", "etc/passwd")
+    #yali.util.cp("usr/share/baselayout/shadow", "etc/shadow")
+    #os.chmod(os.path.join(ctx.consts.target_dir, "etc/shadow"), 0o600)
+    #yali.util.cp("usr/share/baselayout/group", "etc/group")
 
     # create empty log file
     yali.util.touch("var/log/lastlog")
