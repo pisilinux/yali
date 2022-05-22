@@ -133,7 +133,9 @@ class User:
         dm = "kdm"
         # set dm conf file
         if os.path.exists("/usr/bin/sddm"):
-            dm_conf = "etc/sddm.conf"
+            #22052022 tarihinde değiştirildi
+            #dm_conf = "etc/sddm.conf"
+            dm_conf = "usr/lib/sddm/sddm.conf.d/sddm.conf"
             dm = "sddm"
         elif os.path.exists("/usr/sbin/lxdm"):
             dm_conf = "etc/lxdm/lxdm.conf"
@@ -192,7 +194,8 @@ class User:
         elif dm == "sddm": # FIXME: plasma için ayarlandı
             section = "[Autologin]"
             auto_login_defaults['User'] = self.username if state else ""
-            auto_login_defaults['Session'] = "plasma.desktop" if state else ""
+            #22052022 tarihinde değiştirildi
+            #auto_login_defaults['Session'] = "plasma.desktop" if state else ""
         elif dm == "lxdm":
             section = "[base]"
             auto_login_defaults['autologin'] = self.username if state else ""
