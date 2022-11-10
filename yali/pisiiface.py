@@ -284,7 +284,7 @@ def configurePending():
     # Make baselayout configure first
     pisi.api.configure_pending(['baselayout'])
     # And all of pending packages
-    pisi.api.configure_pending()
+    pisi.api.configure_pending()   
     os.unlink(ctx.consts.target_dir + ctx.consts.target_dir)
 
 
