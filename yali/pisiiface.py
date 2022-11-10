@@ -285,6 +285,8 @@ def configurePending():
     pisi.api.configure_pending(['baselayout'])
     # And all of pending packages
     pisi.api.configure_pending()
+    # configure gdm 09-11-2022 
+    pisi.api.configure_pending(['gdm'])
     os.unlink(ctx.consts.target_dir + ctx.consts.target_dir)
 
 
